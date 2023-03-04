@@ -1,0 +1,28 @@
+{
+  "providers": [
+    {
+      "type": "space",
+      "advances": {
+        " ": 4,
+        "\u200C": 0
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "figura:font/emojis/references.png",
+      "ascent": 8,
+      "chars": [
+        "\uE000\uE001\uE102\uE003\uE004\uE005\uE106\uE107",
+        "\uE108\uE109\uE10a\uE00b\uE00c\u0000\u0000\u0000",
+        "\uE00d\uE00e\uE00f\uE010\uE011\uE012\u0000\u0000",
+        "\uE013\uE014\uE015\uE016\uE017\uE018\uE019\uE01a",
+        "\uE01b\uE01c\uE01d\uE01e\uE01f\uE020\uE021\uE022",
+        "\uE023\uE024\uE025\uE026\uE027\uE028\uE029\uE02a",
+        "\uE02b\uE02c\uE02d\uE02e\uE02f\uE030\uE031\u0000",
+        "\uE032\uE033\uE034\uE035\uE036\uE037\uE038\uE039",
+        "\uE03a\uE03b\uE03c\uE03d\uE03e\uE03f\uE040\u0000",
+        "\uE041\uE042\uE043\uE044\uE045\uE046\u0000\u0000"
+      ]
+    }
+  ]
+}
