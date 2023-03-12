@@ -6,24 +6,31 @@
       "🐬": ["trans_shark"],
       "🐛": ["moth"],
       "🦋": ["butterfly"],
+      
       "🦐": ["shrimp"],
       "🦀": ["crab"],
       "🦞": ["lobster"],
       "🔵": ["blue_lobster"],
+      
       "🐙": ["octopus"],
       "🐧": ["penguin"],
       "🐺": ["wolf"],
       "🦊": ["fox"],
+      
       "😼": ["black_cat"],
       "🐱": ["cat_face"],
       "🐈": ["cat"],
       "🐇": ["bunny"],
+      
       "🥗": ["axolotl"],
       "🐳": ["whale"],
       "🐢": ["turtle"],
       "🐣": ["hatching_chick"],
+      
       "🐉": ["dragon"],
       "🦆": ["duck"]
+      
+      
     }
   },
   "cuties": {
@@ -33,23 +40,453 @@
       "\uE001": ["forseir"],
       "\uE002": ["slymeball"],
       "\uE003": ["toastcraft"],
+      
       "\uE004": ["perry"],
       "\uE005": ["electric"],
       "\uE006": ["jepril"],
       "\uE007": ["campbell"],
+      
       "\uE008": ["skyrina"],
       "\uE009": ["amelia"],
       "\uE00A": ["tsuki2"],
       "\uE00B": ["tsuki"],
+      
       "\uE00C": ["fran"],
       "\uE00D": ["limits"],
       "\uE00E": ["campbell2"],
       "\uE00F": ["lexie"],
+      
       "\uE010": ["serena"],
       "\uE011": ["auria"],
       "\uE012": ["katt"],
       "\uE013": ["toastcraft2"],
+      
       "\uE014": ["auria2"]
+      
+      
+      
+    }
+  },
+  "emoji": {
+    "blacklist": "",
+    "emojis": {
+      "🙂":  ["slight_smile"],
+      "😃":  ["smiley"],
+      "😄":  ["smile"],
+      "😊":  ["blush"],
+      "😇":  ["innocent"],
+      "🥹":  ["face_holding_back_tears"],
+      "🤩":  ["star_struck"],
+      "🥳":  ["partying_face"],
+
+      "😎":  ["sunglasses"],
+      "🤠":  ["cowboy"],
+      "\uE000":  ["mlg_glasses"],
+      "🤑":  ["money_mouth"],
+      "\uE001":  ["ayo"],
+      "\uE002":  ["anime_glasses"],
+      "\uE003":  ["incognito"],
+      "\uE004":  ["guy_fawkes", "anonymous"],
+
+      "😉":  ["wink"],
+      "\uE005":  ["pleased"],
+      "😍":  ["heart_eyes"],
+      "😘":  ["kissing_heart"],
+      "😙":  ["kissing_smiling_eyes"],
+      "😳":  ["flushed"],
+      "\uE006":  ["eager"],
+      "😏":  ["smirk"],
+
+      "😖":  ["confounded"],
+      "\uE007":  ["uwu"],
+      "🥺":  ["pleading_face"],
+      "😩":  ["weary"],
+      "🥴":  ["woozy_face"],
+      "💫":  ["face_with_spiral_eyes"],
+      "\uE008":  ["owo"],
+      "\uE009":  ["uwu_eager"],
+
+      "😋":  ["yum"],
+      "😛":  ["stuck_out_tongue"],
+      "😝":  ["stuck_out_tongue_closed_eyes"],
+      "😜":  ["stuck_out_tongue_winking_eye"],
+      "🤪":  ["zany_face"],
+      "\uE00A":  ["silly","stuck_out_tongue_smiling"],
+      "\uE00B":  ["LMAO", "lmao"],
+      "\uE00C":  ["fake_dead"],
+
+      "🤔":  ["thinking"],
+      "🙃":  ["upside_down"],
+      "🤨":  ["face_with_raised_eyebrow"],
+      "🧐":  ["face_with_monocle"],
+      "🤫":  ["shushing_face"],
+      "\uE00D":  ["confused"],
+      "\uE00E":  ["raised_eyebrow"],
+      "\uE00F":  ["woozy_melt"],
+
+      "👀":  ["eyes"],
+      "😮":  ["open_mouth"],
+      "😱":  ["scream"],
+      "🤯":  ["exploding_head"],
+      "😵":  ["dizzy_face"],
+      "🫠":  ["melting_face"],
+      "🫢":  ["face_with_open_eyes_and_hand_over_mouth"],
+      "😬":  ["grimacing"],
+
+      "🙄":  ["rolling_eyes"],
+      "💨":  ["face_exhaling"],
+      "😅":  ["sweat_smile"],
+      "😓":  ["sweat"],
+      "😠":  ["angry"],
+      "😡":  ["rage"],
+      "🤬":  ["face_with_symbols_over_mouth"],
+      "\uE010":  ["screaming_angry"],
+
+      "\uE011":  ["tear"],
+      "😢":  ["cry"],
+      "😨":  ["fearful"],
+      "😥":  ["disappointed_relieved"],
+      "😭":  ["sob"],
+      "\uE012":  ["crying_pancake"],
+      "\uE013":  ["almost_crying"],
+      "\uE014":  ["crying_loudly"],
+
+      "\uE015":  ["unamused"],
+      "\uE016":  ["slight_forwn"],
+      "\uE017":  ["disgusted"],
+      "\uE018":  ["pensive"],
+      "\uE019":  ["shocked"],
+      "\uE01A":  ["frown"],
+      "\uE01B":  ["annoyed"],
+      "🤢":  ["nauseated_face"],
+
+      "🤮":  ["face_vomiting"],
+      "\uE01C":  ["hurt"],
+      "😷":  ["mask"],
+      "\uE01D":  ["thermometer"],
+      "\uE01E":  ["sick"],
+      "\uE01F":  ["holding_back_vomit"],
+      "\uE020":  ["fever"],
+      "\uE021":  ["embarassed"],
+
+      "😶":  ["no_mouth"],
+      "😑":  ["expressionless"],
+      "🫤":  ["face_with_diagonal_mouth"],
+      "😐":  ["neutral_face"],
+      "🤐":  ["zipper_mouth"],
+      "\uE100":  ["face_in_clouds"],
+      "👽":  ["alien"],
+      "😲":  ["astonished"],
+
+      "😤":  ["triumph"],
+      "\uE022":  ["pog"],
+      "🤓":  ["nerd"],
+      "🤡":  ["clown"],
+      "🥶":  ["cold_face"],
+      "😈":  ["smiling_imp"],
+      "🤥":  ["lying_face"],
+      "🥵":  ["hot_face"],
+
+      "🥱":  ["yawning_face"],
+      "🫡":  ["saluting_face"],
+      "😴":  ["sleeping"],
+      "\uE023":  ["holding_back_laugh"],
+      "\uE024":  ["thumbs_up_smiley"],
+      "\uE025":  ["angry1"],
+      "\uE026":  ["angry2"],
+      "\uE027":  ["skill_issue"],
+
+      "\uE028":  ["biba_annoyed"],
+      "\uE029":  ["biba_sunglasses"],
+      "\uE02A":  ["biba_cry"],
+      "\uE02B":  ["biba_angry"],
+      "\uE02C":  ["biba_smile"],
+      "\uE02D":  ["biba_shocked"],
+      "\uE02E":  ["biba_happy"],
+      "\uE02F":  ["biba_eye"],
+
+      "\uE030":  ["biba_yawn"],
+      "\uE031":  ["biba_yum"],
+      "\uE032":  ["biba_blush"],
+      "\uE033":  ["biba_worried"],
+      "\uE034":  ["biba_loving"],
+      "\uE035":  ["biba_unamused"],
+      "\uE036":  ["biba_dizzy"],
+      "\uE037":  ["biba_eyebrow"],
+
+      "\uE038":  ["biba_wink"],
+      "\uE039":  ["biba_big_smile"],
+      "\uE03A":  ["biba_perplexed"],
+      "\uE03B":  ["biba_woozy"],
+      "\uE03C":  ["biba_confused"],
+      "\uE03D":  ["biba_stern"],
+      "\uE03E":  ["biba_furious"],
+      "\uE03F":  ["biba_sleepy"],
+
+      "\uE040":  ["biba_uwu"]
+      
+      
+      
+      
+      
+      
+      
+    }
+  },
+  "food": {
+    "blacklist": "",
+    "emojis": {
+      "🧀": ["cheese"],
+      "🥖": ["french_bread", "loaf"],
+      "🍔": ["hamburger","burger"],
+      "🍌": ["banana"],
+      "🍖": ["meat_on_bone","meat"],
+      
+      "🫙": ["mayonnaise"],
+      "🥪": ["toast", "sandwich"],
+      "🥚": ["egg"],
+      "🍰": ["cake"],
+      "🎂": ["birthday"],
+      
+      "🧃": ["beverage_box","juice"],
+      "🍱": ["bento", "lunchbox"],
+      "🍣": ["sushi"],
+      "🍙": ["rice_ball","onigiri"],
+      "🥕": ["carrot"],
+      
+      "🍅": ["tomato"],
+      "🍵": ["tea", "coffee"],
+      "🍓": ["strawberry"],
+      "🍪": ["cookie"],
+      "🍦": ["icecream"],
+      
+      "🍕": ["pizza"],
+      "🍬": ["candy"],
+      "\uE000": ["sugar"],
+      "\uE001": ["lollipop_fran"],
+      "🍭": ["lollipop"],
+      
+      "🍒": ["cherries","cherry"]
+      
+      
+      
+      
+    }
+  },
+  "memes": {
+    "blacklist": "",
+    "emojis": {
+      "\uE000": ["troll"],
+      "\uE001": ["stonks"],
+      "\uE002": ["no_stonks"],
+      "\uE003": ["smooth_brain"],
+      
+      "\uE004": ["shrek"],
+      "\uE005": ["rick_astley_feet","nggyu"],
+      "\uE006": ["loss"],
+      "\uE007": ["arthur_first"],
+      
+      "\uE008": ["forge_support"]
+      
+      
+      
+    }
+  },
+  "nature": {
+    "blacklist": "",
+    "emojis": {
+      "🍀": ["hi_im_new"],
+      "🔥": ["fire"],
+      "🔵": ["blue_fire"],
+      "🟢": ["green_fire"],
+      
+      "🌘": ["kotm"],
+      "🌑": ["darkness","void"],
+      "⚡": ["electric"],
+      "💨": ["dash"],
+      
+      "⚜": ["fleur_de_lis"],
+      "🌳": ["tree"],
+      "✨": ["sparkles"]
+      
+    }
+  },
+  "objects": {
+    "blacklist": "",
+    "emojis": {
+      "📷": ["camera"],
+      "🎷": ["saxophone"],
+      "♟": ["chess_pawn"],
+      "💎": ["gem","diamond"],
+      "🗿": ["moyai"],
+      "🐾": ["feet","paws"],
+
+      "🥄": ["spoon"],
+      "\uE000": ["fork"],
+      "🍴": ["fork_and_knife","forknife"],
+      "🔪": ["knife"],
+      "🎶": ["notes"],
+      "💿": ["cd"],
+
+      "🏮": ["izakaya_lantern"],
+      "🦇": ["bat"],
+      "🪄": ["magic_wand"],
+      "✂": ["scissors"],
+      "📼": ["cassette"],
+      "🎹": ["musical_keyboard"],
+
+      "💸": ["money"],
+      "🔫": ["gun"],
+      "🔈": ["speaker"],
+      "🔉": ["sound"],
+      "🔊": ["loud_sound"],
+      "🧶": ["yarn"],
+
+      "🪦": ["grave", "headstone"],
+      "\uE001": ["bloon"],
+      "🎈": ["balloon"],
+
+
+
+
+      "🎩": ["top_hat"],
+      "👑": ["crown"],
+      "\uE002": ["fez"],
+      "\uE003": ["witch_hat"],
+
+
+
+      "🕛": ["clock12"],
+      "🕐": ["clock1"],
+      "🕑": ["clock2"],
+      "🕒": ["clock3"],
+      "🕓": ["clock4"],
+      "🕔": ["clock5"],
+
+      "🕕": ["clock6"],
+      "🕖": ["clock7"],
+      "🕗": ["clock8"],
+      "🕘": ["clock9"],
+      "🕙": ["clock10"],
+      "🕚": ["clock11"]
+    }
+  },
+  "people": {
+    "blacklist": "",
+    "emojis": {
+      "💀": ["skull"],
+      "\uE000": ["flushed_skull"],
+      "🧠": ["brain"],
+      "🫀": ["anatomical_heart"],
+
+      "🫶": ["heart_hands"],
+      "👍": ["+1"],
+      "👎": ["-1"],
+      "👏": ["clap"],
+      
+      "👋": ["wave"],
+      "🤚": ["back_of_hand"],
+      "👌": ["ok_hand"],
+      "👀": ["eyes"],
+      
+      "🤝": ["handshake"],
+      "🫂": ["people_hugging"],
+      "👽": ["alien"],
+      "👺": ["japanese_goblin"]
+    }
+  },
+  "references": {
+    "blacklist": "",
+    "emojis": {
+      "\uE000": ["sus","among_us"],
+      "\uE001": ["sus_dead","imposter"],
+      "\uE102": ["vbucks"],
+      "\uE003": ["baba"],
+      "\uE004": ["spongebob"],
+      "\uE005": ["sonic"],
+      "\uE106": ["time_bomb"],
+      "\uE107": ["looks_to_the_moon"],
+
+      "\uE108": ["hämis"],
+      "\uE109": ["lopunny"],
+      "\uE10a": ["tomato_with_eyes_from_kirby"],
+      "\uE00b": ["nether_portal","portal"],
+      "\uE00c": ["creeper"],
+
+
+
+
+      "\uE00d": ["kirby"],
+      "\uE00e": ["pink_slime"],
+      "\uE00f": ["tabby_slime"],
+      "\uE010": ["honey_slime"],
+      "\uE011": ["v1"],
+      "\uE012": ["r6_mute"],
+
+
+
+      "\uE013": ["sandopede_tail", "sub_sandopede_tail"],
+      "\uE014": ["sub_sandopede", "sub_sandopede1"],
+      "\uE015": ["sub_sandopede2"],
+      "\uE016": ["sub_sandopede3"],
+      "\uE017": ["sandopede"],
+      "\uE018": ["strabby"],
+      "\uE019": ["bunger"],
+      "\uE01a": ["bunger_royale"],
+
+      "\uE01b": ["red_bloon"],
+      "\uE01c": ["blue_bloon"],
+      "\uE01d": ["green_bloon"],
+      "\uE01e": ["yellow_bloon"],
+      "\uE01f": ["pink_bloon"],
+      "\uE020": ["black_bloon"],
+      "\uE021": ["white_bloon"],
+      "\uE022": ["purple_bloon"],
+
+      "\uE023": ["lead_bloon"],
+      "\uE024": ["camo_bloon"],
+      "\uE025": ["rainbow_bloon"],
+      "\uE026": ["ceramic_bloon"],
+      "\uE027": ["moab"],
+      "\uE028": ["bfb"],
+      "\uE029": ["zomg"],
+      "\uE02a": ["ddt"],
+
+      "\uE02b": ["bad"],
+      "\uE02c": ["blonarious"],
+      "\uE02d": ["lych"],
+      "\uE02e": ["vortex"],
+      "\uE02f": ["dreadbloon"],
+      "\uE030": ["farm"],
+      "\uE031": ["monkey"],
+      
+
+      "\uE032": ["space_invader1"],
+      "\uE033": ["space_invader2"],
+      "\uE034": ["space_invader3"],
+      "\uE035": ["space_invader4"],
+      "\uE036": ["space_invader5"],
+      "\uE037": ["space_invader6"],
+      "\uE038": ["space_invader7"],
+      "\uE039": ["space_invader8"],
+
+      "\uE03a": ["pacman"],
+      "\uE03b": ["red_ghost"],
+      "\uE03c": ["pink_ghost"],
+      "\uE03d": ["blue_ghost"],
+      "\uE03e": ["orange_ghost"],
+      "\uE03f": ["white_ghost"],
+      "\uE040": ["purple_ghost"],
+
+
+      "\uE041": ["uno_select_color"],
+      "\uE042": ["uno_take_2"],
+      "\uE043": ["uno_take_4"],
+      "\uE044": ["uno_reverse"],
+      "\uE045": ["uno_skip"],
+      "\uE046": ["uno_number"]
+      
+      
     }
   },
   "symbols": {
@@ -59,18 +496,22 @@
       "💤": ["nini"],
       "⬆": ["this"],
       "💯": ["100"],
+      
       "🌑": ["lua"],
       "△": ["mark"],
       "📞": ["whatsapp"],
       "🕹": ["minecraft"],
+      
       "🧵": ["quilt"],
       "👘": ["fabric"],
       "🎏": ["koinobori"],
-      "⚧️": ["transgender"],
+      "⚧": ["transgender"],
+      
       "🖱": ["click"],
       "🖲": ["pointer"],
       "🔔": ["taco_bell"],
       "🔺": ["cone"],
+      
       "1": ["1bar"],
       "2": ["2bar"],
       "3": ["3bar"],
