@@ -2,31 +2,31 @@
   "animals": {
     "blacklist": "",
     "emojis": {
-      "🦈": ["shark"],
-      "🐬": ["trans_shark"],
-      "🐛": ["moth"],
+      "🦈": ["blahaj", "ikea_shark", "shark", "blåhaj"],
+      "🐬": ["trans_shark", "transgender_blahaj", "trans_blahaj"],
+      "🐛": ["moff", "moth"],
       "🦋": ["butterfly"],
-      
+
       "🦐": ["shrimp"],
       "🦀": ["crab"],
       "🦞": ["lobster"],
-      "🔵": ["blue_lobster"],
-      
+      "🔵": ["blue_lobster", "lobster2"],
+
       "🐙": ["octopus"],
-      "🐧": ["penguin"],
-      "🐺": ["wolf"],
-      "🦊": ["fox"],
-      
-      "😼": ["black_cat"],
-      "🐱": ["cat_face"],
+      "🐧": ["penguin", "linux"],
+      "🐺": ["wolf", "woolfy"],
+      "🦊": ["fox", "foxes", "lily"],
+
+      "😼": ["black_cat", "cat3"],
+      "🐱": ["cat_face", "cat2"],
       "🐈": ["cat"],
-      "🐇": ["bunny"],
-      
-      "🥗": ["axolotl"],
+      "🐇": ["bunni", "bunny", "bnuy", "bnui", "booni", "buni", "bnuuy"],
+
+      "🥗": ["axolotl", "salamander"],
       "🐳": ["whale"],
       "🐢": ["turtle"],
-      "🐣": ["hatching_chick"],
-      
+      "🐣": ["chick", "hatching_chick", "baby_chicken"],
+
       "🐉": ["dragon"],
       "🦆": ["duck"]
     }
@@ -34,31 +34,31 @@
   "cuties": {
     "blacklist": "",
     "emojis": {
-      "\uE000": ["chloe"],
-      "\uE001": ["forseir"],
+      "\uE000": ["chloe", "space_blanket", "space_kitty", "chloe_lurk"],
+      "\uE001": ["forseir", "for", "forfor"],
       "\uE002": ["slymeball"],
-      "\uE003": ["toastcraft"],
-      
-      "\uE004": ["perry"],
-      "\uE005": ["electric"],
-      "\uE006": ["jepril"],
+      "\uE003": ["toastcraft2", "bunny_toast"],
+
+      "\uE004": ["perry", "perri", "perryperegrine"],
+      "\uE005": ["aluki", "elec", "electric", "eleci"],
+      "\uE006": ["jepril", "jep"],
       "\uE007": ["campbell"],
-      
-      "\uE008": ["skyrina"],
+
+      "\uE008": ["sky", "skye", "skyrina"],
       "\uE009": ["amelia"],
-      "\uE00A": ["tsuki2"],
-      "\uE00B": ["tsuki"],
-      
-      "\uE00C": ["fran"],
-      "\uE00D": ["limits"],
+      "\uE00A": ["tsuki_ramen", "luna_ramen", "tsuki2"],
+      "\uE00B": ["tsuki", "rainbow_dwagon", "zqukiiruhkih", "zqukiiruh'kih"],
+
+      "\uE00C": ["fran", "francielly", "duchess", "mom", "mommy"],
+      "\uE00D": ["limits", "zephy"],
       "\uE00E": ["campbell2"],
       "\uE00F": ["lexie"],
-      
+
       "\uE010": ["serena"],
-      "\uE011": ["auria"],
+      "\uE011": ["auria", "cute_angel"],
       "\uE012": ["katt"],
-      "\uE013": ["toastcraft2"],
-      
+      "\uE013": ["toastcraft"],
+
       "\uE014": ["auria2"]
     }
   },
@@ -94,9 +94,9 @@
 
       "😖":  ["confounded"],
       "\uE007":  ["uwu"],
-      "🥺":  ["pleading_face"],
+      "🥺":  ["pleading_face", "plead", "pleading", "yes_mommy", "bottom"],
       "😩":  ["weary"],
-      "🥴":  ["woozy_face"],
+      "🥴":  ["woozy_face", "woozy"],
       "💫":  ["face_with_spiral_eyes"],
       "\uE008":  ["owo"],
       "\uE009":  ["uwu_eager"],
@@ -106,12 +106,12 @@
       "😝":  ["stuck_out_tongue_closed_eyes"],
       "😜":  ["stuck_out_tongue_winking_eye"],
       "🤪":  ["zany_face"],
-      "\uE00A":  ["silly","stuck_out_tongue_smiling"],
-      "\uE00B":  ["LMAO", "lmao"],
+      "\uE00A":  ["silly", "stuck_out_tongue_smiling"],
+      "\uE00B":  ["lmao"],
       "\uE00C":  ["fake_dead"],
 
-      "🤔":  ["thinking"],
-      "🙃":  ["upside_down"],
+      "🤔":  ["thinking", "thonks", "thinkies"],
+      "🙃":  ["upside_down", "austalian"],
       "🤨":  ["face_with_raised_eyebrow"],
       "🧐":  ["face_with_monocle"],
       "🤫":  ["shushing_face"],
@@ -124,7 +124,7 @@
       "😱":  ["scream"],
       "🤯":  ["exploding_head"],
       "😵":  ["dizzy_face"],
-      "🫠":  ["melting_face"],
+      "🫠":  ["melting_face", "melt", "melting"],
       "🫢":  ["face_with_open_eyes_and_hand_over_mouth"],
       "😬":  ["grimacing"],
 
@@ -132,7 +132,7 @@
       "💨":  ["face_exhaling"],
       "😅":  ["sweat_smile"],
       "😓":  ["sweat"],
-      "😠":  ["angry"],
+      "😠":  ["angry", "angi"],
       "😡":  ["rage"],
       "🤬":  ["face_with_symbols_over_mouth"],
       "\uE010":  ["screaming_angry"],
@@ -159,7 +159,7 @@
       "\uE01C":  ["hurt"],
       "😷":  ["mask"],
       "\uE01D":  ["thermometer"],
-      "\uE01E":  ["sick"],
+      "\uE01E":  ["sick", "nausea"],
       "\uE01F":  ["holding_back_vomit"],
       "\uE020":  ["fever"],
       "\uE021":  ["embarassed"],
@@ -170,15 +170,15 @@
       "😐":  ["neutral_face"],
       "🤐":  ["zipper_mouth"],
       "\uE100":  ["face_in_clouds"],
-      "👽":  ["alien"],
+      "👽":  ["alien", "foobar2000"],
       "😲":  ["astonished"],
 
       "😤":  ["triumph"],
       "\uE022":  ["pog"],
-      "🤓":  ["nerd"],
-      "🤡":  ["clown"],
-      "🥶":  ["cold_face"],
-      "😈":  ["smiling_imp"],
+      "🤓":  ["nerd", "gs"],
+      "🤡":  ["clown", "joker"],
+      "🥶":  ["cold_face", "freezing", "cold"],
+      "😈":  ["smiling_imp", "evil"],
       "🤥":  ["lying_face"],
       "🥵":  ["hot_face"],
 
@@ -187,7 +187,7 @@
       "😴":  ["sleeping"],
       "\uE023":  ["holding_back_laugh"],
       "\uE024":  ["thumbs_up_smiley"],
-      "\uE025":  ["angry1"],
+      "\uE025":  ["angry"],
       "\uE026":  ["angry2"],
       "\uE027":  ["skill_issue"],
 
@@ -219,172 +219,165 @@
       "\uE03F":  ["biba_sleepy"],
 
       "\uE040":  ["biba_uwu"],
-      "👺": ["japanese_goblin"]
+      "👺": ["japanese_goblin", "tengu", "jonkkusa"],
+      "💀": ["skull", "forgor"],
+      "👻": ["ghost"],
+      "🧠": ["brain"],
+      "🫀": ["anatomical_heart"],
+      "🤝": ["handshake"],
+      "🫂": ["people_hugging", "hug", "hugs"],
+
+      "🫶": ["heart_hands"],
+      "👍": ["thumbs_up", "thumbsup", "+1"],
+      "👎": ["thumbs_down", "thumbsdown", "-1"],
+      "👏": ["clap"],
+      "👋": ["wave"],
+      "🤚": ["back_of_hand"],
+      "👌": ["ok_hand", "gottem", "nice"]
     }
   },
   "food": {
     "blacklist": "",
     "emojis": {
-      "🧀": ["cheese"],
-      "🥖": ["french_bread", "loaf"],
-      "🍔": ["hamburger","burger"],
+      "🧀": ["cheese", "largecheese"],
+      "🥖": ["baguette", "french_bread", "loaf"],
+      "🍔": ["hamburger", "burger", "burgr"],
       "🍌": ["banana"],
-      "🍖": ["meat_on_bone","meat"],
-      
-      "🫙": ["mayonnaise"],
-      "🥪": ["toast", "sandwich"],
-      "🥚": ["egg"],
-      "🍰": ["cake"],
-      "🎂": ["birthday"],
-      
-      "🧃": ["beverage_box","juice"],
-      "🍱": ["bento", "lunchbox"],
-      "🍣": ["sushi"],
-      "🍙": ["rice_ball","onigiri"],
+      "🍖": ["meat_on_bone", "meat", "hungry", "hunger"],
+
+      "🫙": ["mayonnaise", "ranch", "sauce"],
+      "🥪": ["bread", "bread_slice", "toast"],
+      "🥚": ["egg", "ovo"],
+      "🍰": ["cake", "bolo", "cake_slice"],
+      "🎂": ["birthday", "cake2", "full_cake", "lie"],
+
+      "🧃": ["beverage_box", "juice", "applejuice", "apple_juice"],
+      "🍱": ["bento", "lunchbox", "bento_box", "lunch_box"],
+      "🍣": ["sushi", "nigiri"],
+      "🍙": ["rice", "rice_ball", "onigiri"],
       "🥕": ["carrot"],
-      
+
       "🍅": ["tomato"],
-      "🍵": ["tea", "coffee"],
-      "🍓": ["strawberry"],
-      "🍪": ["cookie"],
+      "🍵": ["tea", "coffee", "java"],
+      "🍓": ["strawberry", "berry", "celeste"],
+      "🍪": ["cookie", "coki"],
       "🍦": ["icecream"],
-      
+
       "🍕": ["pizza"],
-      "🍬": ["candy"],
+      "🍬": ["candy", "candi"],
       "\uE000": ["sugar"],
-      "\uE001": ["lollipop_fran"],
-      "🍭": ["lollipop"],
-      
-      "🍒": ["cherries","cherry"]
+      "\uE001": ["lollipop_fran", "7bello", "red_lollipop", "lollipop2"],
+      "🍭": ["lollipop", "yellow_lollipop"],
+
+      "🍒": ["cherries", "cherry"]
     }
   },
   "memes": {
     "blacklist": "",
     "emojis": {
-      "\uE000": ["troll"],
-      "\uE001": ["stonks"],
+      "\uE000": ["troll", "trol"],
+      "\uE001": ["stonks", "stock", "trade", "stock_market"],
       "\uE002": ["no_stonks"],
       "\uE003": ["smooth_brain"],
-      
-      "\uE004": ["shrek"],
-      "\uE005": ["rick_astley_feet","nggyu"],
+
+      "\uE004": ["shrek", "ogre"],
+      "\uE005": ["rick_astley_feet", "rickroll", "rick", "never_gonna_give_you_up"],
       "\uE006": ["loss"],
-      "\uE007": ["arthur_first"],
-      
-      "\uE008": ["forge_support"]
+      "\uE007": ["arthur_fist"],
+
+      "\uE008": ["forge", "forge_support", "anvil"],
+      "▚": ["missing", "missingno", "cs_source", "no_texture"]
     }
   },
   "nature": {
     "blacklist": "",
     "emojis": {
-      "🍀": ["hi_im_new"],
-      "🔥": ["fire"],
-      "🔵": ["blue_fire"],
-      "🟢": ["green_fire"],
-      
-      "🌘": ["kotm"],
-      "🌑": ["darkness","void"],
-      "⚡": ["electric"],
-      "💨": ["dash"],
-      
-      "⚜": ["fleur_de_lis"],
-      "🌳": ["tree"],
-      "✨": ["sparkles"]
+      "🍀": ["hi_im_new", "plant"],
+      "🔥": ["burned", "flames", "fire"],
+      "🔵": ["blue_fire", "flames2", "fire2"],
+      "🟢": ["green_fire", "flames3", "fire3"],
+
+      "🌘": ["moon", "kotm"],
+      "🌑": ["darkness", "shadow", "void"],
+      "⚡": ["zap", "electricity"],
+      "💨": ["dash", "poof"],
+
+      "⚜": ["fleur_de_lis", "saints_row"],
+      "🌳": ["tree", "terraria"],
+      "✨": ["sparkles", "glitter"]
     }
   },
   "objects": {
     "blacklist": "",
     "emojis": {
-      "📷": ["camera"],
-      "🎷": ["saxophone"],
-      "♟": ["chess_pawn"],
-      "💎": ["gem","diamond"],
+      "📷": ["camera", "4k"],
+      "🎷": ["sax", "saxophone"],
+      "♟": ["chess", "pawn"],
+      "💎": ["gem", "diamond"],
       "🗿": ["moyai"],
-      "🐾": ["feet","paws"],
+      "🐾": ["feet", "paws", "furry"],
 
-      "🥄": ["spoon"],
-      "\uE000": ["fork"],
-      "🍴": ["fork_and_knife","forknife"],
-      "🔪": ["knife"],
-      "🎶": ["notes"],
-      "💿": ["cd"],
+      "🥄": ["spoon", "zerok", "iron_shovel"],
+      "\uE000": ["fork", "twork"],
+      "🍴": ["fork_and_knife", "forknife", "fork_knife", "twork_onek"],
+      "🔪": ["knife", "murder", "stab", "stabby"],
+      "🎶": ["note", "notes", "music"],
+      "💿": ["cd", "disk"],
 
-      "🏮": ["izakaya_lantern"],
-      "🦇": ["bat"],
-      "🪄": ["magic_wand"],
+      "🏮": ["lantern", "paper_lantern", "izakaya_lantern", "lamp", "lämp"],
+      "🏏": ["bat", "baseball_bat", "baseball"],
+      "🪄": ["magic_wand", "wand", "magic"],
       "✂": ["scissors"],
-      "📼": ["cassette"],
-      "🎹": ["musical_keyboard"],
+      "📼": ["cassette", "music_tape", "tape", "sound_tape"],
+      "🎹": ["keyboard", "piano"],
 
-      "💸": ["money"],
-      "🔫": ["gun"],
-      "🔈": ["speaker"],
-      "🔉": ["sound"],
-      "🔊": ["loud_sound"],
+      "💸": ["money", "dollar", "cash"],
+      "🔫": ["gun", "water_gun"],
+      "🔈": ["speaker", "low_volume", "no_sound", "quiet"],
+      "🔉": ["sound", "volume"],
+      "🔊": ["loud_sound", "high_volume", "loud"],
       "🧶": ["yarn"],
 
-      "🪦": ["grave", "headstone"],
+      "🪦": ["grave", "headstone", "rip", "tombstone"],
       "🎈": ["balloon"],
 
-      "🎩": ["top_hat"],
+      "🎩": ["tophat", "hat", "gn"],
       "👑": ["crown"],
       "\uE002": ["fez"],
-      "\uE003": ["witch_hat"],
+      "\uE003": ["witch_hat", "witch"],
 
-      "🕛": ["clock12"],
-      "🕐": ["clock1"],
-      "🕑": ["clock2"],
-      "🕒": ["clock3"],
-      "🕓": ["clock4"],
-      "🕔": ["clock5"],
+      "🕛": ["clock12", "0h", "12h", "12am", "12pm"],
+      "🕐": ["clock1", "1h", "13h", "1am", "1pm"],
+      "🕑": ["clock2", "2h", "14h", "2am", "2pm"],
+      "🕒": ["clock3", "3h", "15h", "3am", "3pm", "clock", "time"],
+      "🕓": ["clock4", "4h", "16h", "4am", "4pm"],
+      "🕔": ["clock5", "5h", "17h", "5am", "5pm"],
 
-      "🕕": ["clock6"],
-      "🕖": ["clock7"],
-      "🕗": ["clock8"],
-      "🕘": ["clock9"],
-      "🕙": ["clock10"],
-      "🕚": ["clock11"]
-    }
-  },
-  "people": {
-    "blacklist": "",
-    "emojis": {
-      "💀": ["skull"],
-      "\uE000": ["flushed_skull"],
-      "🧠": ["brain"],
-      "🫀": ["anatomical_heart"],
-
-      "🫶": ["heart_hands"],
-      "👍": ["+1"],
-      "👎": ["-1"],
-      "👏": ["clap"],
-      
-      "👋": ["wave"],
-      "🤚": ["back_of_hand"],
-      "👌": ["ok_hand"],
-      "👀": ["eyes"],
-      
-      "🤝": ["handshake"],
-      "🫂": ["people_hugging"]
+      "🕕": ["clock6", "6h", "18h", "6am", "6pm"],
+      "🕖": ["clock7", "7h", "19h", "7am", "7pm"],
+      "🕗": ["clock8", "8h", "20h", "8am", "8pm"],
+      "🕘": ["clock9", "9h", "21h", "9am", "9pm"],
+      "🕙": ["clock10", "10h", "22h", "10am", "10pm"],
+      "🕚": ["clock11", "11h", "23h", "11am", "11pm"]
     }
   },
   "references": {
     "blacklist": "",
     "emojis": {
-      "\uE000": ["sus","among_us"],
-      "\uE001": ["sus_dead","imposter"],
-      "\uE102": ["vbucks"],
-      "\uE003": ["baba"],
+      "\uE000": ["amongus", "among", "sus"],
+      "\uE001": ["sus_dead", "imposter", "amongus2", "dead_amongus", "amongus_dead", "dead_body_reported"],
+      "\uE102": ["vbucks", "fortnite"],
+      "\uE003": ["baba", "baba_is_you"],
       "\uE004": ["spongebob"],
-      "\uE005": ["sonic"],
+      "\uE005": ["sonic", "sanic", "gotta_go_fast"],
       "\uE106": ["time_bomb"],
-      "\uE107": ["looks_to_the_moon"],
+      "\uE107": ["looks_to_the_moon", "that_one_moon"],
 
-      "\uE108": ["hämis"],
+      "\uE108": ["hämis", "hamis", "noita"],
       "\uE109": ["lopunny"],
-      "\uE10a": ["tomato_with_eyes_from_kirby"],
-      "\uE00b": ["nether_portal","portal"],
-      "\uE00c": ["creeper"],
+      "\uE10a": ["tomato_with_eyes_from_kirby", "tomato_with_eyes", "bob_the_tomato"],
+      "\uE00b": ["nether_portal", "portal"],
+      "\uE00c": ["creeper", "minecraft2"],
 
       "\uE00d": ["kirby"],
       "\uE00e": ["pink_slime"],
@@ -394,15 +387,15 @@
       "\uE012": ["r6_mute"],
 
       "\uE013": ["sandopede_tail", "sub_sandopede_tail"],
-      "\uE014": ["sub_sandopede", "sub_sandopede1"],
+      "\uE014": ["sub_sandopede"],
       "\uE015": ["sub_sandopede2"],
       "\uE016": ["sub_sandopede3"],
       "\uE017": ["sandopede"],
       "\uE018": ["strabby"],
       "\uE019": ["bunger"],
-      "\uE01a": ["bunger_royale"],
+      "\uE01a": ["bbq_bunger", "bunger2"],
 
-      "\uE01b": ["red_bloon"],
+      "\uE01b": ["red_bloon", "bloon"],
       "\uE01c": ["blue_bloon"],
       "\uE01d": ["green_bloon"],
       "\uE01e": ["yellow_bloon"],
@@ -425,10 +418,10 @@
       "\uE02d": ["lych"],
       "\uE02e": ["vortex"],
       "\uE02f": ["dreadbloon"],
-      "\uE030": ["farm"],
-      "\uE031": ["monkey"],
+      "\uE030": ["banana_farm"],
+      "\uE031": ["monkey", "dart_monkey"],
 
-      "\uE032": ["space_invader1"],
+      "\uE032": ["space_invader"],
       "\uE033": ["space_invader2"],
       "\uE034": ["space_invader3"],
       "\uE035": ["space_invader4"],
@@ -438,48 +431,48 @@
       "\uE039": ["space_invader8"],
 
       "\uE03a": ["pacman"],
-      "\uE03b": ["red_ghost"],
-      "\uE03c": ["pink_ghost"],
-      "\uE03d": ["blue_ghost"],
-      "\uE03e": ["orange_ghost"],
+      "\uE03b": ["red_ghost", "blinky"],
+      "\uE03c": ["pink_ghost", "pinky"],
+      "\uE03d": ["cyan_ghost", "inky"],
+      "\uE03e": ["yellow_ghost", "clyde"],
       "\uE03f": ["white_ghost"],
       "\uE040": ["purple_ghost"],
 
-      "\uE041": ["uno_select_color"],
-      "\uE042": ["uno_take_2"],
-      "\uE043": ["uno_take_4"],
-      "\uE044": ["uno_reverse"],
+      "\uE041": ["uno_select_color", "uno_card", "uno_wild"],
+      "\uE042": ["uno_take_2", "+2", "uno_draw_2"],
+      "\uE043": ["uno_take_4", "+4", "uno_draw_4"],
+      "\uE044": ["uno_reverse", "nou"],
       "\uE045": ["uno_skip"],
-      "\uE046": ["uno_number"]
+      "\uE046": ["uno_number", "uno_8"]
     }
   },
   "symbols": {
     "blacklist": "",
     "emojis": {
-      "™": ["tm"],
-      "💤": ["nini"],
-      "⬆": ["this"],
-      "💯": ["100"],
-      
+      "™": ["tm", "trademark"],
+      "💤": ["nini", "zzz"],
+      "⬆": ["this", "up", "upvote"],
+      "💯": ["100", "one_hundred"],
+
       "🌑": ["lua"],
-      "△": ["mark"],
-      "📞": ["whatsapp"],
-      "🕹": ["minecraft"],
-      
+      "△": ["mark", "figura"],
+      "📞": ["whatsapp", "phone"],
+      "🕹": ["minecraft", "block", "grass_block"],
+
       "🧵": ["quilt"],
       "👘": ["fabric"],
-      "🎏": ["koinobori"],
-      "⚧": ["transgender"],
-      
-      "🖱": ["click"],
-      "🖲": ["pointer"],
+      "🎏": ["koinobori", "carp_flag"],
+      "⚧": ["transgender", "trans", "trans_flag"],
+
+      "🖱": ["click", "mouse"],
+      "🖲": ["pointer", "mouse2"],
       "🔔": ["taco_bell"],
-      "🔺": ["cone"],
-      
-      "1": ["1bar"],
-      "2": ["2bar"],
-      "3": ["3bar"],
-      "4": ["4bar"]
+      "🔺": ["cone", "gerg"],
+
+      "1": ["1bar", "bad_ping", "asian_ping"],
+      "2": ["2bar", "medium_ping", "europe_ping"],
+      "3": ["3bar", "good_ping", "sa_ping"],
+      "4": ["4bar", "perfect_ping", "na_ping"]
     }
   }
 }
