@@ -29,8 +29,6 @@
       
       "🐉": ["dragon"],
       "🦆": ["duck"]
-      
-      
     }
   },
   "cuties": {
@@ -62,9 +60,6 @@
       "\uE013": ["toastcraft2"],
       
       "\uE014": ["auria2"]
-      
-      
-      
     }
   },
   "emoji": {
@@ -223,14 +218,8 @@
       "\uE03E":  ["biba_furious"],
       "\uE03F":  ["biba_sleepy"],
 
-      "\uE040":  ["biba_uwu"]
-      
-      
-      
-      
-      
-      
-      
+      "\uE040":  ["biba_uwu"],
+      "👺": ["japanese_goblin"]
     }
   },
   "food": {
@@ -267,10 +256,6 @@
       "🍭": ["lollipop"],
       
       "🍒": ["cherries","cherry"]
-      
-      
-      
-      
     }
   },
   "memes": {
@@ -287,9 +272,6 @@
       "\uE007": ["arthur_first"],
       
       "\uE008": ["forge_support"]
-      
-      
-      
     }
   },
   "nature": {
@@ -308,7 +290,6 @@
       "⚜": ["fleur_de_lis"],
       "🌳": ["tree"],
       "✨": ["sparkles"]
-      
     }
   },
   "objects": {
@@ -343,18 +324,12 @@
       "🧶": ["yarn"],
 
       "🪦": ["grave", "headstone"],
-      "\uE001": ["bloon"],
       "🎈": ["balloon"],
-
-
-
 
       "🎩": ["top_hat"],
       "👑": ["crown"],
       "\uE002": ["fez"],
       "\uE003": ["witch_hat"],
-
-
 
       "🕛": ["clock12"],
       "🕐": ["clock1"],
@@ -390,9 +365,7 @@
       "👀": ["eyes"],
       
       "🤝": ["handshake"],
-      "🫂": ["people_hugging"],
-      "👽": ["alien"],
-      "👺": ["japanese_goblin"]
+      "🫂": ["people_hugging"]
     }
   },
   "references": {
@@ -413,17 +386,12 @@
       "\uE00b": ["nether_portal","portal"],
       "\uE00c": ["creeper"],
 
-
-
-
       "\uE00d": ["kirby"],
       "\uE00e": ["pink_slime"],
       "\uE00f": ["tabby_slime"],
       "\uE010": ["honey_slime"],
       "\uE011": ["v1"],
       "\uE012": ["r6_mute"],
-
-
 
       "\uE013": ["sandopede_tail", "sub_sandopede_tail"],
       "\uE014": ["sub_sandopede", "sub_sandopede1"],
@@ -459,7 +427,6 @@
       "\uE02f": ["dreadbloon"],
       "\uE030": ["farm"],
       "\uE031": ["monkey"],
-      
 
       "\uE032": ["space_invader1"],
       "\uE033": ["space_invader2"],
@@ -478,15 +445,12 @@
       "\uE03f": ["white_ghost"],
       "\uE040": ["purple_ghost"],
 
-
       "\uE041": ["uno_select_color"],
       "\uE042": ["uno_take_2"],
       "\uE043": ["uno_take_4"],
       "\uE044": ["uno_reverse"],
       "\uE045": ["uno_skip"],
       "\uE046": ["uno_number"]
-      
-      
     }
   },
   "symbols": {
