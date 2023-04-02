@@ -28,7 +28,8 @@
       "🐣": ["chick", "hatching_chick", "baby_chicken"],
 
       "🐉": ["dragon"],
-      "🦆": ["duck"]
+      "🦆": ["duck"],
+      "🐝": ["bee"]
     }
   },
   "cuties": {
@@ -260,7 +261,7 @@
       "🍅": ["tomato"],
       "🍵": ["tea", "coffee", "java"],
       "🍓": ["strawberry", "berry", "celeste"],
-      "🍪": ["cookie", "coki"],
+      "🍪": ["cookie", "coki", "covkie"],
       "🍦": ["icecream"],
 
       "🍕": ["pizza"],
@@ -286,7 +287,8 @@
       "\uE007": ["arthur_fist"],
 
       "\uE008": ["forge", "forge_support", "anvil"],
-      "▚": ["missing", "missingno", "cs_source", "no_texture"]
+      "▚": ["missing", "missingno", "cs_source", "no_texture"],
+      "\uE009": ["catstare", "cat_stare"]
     }
   },
   "nature": {
@@ -304,11 +306,12 @@
 
       "⚜": ["fleur_de_lis", "saints_row"],
       "🌳": ["tree", "terraria"],
-      "✨": ["sparkles", "glitter"]
+      "✨": ["sparkles", "glitter"],
+      "🌼": ["daisy", "flower"]
     }
   },
   "objects": {
-    "blacklist": "",
+    "blacklist": "🔈🔉🔊",
     "emojis": {
       "📷": ["camera", "4k"],
       "🎷": ["sax", "saxophone"],
@@ -340,6 +343,7 @@
 
       "🪦": ["grave", "headstone", "rip", "tombstone"],
       "🎈": ["balloon"],
+      "🎉": ["tada", "party_popper"],
 
       "🎩": ["tophat", "hat", "gn"],
       "👑": ["crown"],
