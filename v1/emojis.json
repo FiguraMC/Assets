@@ -270,7 +270,8 @@
       "\uE001": ["lollipop_fran", "7bello", "red_lollipop", "lollipop2"],
       "🍭": ["lollipop", "yellow_lollipop"],
 
-      "🍒": ["cherries", "cherry"]
+      "🍒": ["cherries", "cherry"],
+      "🍜": ["ramen", "noodles", "cup_noodle"]
     }
   },
   "memes": {
