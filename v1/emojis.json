@@ -348,6 +348,8 @@
       "🪦": ["grave", "headstone", "rip", "tombstone"],
       "🎈": ["balloon"],
       "🎉": ["tada", "party_popper"],
+      "🔨": ["hammer"],
+      "🛠": ["golden_hammer", "hellper", "hammer2", "gold_hammer"],
 
       "🎩": ["tophat", "hat", "gn"],
       "👑": ["crown"],
