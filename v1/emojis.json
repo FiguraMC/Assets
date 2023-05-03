@@ -14,8 +14,8 @@
 
       "🐙": ["octopus"],
       "🐧": ["penguin", "linux"],
-      "🐺": ["wolf", "woolfy"],
-      "🦊": ["fox", "foxes", "lily"],
+      "🐺": ["wolf", "<3_woolfy"],
+      "🦊": ["fox", "<3_foxes", "<3_lily"],
 
       "😼": ["black_cat", "cat3"],
       "🐱": ["cat_face", "cat2"],
@@ -35,37 +35,38 @@
   "cuties": {
     "blacklist": "",
     "emojis": {
-      "\uE000": ["chloe", "space_blanket", "space_kitty", "chloe_lurk"],
-      "\uE001": ["forseir", "for", "forfor"],
-      "\uE002": ["slymeball", "slyme"],
-      "\uE003": ["toastcraft2", "bunny_toast"],
+      "\uE000": ["<3_chloe", "<3_chloe_lurk"],
+      "\uE001": ["<3_forseir", "<3_for"],
+      "\uE002": ["<3_slymeball", "<3_slyme"],
+      "\uE003": ["<3_toast2", "bunny_toast"],
 
-      "\uE004": ["perry", "perri", "perryperegrine"],
-      "\uE005": ["aluki", "elec", "electric", "eleci"],
-      "\uE006": ["jepril", "jep"],
-      "\uE007": ["campbell"],
+      "\uE004": ["<3_perry"],
+      "\uE005": ["<3_aluki", "<3_electric", "<3_elec"],
+      "\uE006": ["<3_jepril", "<3_jep"],
+      "\uE007": ["<3_campbell", "<3_bell"],
 
-      "\uE008": ["sky", "skye", "skyrina"],
-      "\uE009": ["amelia"],
-      "\uE00A": ["tsuki_ramen", "luna_ramen", "tsuki2"],
-      "\uE00B": ["tsuki", "rainbow_dwagon", "zqukiiruhkih", "zqukiiruh'kih"],
+      "\uE008": ["<3_sky", "<3_skye", "<3_skyrina"],
+      "\uE009": ["<3_amelia"],
+      "\uE00A": ["<3_tsuki_ramen"],
+      "\uE00B": ["<3_tsuki", "<3_zqukiiruhkih", "<3_zqukiiruh'kih"],
 
-      "\uE00C": ["fran", "francielly", "duchess", "mom", "mommy"],
-      "\uE00D": ["limits", "zephy"],
-      "\uE00E": ["campbell2"],
-      "\uE00F": ["lexie", "kate"],
+      "\uE00C": ["<3_fran", "<3_francielly"],
+      "\uE00D": ["<3_zephy", "<3_limits"],
+      "\uE00E": ["<3_kiri"],
+      "\uE00F": ["<3_kate", "<3_lexize"],
 
-      "\uE010": ["serena"],
-      "\uE011": ["auria", "cute_angel"],
-      "\uE012": ["katt"],
-      "\uE013": ["toastcraft"],
+      "\uE010": ["<3_serena"],
+      "\uE011": ["<3_auria"],
+      "\uE012": ["<3_katt"],
+      "\uE013": ["<3_toast"],
 
-      "\uE014": ["auria2"],
-      "\uE015": ["kye", "kylie"],
-      "\uE016": ["4p", "4p5"],
-      "\uE017": ["4p_hair", "4p5_hair"],
+      "\uE014": ["<3_auria2"],
+      "\uE015": ["<3_kylie", "<3_kye"],
+      "\uE016": ["<3_4p5", "<3_4p"],
+      "\uE017": ["<3_4p5_hair", "<3_4p_hair"],
 
-      "\uE018": ["alice"]
+      "\uE018": ["<3_alice"],
+      "\uE019": ["<3_sylvia", "<3_syl"]
     }
   },
   "emoji": {
@@ -257,7 +258,7 @@
       "🍰": ["cake", "bolo", "cake_slice"],
       "🎂": ["birthday", "cake2", "full_cake", "lie"],
 
-      "🧃": ["beverage_box", "juice", "applejuice", "apple_juice"],
+      "🧃": ["beverage_box", "juice", "<3_apple", "<3_applejuice", "apple_juice"],
       "🍱": ["bento", "lunchbox", "bento_box", "lunch_box"],
       "🍣": ["sushi", "nigiri"],
       "🍙": ["rice", "rice_ball", "onigiri"],
@@ -266,7 +267,7 @@
       "🍅": ["tomato"],
       "🍵": ["tea", "coffee", "java"],
       "🍓": ["strawberry", "berry", "celeste"],
-      "🍪": ["cookie", "coki", "covkie"],
+      "🍪": ["cookie", "coki", "<3_covkie"],
       "🍦": ["icecream"],
 
       "🍕": ["pizza"],
@@ -324,7 +325,7 @@
       "♟": ["chess", "pawn"],
       "💎": ["gem", "diamond"],
       "🗿": ["moyai"],
-      "🐾": ["feet", "paws", "furry"],
+      "🐾": ["paws", "furry"],
 
       "🥄": ["spoon", "zerok", "iron_shovel"],
       "\uE000": ["fork", "twork"],
@@ -353,7 +354,7 @@
       "🔨": ["hammer"],
       "🛠": ["golden_hammer", "hellper", "hammer2", "gold_hammer"],
 
-      "🎩": ["tophat", "hat", "gn"],
+      "🎩": ["tophat", "hat", "<3_gn"],
       "👑": ["crown"],
       "\uE002": ["fez"],
       "\uE003": ["witch_hat", "witch"],
@@ -383,7 +384,7 @@
       "\uE004": ["spongebob"],
       "\uE005": ["sonic", "sanic", "gotta_go_fast"],
       "\uE006": ["time_bomb"],
-      "\uE007": ["looks_to_the_moon", "that_one_moon"],
+      "\uE007": ["looks_to_the_moon", "<3_that_one_moon"],
 
       "\uE008": ["hämis", "hamis", "noita"],
       "\uE009": ["lopunny"],
@@ -423,16 +424,16 @@
       "\uE029": ["camo_bloon"],
       "\uE02A": ["rainbow_bloon"],
       "\uE02B": ["ceramic_bloon"],
-      "\uE02C": ["moab"],
-      "\uE02D": ["bfb"],
-      "\uE02E": ["zomg"],
-      "\uE02F": ["ddt"],
+      "\uE02C": ["moab", "moab_bloon"],
+      "\uE02D": ["bfb", "bfb_bloon"],
+      "\uE02E": ["zomg", "zomg_bloon"],
+      "\uE02F": ["ddt", "ddt_bloon"],
 
-      "\uE030": ["bad"],
-      "\uE031": ["blonarious"],
-      "\uE032": ["lych"],
-      "\uE033": ["vortex"],
-      "\uE034": ["dreadbloon"],
+      "\uE030": ["bad_bloon"],
+      "\uE031": ["blonarious", "blonarious_bloon"],
+      "\uE032": ["lych_bloon"],
+      "\uE033": ["vortex_bloon"],
+      "\uE034": ["dreadbloon", "dreadbloon_bloon"],
       "\uE035": ["banana_farm"],
       "\uE036": ["monkey", "dart_monkey"],
 
