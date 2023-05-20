@@ -492,7 +492,13 @@
       "\uE04A": ["uno_take_4", "+4", "uno_draw_4"],
       "\uE04B": ["uno_reverse", "nou"],
       "\uE04C": ["uno_skip"],
-      "\uE04D": ["uno_number", "uno_8"]
+      "\uE04D": ["uno_number", "uno_8"],
+
+      "\uE050": ["karma_1", "karma_wrath"],
+      "\uE051": ["karma_2", "karma_lust"],
+      "\uE052": ["karma_3", "karma_attachment"],
+      "\uE053": ["karma_4", "karma_gluttony"],
+      "\uE054": ["karma_5", "karma_self_preservation"]
     }
   },
   "symbols": {
