@@ -29,7 +29,8 @@
 
       "🐉": ["dragon"],
       "🦆": ["duck"],
-      "🐝": ["bee"]
+      "🐝": ["bee"],
+      "🐌": ["snail"]
     }
   },
   "cuties": {
@@ -241,7 +242,9 @@
       "👏": ["clap"],
       "👋": ["wave"],
       "🤚": ["back_of_hand"],
-      "👌": ["ok_hand", "gottem", "nice"]
+      "👌": ["ok_hand", "gottem", "nice"],
+      "💅": ["nail_care", "nail_polish"],
+      "🫃": ["pregnant_man"]
     }
   },
   "food": {
@@ -282,9 +285,9 @@
     }
   },
   "hearts": {
-    "blacklist": "\uE000\uE001\uE002\uE003\uE004\uE005\uE006\uE007\uE008\uE009\uE00A\uE00B\uE00C\uE00D\uE00E\uE00F",
+    "blacklist": "\uE000\uE001\uE002\uE003\uE004\uE005\uE006\uE007\uE008\uE009\uE00A\uE00B\uE00C\uE00D\uE00E\uE00F\uE011",
     "emojis": {
-      "\uE000": ["red_heart", "heart"],
+      "\uE000": ["red_heart", "heart", "<3"],
       "\uE001": ["orange_heart"],
       "\uE002": ["yellow_heart"],
       "\uE003": ["green_heart"],
@@ -303,7 +306,8 @@
       "\uE00E": ["nuke_heart"],
 
       "\uE00F": ["nick_heart"],
-      "\uE010": ["foxes_heart"]
+      "\uE010": ["foxes_heart"],
+      "\uE011": ["kiri_heart"]
     }
   },
   "memes": {
@@ -385,6 +389,8 @@
       "👑": ["crown"],
       "\uE002": ["fez"],
       "\uE003": ["witch_hat", "witch"],
+      "🪶": ["feather"],
+      "🛞": ["wheel"],
 
       "🕛": ["clock12", "0h", "12h", "12am", "12pm"],
       "🕐": ["clock1", "1h", "13h", "1am", "1pm"],
