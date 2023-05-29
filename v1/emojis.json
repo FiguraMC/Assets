@@ -498,7 +498,8 @@
       "\uE051": ["karma_2", "karma_lust"],
       "\uE052": ["karma_3", "karma_attachment"],
       "\uE053": ["karma_4", "karma_gluttony"],
-      "\uE054": ["karma_5", "karma_self_preservation"]
+      "\uE054": ["karma_5", "karma_self_preservation"],
+      "\uE055": ["karma_10", "karma_max"]
     }
   },
   "symbols": {
