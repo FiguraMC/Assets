@@ -344,7 +344,9 @@
       "⚜": ["fleur_de_lis", "saints_row"],
       "🌳": ["tree", "terraria"],
       "✨": ["sparkles", "glitter"],
-      "🌼": ["daisy", "flower"]
+      "🌼": ["daisy", "flower"],
+
+      "🌙": ["crescent_moon"]
     }
   },
   "objects": {
@@ -405,6 +407,40 @@
       "🕘": ["clock9", "9h", "21h", "9am", "9pm"],
       "🕙": ["clock10", "10h", "22h", "10am", "10pm"],
       "🕚": ["clock11", "11h", "23h", "11am", "11pm"]
+    }
+  },
+  "pride": {
+    "blacklist": "",
+    "emojis": {
+      "\uE000": ["pride_agender"],
+      "\uE001": ["pride_aroace"],
+      "\uE002": ["pride_aromantic"],
+      "\uE003": ["pride_asexual"],
+      "\uE004": ["pride_bigender"],
+
+      "\uE005": ["pride_bisexual"],
+      "\uE006": ["pride_demiboy"],
+      "\uE007": ["pride_demigender"],
+      "\uE008": ["pride_demigirl"],
+      "\uE009": ["pride_demiromantic"],
+
+      "\uE00A": ["pride_demisexual"],
+      "\uE00B": ["pride_disability"],
+      "\uE00C": ["pride_finsexual"],
+      "\uE00D": ["pride_gaymen"],
+      "\uE00E": ["pride_genderfae"],
+
+      "\uE00F": ["pride_genderfluid"],
+      "\uE010": ["pride_genderqueer"],
+      "\uE011": ["pride_intersex"],
+      "\uE012": ["pride_lesbian"],
+      "\uE013": ["pride_nonbinary"],
+
+      "\uE014": ["pride_pansexual"],
+      "\uE015": ["pride_plural"],
+      "\uE016": ["pride_polysexual"],
+      "\uE017": ["pride"],
+      "\uE018": ["pride_transgender"]
     }
   },
   "references": {
@@ -503,11 +539,11 @@
     }
   },
   "symbols": {
-    "blacklist": "",
+    "blacklist": "⬆↻❌",
     "emojis": {
       "™": ["tm", "trademark"],
       "💤": ["nini", "zzz"],
-      "⬆": ["this", "up", "upvote"],
+      "⬆": ["this", "up", "upvote", "upload"],
       "💯": ["100", "one_hundred"],
 
       "🌑": ["lua"],
@@ -528,7 +564,10 @@
       "1": ["1bar", "bad_ping", "asian_ping"],
       "2": ["2bar", "medium_ping", "europe_ping"],
       "3": ["3bar", "good_ping", "sa_ping"],
-      "4": ["4bar", "perfect_ping", "na_ping"]
+      "4": ["4bar", "perfect_ping", "na_ping"],
+
+      "↻": ["reload"],
+      "❌": ["delete"]
     }
   }
 }
