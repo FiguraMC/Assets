@@ -456,7 +456,6 @@
       "\uE004": ["spongebob"],
       "\uE005": ["sonic", "sanic", "gotta_go_fast"],
       "\uE006": ["time_bomb"],
-      "\uE007": ["looks_to_the_moon", "<3_that_one_moon"],
 
       "\uE008": ["hämis", "hamis", "noita"],
       "\uE009": ["lopunny"],
@@ -538,7 +537,9 @@
       "\uE052": ["karma_3", "karma_attachment"],
       "\uE053": ["karma_4", "karma_gluttony"],
       "\uE054": ["karma_5", "karma_self_preservation"],
-      "\uE055": ["karma_10", "karma_max"]
+      "\uE055": ["karma_10", "karma_max"],
+      "\uE056": ["slugcat", "silly_goose"],
+      "\uE057": ["looks_to_the_moon", "lttm", "<3_that_one_moon"]
     }
   },
   "symbols": {
