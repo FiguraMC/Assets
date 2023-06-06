@@ -1,0 +1,37 @@
+{
+  "blacklist": "",
+  "emojis": {
+    "🧀": ["cheese", "largecheese"],
+    "🥖": ["baguette", "french_bread", "loaf"],
+    "🍔": ["hamburger", "burger", "burgr"],
+    "🍌": ["banana"],
+    "🍖": ["meat_on_bone", "meat", "hungry", "hunger"],
+
+    "🫙": ["mayonnaise", "ranch", "sauce"],
+    "🥪": ["bread", "bread_slice", "toast"],
+    "🥚": ["egg", "ovo"],
+    "🍰": ["cake", "bolo", "cake_slice"],
+    "🎂": ["birthday", "cake2", "full_cake", "lie"],
+
+    "🧃": ["beverage_box", "juice", "<3_apple", "<3_applejuice", "apple_juice"],
+    "🍱": ["bento", "lunchbox", "bento_box", "lunch_box"],
+    "🍣": ["sushi", "nigiri"],
+    "🍙": ["rice", "rice_ball", "onigiri"],
+    "🥕": ["carrot"],
+
+    "🍅": ["tomato"],
+    "🍵": ["tea", "coffee", "java"],
+    "🍓": ["strawberry", "berry", "celeste"],
+    "🍪": ["cookie", "coki", "<3_covkie"],
+    "🍦": ["icecream"],
+
+    "🍕": ["pizza"],
+    "🍬": ["candy", "candi"],
+    "\uE000": ["sugar"],
+    "\uE001": ["lollipop_fran", "7bello", "red_lollipop", "lollipop2"],
+    "🍭": ["lollipop", "yellow_lollipop"],
+
+    "🍒": ["cherries", "cherry"],
+    "🍜": ["ramen", "noodles", "cup_noodle"]
+  }
+}

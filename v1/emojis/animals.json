@@ -1,0 +1,34 @@
+{
+  "blacklist": "",
+  "emojis": {
+    "🦈": ["blahaj", "ikea_shark", "shark", "blåhaj"],
+    "🐬": ["trans_shark", "transgender_blahaj", "trans_blahaj"],
+    "🐛": ["moff", "moth"],
+    "🦋": ["butterfly"],
+
+    "🦐": ["shrimp"],
+    "🦀": ["crab"],
+    "🦞": ["lobster"],
+    "🔵": ["blue_lobster", "lobster2"],
+
+    "🐙": ["octopus"],
+    "🐧": ["penguin", "linux"],
+    "🐺": ["wolf", "<3_woolfy"],
+    "🦊": ["fox", "<3_foxes", "<3_lily"],
+
+    "😼": ["black_cat", "cat3"],
+    "🐱": ["cat_face", "cat2"],
+    "🐈": ["cat"],
+    "🐇": ["bunni", "bunny", "bnuy", "bnui", "booni", "buni", "bnuuy"],
+
+    "🥗": ["axolotl", "salamander"],
+    "🐳": ["whale"],
+    "🐢": ["turtle"],
+    "🐣": ["chick", "hatching_chick", "baby_chicken"],
+
+    "🐉": ["dragon"],
+    "🦆": ["duck"],
+    "🐝": ["bee"],
+    "🐌": ["snail"]
+  }
+}

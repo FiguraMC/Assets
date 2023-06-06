@@ -1,0 +1,21 @@
+{
+  "blacklist": "",
+  "emojis": {
+    "🍀": ["hi_im_new", "plant"],
+    "🔥": ["burned", "flames", "fire"],
+    "🔵": ["blue_fire", "flames2", "fire2"],
+    "🟢": ["green_fire", "flames3", "fire3"],
+
+    "🌘": ["moon", "kotm"],
+    "🌑": ["darkness", "shadow", "void"],
+    "⚡": ["zap", "electricity"],
+    "💨": ["dash", "poof"],
+
+    "⚜": ["fleur_de_lis", "saints_row"],
+    "🌳": ["tree", "terraria"],
+    "✨": ["sparkles", "glitter"],
+    "🌼": ["daisy", "flower"],
+
+    "🌙": ["crescent_moon"]
+  }
+}
