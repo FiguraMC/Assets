@@ -29,6 +29,8 @@
     "🐉": ["dragon"],
     "🦆": ["duck"],
     "🐝": ["bee"],
-    "🐌": ["snail"]
+    "🐌": ["snail"],
+
+    "🟣": ["purple_shrimp", "shrimp2"]
   }
 }
