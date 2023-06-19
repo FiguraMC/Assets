@@ -1,0 +1,27 @@
+{
+  "blacklist": "\uE00C",
+  "emojis": {
+    "\uE000": ["lua"],
+    "\uE001": ["figura", "mark"],
+    "\uE002": ["whatsapp"],
+    "\uE003": ["minecraft", "grass_block"],
+
+    "\uE004": ["quilt"],
+    "\uE005": ["fabric"],
+    "\uE006": ["taco_bell"],
+
+    "\uE008": ["pdn", "paint_dot_net"],
+    "\uE009": ["aseprite"],
+    "\uE00A": ["intellij", "intellij_idea"],
+    "\uE00B": ["vs_code", "vscode"],
+
+    "\uE00C": ["steam"],
+    "\uE00D": ["blockbench"],
+    "\uE00E": ["adofai", "a_dance_of_fire_and_ice"],
+    "\uE00F": ["factorio"],
+
+    "\uE010": ["undertale"],
+    "\uE011": ["garrys_mod", "gmod"],
+    "\uE012": ["csgo", "cs_go"]
+  }
+}

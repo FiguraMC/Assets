@@ -58,6 +58,7 @@
     "🕚": ["clock11", "11h", "23h", "11am", "11pm"],
 
     "\uE004": ["feather_hat", "<3_scarlet"],
-    "🚗": ["racecar", "race_car"]
+    "🚗": ["racecar", "race_car"],
+    "🔎": ["bug_catcher"]
   }
 }

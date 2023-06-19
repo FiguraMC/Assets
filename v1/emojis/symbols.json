@@ -1,25 +1,15 @@
 {
-  "blacklist": "⬆↻❌",
+  "blacklist": "⬆↻🚫✅❌",
   "emojis": {
     "™": ["tm", "trademark"],
     "💤": ["nini", "zzz"],
     "⬆": ["this", "up", "upvote", "upload"],
     "💯": ["100", "one_hundred"],
 
-    "🌑": ["lua"],
-    "△": ["mark", "figura"],
-    "📞": ["whatsapp", "phone"],
-    "🕹": ["minecraft", "block", "grass_block"],
-
-    "🧵": ["quilt"],
-    "👘": ["fabric"],
     "🎏": ["koinobori", "carp_flag"],
     "⚧": ["transgender", "trans", "trans_flag"],
-
     "🖱": ["click", "mouse"],
     "🖲": ["pointer", "mouse2"],
-    "🔔": ["taco_bell"],
-    "🔺": ["cone", "gerg"],
 
     "1": ["1bar", "bad_ping", "asian_ping"],
     "2": ["2bar", "medium_ping", "europe_ping"],
@@ -27,6 +17,10 @@
     "4": ["4bar", "perfect_ping", "na_ping"],
 
     "↻": ["reload"],
-    "❌": ["delete"]
+    "🚫": ["delete"],
+    "✅": ["checkmark", "check_mark"],
+    "❌": ["x", "crossmark", "cross_mark"],
+
+    "🔺": ["cone", "gerg"]
   }
 }
