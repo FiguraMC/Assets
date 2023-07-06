@@ -26,6 +26,7 @@
     "\uE014": ["v1"],
     "\uE015": ["r6_mute"],
     "\uE016": ["bullet_kin"],
+    "\uE017": ["omori"],
 
     "\uE018": ["sandopede_tail", "sub_sandopede_tail"],
     "\uE019": ["sub_sandopede"],
@@ -93,6 +94,11 @@
     "\uE054": ["karma_5", "karma_self_preservation"],
     "\uE055": ["karma_10", "karma_max"],
     "\uE056": ["slugcat"],
-    "\uE057": ["looks_to_the_moon", "lttm"]
+    "\uE057": ["looks_to_the_moon", "lttm"],
+
+    "\uE058": ["conductor", "merder", "peckneck"],
+    "\uE059": ["snatcher", "foooool"],
+    "\uE05A": ["timepiece"],
+    "\uE05B": ["hat_kid", "a_hat_in_time"]
   }
 }

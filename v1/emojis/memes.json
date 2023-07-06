@@ -12,7 +12,8 @@
     "\uE007": ["arthur_fist"],
 
     "\uE008": ["forge", "forge_support", "anvil"],
-    "▚": ["missing", "missingno", "cs_source", "no_texture"],
-    "\uE009": ["catstare", "cat_stare"]
+    "\uE009": ["missing", "missingno", "cs_source", "no_texture"],
+    "\uE00A": ["catstare", "cat_stare"],
+    "\uE00B": ["catstare_back", "cat_stare_back", "eratstac"]
   }
 }
