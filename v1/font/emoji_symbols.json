@@ -12,11 +12,11 @@
       "file": "figura:font/emojis/symbols.png",
       "ascent": 8,
       "chars": [
-        "™\uD83D\uDCA4⬆\uD83D\uDCAF",
-        "\uD83C\uDF8F⚧\uD83D\uDDB1\uD83D\uDDB2",
-        "1234",
-        "↻\uD83D\uDEAB✅❌",
-        "\uD83D\uDD3A\u0000\u0000\u0000"
+        "\uE000\uE001\uE002\uE003",
+        "\uE004\uE005\uE006\uE007",
+        "\uE008\uE009\uE00A\uE00B",
+        "\uE00C\uE00D\uE00E\uE00F",
+        "\uE010\u0000\u0000\u0000"
       ]
     }
   ]

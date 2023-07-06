@@ -1,5 +1,5 @@
 {
-  "blacklist": "\uE00C",
+  "blacklist": "\uE010",
   "emojis": {
     "\uE000": ["lua"],
     "\uE001": ["figura", "mark"],
