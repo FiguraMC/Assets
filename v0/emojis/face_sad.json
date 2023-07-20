@@ -1,0 +1,29 @@
+{
+  "blacklist": "",
+  "emojis": {
+    "\uE000": ["expressionless"],
+    "\uE001": ["diagonal_mouth"],
+    "\uE002": ["really?", "disappointed"],
+    "\uE003": ["disgusted", "drama"],
+    "\uE004": ["annoyed"],
+    "\uE005": ["pensive"],
+    "\uE006": ["unamused"],
+    "\uE007": ["frown"],
+
+    "\uE008": ["shocked"],
+    "\uE009": ["guilty"],
+    "\uE00A": ["tear_smile"],
+    "\uE00B": ["tear_frown"],
+    "\uE00C": ["fearful"],
+    "\uE00D": ["worried_tear"],
+    "\uE00E": ["ashamed"],
+    "\uE00F": ["distraught"],
+
+    "\uE010": ["weary"],
+    "\uE011": ["sob"],
+    "\uE012": ["crying_loudly"],
+    "\uE013": ["crying_pancake"],
+    "\uE014": ["fake_dead"],
+    "\uE015": ["despair"]
+  }
+}
