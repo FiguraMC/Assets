@@ -1,0 +1,25 @@
+{
+  "blacklist": "",
+  "emojis": {
+    "\uE000": ["yawn", "uninterested", "distracted"],
+    "\uE001": ["o7", "salute"],
+    "\uE002": ["sleeping", "sleepy", "kiri"],
+    "\uE003": ["freezing"],
+    "\uE004": ["nerd", "gs"],
+    "\uE005": ["clown", "bozo"],
+    "\uE006": ["smiling_imp"],
+    "\uE007": ["money_machine", "mr_krabs"],
+
+    "\uE008": ["alien", "51"],
+    "\uE009": ["swagger", "cowboy"],
+    "\uE00A": ["mlg"],
+    "\uE00B": ["anime_glasses"],
+    "\uE00C": ["blue_emoji"],
+    "\uE00D": ["skill_issue"],
+
+    "\uE00E": ["eyes"],
+    "\uE00F": ["skull"],
+    "\uE010": ["anonymous", "guy_fawkes"],
+    "\uE011": ["ghost"]
+  }
+}
