@@ -14,12 +14,9 @@
     "\uE009": ["heart_pink", "pink_heart"],
 
     "\uE00A": ["heart_skye", "skye_heart"],
-    "\uE00B": ["heart_chloe", "chloe_heart"],
-    "\uE00C": ["heart_electric", "electric_heart"],
-    "\uE00D": ["heart_kiri", "kiri_heart"],
-    "\uE00E": ["heart_nuke", "nuke_heart"],
-
-    "\uE00F": ["heart_nick", "nick_heart"],
-    "\uE010": ["heart_foxes", "foxes_heart"]
+    "\uE00B": ["heart_kiri", "kiri_heart"],
+    "\uE00C": ["heart_nuke", "nuke_heart"],
+    "\uE00D": ["heart_nick", "nick_heart"],
+    "\uE01E": ["heart_foxes", "foxes_heart"]
   }
 }

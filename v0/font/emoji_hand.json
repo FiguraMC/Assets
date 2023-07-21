@@ -9,12 +9,12 @@
     },
     {
       "type": "bitmap",
-      "file": "figura:font/emojis/heart.png",
+      "file": "figura:font/emojis/hand.png",
       "ascent": 8,
       "chars": [
-        "\uE000\uE001\uE002\uE003\uE004",
-        "\uE005\uE006\uE007\uE008\uE009",
-        "\uE00A\uE00B\uE00C\uE00D\uE00E"
+        "\uE000\uE001\uE002\uE003",
+        "\uE004\uE005\uE006\uE007",
+        "\uE008\uE009\u0000\u0000"
       ]
     }
   ]

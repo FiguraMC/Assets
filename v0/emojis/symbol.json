@@ -66,6 +66,9 @@
     "\uE037": ["clock8", "8h", "20h", "8am", "8pm"],
     "\uE038": ["clock9", "9h", "21h", "9am", "9pm"],
     "\uE039": ["clock10", "10h", "22h", "10am", "10pm"],
-    "\uE03A": ["clock11", "11h", "23h", "11am", "11pm"]
+    "\uE03A": ["clock11", "11h", "23h", "11am", "11pm"],
+
+    "\uE03B": ["hug", "hugs"],
+    "\uE03C": ["speak", "person_speaking", "head_speaking"]
   }
 }

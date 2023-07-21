@@ -11,7 +11,7 @@
     "\uE007": ["huh", "eyebrow"],
 
     "\uE008": ["hmm", "raised_eyebrow"],
-    "\uE009": ["monocole"],
+    "\uE009": ["monocle"],
     "\uE00A": ["shh", "shush"],
     "\uE00B": ["confused"],
     "\uE00C": ["woozy_melt"],
@@ -28,8 +28,8 @@
     "\uE016": ["liar", "pinocchio"],
     "\uE017": ["head_in_clouds"],
 
-    "\uE018": ["bandage_head", "injured1"],
-    "\uE019": ["mask"],
+    "\uE018": ["bandage_head", "injured"],
+    "\uE019": ["mask", "bovid", "lovid", "covid", "david"],
     "\uE01A": ["sick", "fever"],
     "\uE01B": ["nausea"],
     "\uE01C": ["nauseous", "holding_back_vomit"],
