@@ -13,7 +13,6 @@
 
     "\uE008": ["missing", "missingno", "cs_source", "no_texture"],
     "\uE009": ["catstare", "cat_stare"],
-    "\uE00A": ["cheese","big_cheese"],
-    "\u000B": [""],
+    "\uE00A": ["cheese","big_cheese"]
   }
 }

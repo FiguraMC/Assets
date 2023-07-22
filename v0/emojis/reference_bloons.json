@@ -2,11 +2,11 @@
   "blacklist": "",
   "emojis": {
     "\uE000": ["bloon_red"],
-    "\uE001": ["bloon_blue", "shark2", "plush_shark2"],
+    "\uE001": ["bloon_blue"],
     "\uE002": ["bloon_green"],
     "\uE003": ["bloon_yellow"],
     "\uE004": ["bloon_pink"],
-    "\uE005": ["bloon_black", "lobster_blue"],
+    "\uE005": ["bloon_black"],
     "\uE006": ["bloon_white"],
     "\uE007": ["bloon_purple"],
 
