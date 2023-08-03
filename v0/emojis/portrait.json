@@ -2,13 +2,13 @@
   "blacklist": "",
   "emojis": {
     "\uE000":["@skye", "@skyrina"],
-    "\uE001":["@electric", "@ohitselectric"],
+    "\uE001":["@ame", "@lumelia"],
     "\uE002":["@chloe", "@chloespacedout"],
-    "\uE003":["@forseir"],
-    "\uE004":["@kate", "@lexize"],
+    "\uE003":["@kate", "@lexize"],
+    "\uE004":["@forseir"],
     "\uE005":["@kye", "@cookie", "@kylie"],
     "\uE006":["@kiri", "@karma"],
-    "\uE007":["@ame", "@lumelia"],
+    "\uE007":["@electric", "@ohitselectric"],
     
     "\uE008":["@jonkkusa"],
     "\uE009":["@katt", "@kitkat"],
@@ -25,10 +25,12 @@
     "\uE013":["@cone","@mxduck"],
     "\uE014":["@tsuki", "@zqukiiruhkih", "@zqukiiruh'kih"],
     "\uE015":["@tsuki_ramen"],
-    "\uE016":["@palck"],
-    "\uE017":["@slime_deni", "@circlemaniac"],
+    "\uE016":["@gn","@gnamimates"],
+    "\uE017":["@scarlet","@scarletlight"],
 
-    "\uE018":["@gn","@gnamimates"],
-    "\uE019":["@scarlet","@scarletlight"]
+    "\uE018":["@palck"],
+    "\uE019":["@slime_deni", "@circlemaniac"],
+    "\uE01A":["@slime_gwape", "@gwape"]
+
   }
 }
