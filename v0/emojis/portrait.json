@@ -3,34 +3,42 @@
   "emojis": {
     "\uE000":["@skye", "@skyrina"],
     "\uE001":["@ame", "@lumelia"],
+
     "\uE002":["@chloe", "@chloespacedout"],
     "\uE003":["@kate", "@lexize"],
-    "\uE004":["@forseir"],
-    "\uE005":["@kye", "@cookie", "@kylie"],
-    "\uE006":["@kiri", "@karma"],
-    "\uE007":["@electric", "@ohitselectric"],
-    
-    "\uE008":["@jonkkusa"],
-    "\uE009":["@katt", "@kitkat"],
-    "\uE00A":["@auria", "@dragekk"],
-    "\uE00B":["@4p5"],
-    "\uE00C":["@4p5_hair"],
-    "\uE00D":["@serena"],
-    "\uE00E":["@slyme"],
-    "\uE00F":["@toast"],
-    
-    "\uE010":["@syl", "@sylvia"],
-    "\uE011":["@perry"],
-    "\uE012":["@jepril"],
-    "\uE013":["@cone","@mxduck"],
-    "\uE014":["@tsuki", "@zqukiiruhkih", "@zqukiiruh'kih"],
-    "\uE015":["@tsuki_ramen"],
-    "\uE016":["@gn","@gnamimates"],
-    "\uE017":["@scarlet","@scarletlight"],
 
-    "\uE018":["@palck"],
-    "\uE019":["@slime_deni", "@circlemaniac"],
-    "\uE01A":["@slime_gwape", "@gwape"]
+    "\uE004":["@slime_deni", "@circlemaniac"],
+    "\uE005":["@slime_gwape", "@gwape"],
+    
+    "\uE006":["@gn","@gnamimates"],
+    "\uE007":["@scarlet","@scarletlight"],
 
+    "\uE008":["@kiri", "@karma"],
+    "\uE009":["@electric", "@ohitselectric"],
+    "\uE00A":["@palck"],
+    "\uE00B":["@serena"],
+
+    "\uE00C":["@toast"],
+    "\uE00D":["@slyme"],
+    "\uE00E":["@perry"],
+    "\uE00F":["@jepril"],
+
+    "\uE010":["@jonkkusa"],
+    "\uE011":["@kye", "@cookie", "@kylie"],
+    "\uE012":["@forseir"],
+    "\uE013":["@katt", "@kitkat"],
+    "\uE014":["@auria", "@dragekk"],
+    "\uE015":["@syl", "@sylvia"],
+    "\uE016":["@4p5"],
+    "\uE017":["@4p5_hair"],
+
+    "\uE018":["@tsuki", "@zqukiiruhkih", "@zqukiiruh'kih"],
+    "\uE019":["@tsuki_ramen"],
+    "\uE01A":["@crimson", "@kelvin"],
+    "\uE01B":["@josh", "@joshakabane"],
+    "\uE01C":["@josh-naga", "@joshakabane-naga"],
+    "\uE01D":["@maven"],
+    "\uE01E":["@maven-logo"],
+    "\uE01F":["@cone","@mxduck"]
   }
 }

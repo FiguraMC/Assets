@@ -1,0 +1,11 @@
+{
+  "width": 64,
+  "heigth": 32,
+  "blacklist": "",
+  "emojis": {
+    "\uE000": {"names":["skull4"],"frames":8,"frametime":4},
+    "\uE001": {"names":["banana_rotata_x"],"frames":8,"frametime":3},
+    "\uE002": {"names":["banana_rotata_y"],"frames":8,"frametime":3},
+    "\uE003": {"names":["banana_rotata_z"],"frames":8,"frametime":3}
+  }
+}

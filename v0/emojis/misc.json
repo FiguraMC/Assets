@@ -3,6 +3,10 @@
   "emojis": {
     "\uE000": ["pregnant_man","man"],
     "\uE001": ["pregnant_woman","woman"],
-    "\uE002": ["pregnant_person","person"]
+    "\uE002": ["pregnant_person","person"],
+
+    "\uE003": ["man"],
+    "\uE004": ["woman"],
+    "\uE005": ["person"]
   }
 }
