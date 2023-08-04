@@ -12,6 +12,7 @@
     "\uE007": ["pray", "prayers"],
 
     "\uE008": ["handshake", "help"],
-    "\uE009": ["middle_finger", "fuck_you"]
+    "\uE009": ["middle_finger", "fuck_you"],
+    "\uE00A": ["l", "l_hand", "loser", "point_up"]
   }
 }
