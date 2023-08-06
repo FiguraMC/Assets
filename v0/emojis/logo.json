@@ -21,7 +21,7 @@
     "\uE00E": ["eclipse_ide"],
 
     "\uE00F": ["lua"],
-    "\uE010":  "java"],
+    "\uE010": ["java"],
     "\uE011": ["c"],
     "\uE012": ["python"],
 
@@ -33,6 +33,5 @@
     "\uE017": ["mcdonalds"],
     "\uE018": ["tacobell"],
     "\uE019": ["exploit"]
-
   }
 }
