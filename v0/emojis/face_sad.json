@@ -23,6 +23,8 @@
     "\uE011": ["crying_loudly"],
     "\uE012": ["crying_pancake"],
     "\uE013": ["fake_dead"],
-    "\uE014": ["despair"]
+    "\uE014": ["despair"],
+    "\uE015": ["exhausted","leave_me_alone"],
+    "\uE016": ["judging","stare"]
   }
 }
