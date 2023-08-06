@@ -14,24 +14,25 @@
     "\uE008": ["quilt"],
     "\uE009": ["fabric"],
     "\uE00A": ["forge"],
+	"\uE00B": ["modrinth"],
 
-    "\uE00B": ["intellij"],
-    "\uE00C": ["visual_studio"],
-    "\uE00D": ["eclipse_ide"],
+    "\uE00C": ["intellij"],
+    "\uE00D": ["visual_studio"],
+    "\uE00E": ["eclipse_ide"],
 
-    "\uE00E": ["lua"],
-    "\uE00F": ["java"],
-    "\uE010": ["c"],
-    "\uE011": ["python"],
+    "\uE00F": ["lua"],
+    "\uE010":  "java"],
+    "\uE011": ["c"],
+    "\uE012": ["python"],
 
-    "\uE012": ["whatsapp"], 
-    "\uE013": ["mastodon"],
-    "\uE014": ["discord"],
-    "\uE015": ["twitter"],
+    "\uE013": ["whatsapp"], 
+    "\uE014": ["mastodon"],
+    "\uE015": ["discord"],
+    "\uE016": ["twitter"],
 
-    "\uE016": ["mcdonalds"],
-    "\uE017": ["tacobell"],
-    "\uE018": ["exploit"]
+    "\uE017": ["mcdonalds"],
+    "\uE018": ["tacobell"],
+    "\uE019": ["exploit"]
 
   }
 }
