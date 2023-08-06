@@ -20,7 +20,7 @@
     "\uE00F": ["sweat"],
 
     "\uE010": ["blank", "no_mouth"],
-    "\uE011": ["stare", "neutral_face"],
+    "\uE011": ["neutral_face"],
     "\uE012": ["zipper", "zipper  _mouth"],
     "\uE013": ["diagonal_mouth"],
     "\uE014": ["hand_over_mouth"],
