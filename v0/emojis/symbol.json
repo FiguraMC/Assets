@@ -1,9 +1,9 @@
 {
   "blacklist": "\uE008",
   "emojis": {
-    "\uE000": ["tm","trademark"],
+    "\uE000": ["tm", "trademark"],
     "\uE001": ["infinity", "symbol_infinity"],
-    "\uE002": ["wheelchair","symbol_wheelchair"],
+    "\uE002": ["wheelchair", "symbol_wheelchair"],
     "\uE003": ["parking", "symbol_parking"],
     "\uE004": ["info", "information", "symbol_info", "symbol_information"],
     "\uE005": ["warning", "symbol_warning"],
