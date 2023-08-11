@@ -1,0 +1,14 @@
+{
+  "blacklist": "",
+  "emojis": {
+    "\uE000": ["scream"],
+    "\uE001": ["scream_cat"],
+    "\uE002": ["oh", "open_mouth"],
+    "\uE003": ["shocked", "gasp"],
+
+    "\uE004": ["dizzy", "stroke"],
+    "\uE005": ["exploding_head"],
+    "\uE006": ["fake_dead", "bleh"],
+    "\uE007": ["heated", "hot_face"]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "blacklist": "",
+  "emojis": {
+    "\uE000": ["heart_hands"],
+    "\uE001": ["+1", "thumbs_up"],
+    "\uE002": ["-1", "thumbs_down"],
+    "\uE003": ["wave"],
+
+    "\uE004": ["hand"],
+    "\uE005": ["okay"],
+    "\uE006": ["nailcare"],
+    "\uE007": ["pray", "prayers"],
+
+    "\uE008": ["handshake", "help"],
+    "\uE009": ["middle_finger", "fuck_you"],
+    "\uE00A": ["l", "l_hand", "loser", "point_up"]
+  }
+}
