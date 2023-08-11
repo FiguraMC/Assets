@@ -1,0 +1,565 @@
+{
+    "figura": "Figura",
+    "figura.tab": "  ",
+    "figura.ellipsis": "...",
+  
+  
+    "figura.backend.connected": "Conectado al Backend",
+    "figura.backend.disconnected": "Desconectado al Backend",
+  
+    "figura.backend.user_not_found": "Usuario no encontrado",
+    "figura.backend.avatar_not_found": "Avatar no encontrado",
+  
+    "figura.backend.upload_success": "Avatar subido correctamente",
+    "figura.backend.upload_too_big": "El Avatar es demasiado grande",
+    "figura.backend.upload_too_many": "Tienes demasiados Avatares",
+    "figura.backend.upload_error": "Error al subir el Avatar",
+  
+    "figura.backend.delete_success": "Avatar borrado correctamente",
+    "figura.backend.delete_error": "Error al borrar el Avatar",
+  
+    "figura.backend.equip_error": "Error al seleccionar el Avatar",
+  
+    "figura.backend.warning": "Aviso",
+    "figura.backend.ping_size": "Ping demasiado grande",
+    "figura.backend.ping_rate": "Se están enviando demasiados pings",
+  
+  
+    "figura.toast.reload": "Avatar recargado",
+    "figura.toast.reload_all": "Se han recargado todos los avatares",
+    "figura.toast.panic_enabled": "Modo seguro activado",
+    "figura.toast.panic_disabled": "Modo seguro desactivado",
+    "figura.toast.clipboard": "Copiado al portapapeles",
+    "figura.toast.permission_change": "Permissions changed to",
+    "figura.toast.new_version": "Hay una nueva versión disponible",
+    "figura.toast.avatar_wizard.error": "Error al crear el Avatar",
+    "figura.toast.avatar_wizard.success": "Avatar creado correctamente",
+    "figura.toast.load_error": "Error al cargar el Avatar",
+    "figura.toast.wardrobe_copy.success": "Se han copiado %s archivo(s)",
+    "figura.toast.wardrobe_copy.error": "Error al copiar archivos",
+  
+  
+    "figura.permissions.category.blocked": "Bloqueado",
+    "figura.permissions.category.low": "Bajo",
+    "figura.permissions.category.default": "Predeterminado",
+    "figura.permissions.category.high": "Alto",
+    "figura.permissions.category.max": "Máximo",
+  
+    "figura.permissions.infinity": "Infinito",
+    "figura.permissions.enabled": "Sí",
+    "figura.permissions.disabled": "No",
+  
+    "figura.permissions.value.init_inst": "Instrucciones de inicialización",
+    "figura.permissions.value.world_tick_inst": "Instrucciones de tick de mundo",
+    "figura.permissions.value.tick_inst": "Instrucciones de tick",
+    "figura.permissions.value.world_render_inst": "Instrucciones de renderizado de mundo",
+    "figura.permissions.value.render_inst": "Instrucciones de renderizado",
+    "figura.permissions.value.complexity": "Nivel máximo de complejidad",
+    "figura.permissions.value.particles": "Cantidad máxima de partículas",
+    "figura.permissions.value.sounds": "Cantidad máxima de sonidos",
+    "figura.permissions.value.volume": "Volumen de sonidos",
+    "figura.permissions.value.bb_animations": "Complejidad máxima de las animaciones",
+    "figura.permissions.value.animation_inst": "Instrucciones de animaciones",
+    "figura.permissions.value.texture_size": "Tamaño máximo de las texturas",
+    "figura.permissions.value.vanilla_model_edit": "Permitir modificar el modelo predeterminado",
+    "figura.permissions.value.nameplate_edit": "Permitir modificar el Nameplate",
+    "figura.permissions.value.offscreen_rendering": "Render Offscreen",
+    "figura.permissions.value.custom_render_layer": "Permitir el uso de capas de render personalizadas",
+    "figura.permissions.value.custom_sounds": "Permitir el uso de sonidos personalizados",
+    "figura.permissions.value.custom_skull": "Usar el Avatar para las cabezas de jugador",
+  
+  
+    "figura.popup_menu.cancel": "Cancelar",
+    "figura.popup_menu.reload": "Recargar Avatar",
+    "figura.popup_menu.increase_permissions": "Incrementar permisos",
+    "figura.popup_menu.decrease_permissions": "Reducir permisos",
+    "figura.popup_menu.permission_screen": "Abrir los ajustes de permisos",
+  
+  
+    "figura.badges.system.default": "Símbolo de Figura",
+    "figura.badges.system.permissions": "El Avatar requiere un nivel de permisos superior",
+    "figura.badges.system.warning": "Avatar diseñado para una versión más reciente de Figura",
+    "figura.badges.system.error": "Error de Script en el Avatar",
+  
+    "figura.badges.pride.agender": "Figura Agender Mark!",
+    "figura.badges.pride.aroace": "Figura Aroace Mark!",
+    "figura.badges.pride.aromantic": "Figura Aromantic Mark!",
+    "figura.badges.pride.asexual": "Figura Asexual Mark!",
+    "figura.badges.pride.bigender": "Figura Bigender Mark!",
+    "figura.badges.pride.bisexual": "Figura Bisexual Mark!",
+    "figura.badges.pride.demiboy": "Figura Demiboy Mark!",
+    "figura.badges.pride.demigender": "Figura Demigender Mark!",
+    "figura.badges.pride.demigirl": "Figura Demigirl Mark!",
+    "figura.badges.pride.demiromantic": "Figura Demiromantic Mark!",
+    "figura.badges.pride.demisexual": "Figura Demisexual Mark!",
+    "figura.badges.pride.disability": "Figura Disability Mark!",
+    "figura.badges.pride.finsexual": "Figura Finsexual Mark!",
+    "figura.badges.pride.gaymen": "Figura Gay Men Mark!",
+    "figura.badges.pride.genderfae": "Figura Genderfae Mark!",
+    "figura.badges.pride.genderfluid": "Figura Genderfluid Mark!",
+    "figura.badges.pride.genderqueer": "Figura Genderqueer Mark!",
+    "figura.badges.pride.intersex": "Figura Intersex Mark!",
+    "figura.badges.pride.lesbian": "Figura Lesbian Mark!",
+    "figura.badges.pride.nonbinary": "Figura Nonbinary Mark!",
+    "figura.badges.pride.pansexual": "Figura Pansexual Mark!",
+    "figura.badges.pride.plural": "Figura Plural Mark!",
+    "figura.badges.pride.polysexual": "Figura Polysexual Mark!",
+    "figura.badges.pride.pride": "Figura Pride Mark!",
+    "figura.badges.pride.transgender": "Figura Transgender Mark!",
+  
+    "figura.badges.special.dev": "Desarrollador de Figura",
+    "figura.badges.special.discord_staff": "Admin en el servidor de Discord de Figura",
+    "figura.badges.special.contest": "Ganador del concurso de Figura",
+    "figura.badges.special.donator": "Thank you for supporting the Figura mod!",
+    "figura.badges.special.translator": "Traductor de Figura",
+    "figura.badges.special.texture_artist": "Artista de texturas de Figura",
+    "figura.badges.special.immortalized": "Immortalized Figura Avatar!",
+  
+    "figura.badges.no_permissions.init_inst": "El Script supera el límite de recursos",
+    "figura.badges.no_permissions.complexity": "El modelo es demasiado complejo",
+    "figura.badges.no_permissions.bb_animations": "Las animaciones del modelo son demasiado complejas",
+    "figura.badges.no_permissions.texture_size": "Texturas demasiado grandes",
+    "figura.badges.no_permissions.particles": "Límite de partículas superado",
+    "figura.badges.no_permissions.sounds": "Límite de sonidos superado",
+    "figura.badges.no_permissions.custom_sounds": "Se requiere el uso de sonidos personalizados",
+    "figura.badges.no_permissions.vanilla_model_edit": "El Avatar modifica el modelo predeterminado del jugador",
+  
+    "figura.gui.on": "SÍ",
+    "figura.gui.off": "NO",
+    "figura.gui.create": "Crear",
+    "figura.gui.name": "Nombre",
+    "figura.gui.authors": "Autores",
+    "figura.gui.size": "Tamaño",
+    "figura.gui.complexity": "Complejidad",
+    "figura.gui.done": "Hecho",
+    "figura.gui.cancel": "Cancelar",
+    "figura.gui.expand": "Expandir",
+    "figura.gui.minimise": "Minimizar",
+    "figura.gui.reset_all": "Reset All",
+    "figura.gui.panic": "Modo seguro activado\nLas funciones de Figura están desactivadas\nPulsa [%s] para desactivar",
+    "figura.gui.avatar_settings.tooltip": "Ajustes de Avatar",
+    "figura.gui.duplicate_keybind": "Esta tecla también se usa para:\n%s",
+    "figura.gui.favorited": "Favorito",
+    "figura.gui.new_version.tooltip": "Hay una versión de Figura más reciente: %s",
+  
+    "figura.gui.text_hint.any": "Texto",
+    "figura.gui.text_hint.int": "Número sin decimales",
+    "figura.gui.text_hint.positive_int": "Número sin decimales",
+    "figura.gui.text_hint.float": "Número",
+    "figura.gui.text_hint.positive_float": "Número",
+    "figura.gui.text_hint.hex_color": "Color",
+    "figura.gui.text_hint.folder_path": "Ruta en el disco",
+    "figura.gui.text_hint.ip": "Dirección IP",
+    "figura.gui.text_hint.search": "Buscar",
+    "figura.gui.text_hint.name": "Nombre/UUID",
+  
+    "figura.gui.error.no_avatar": "No se ha seleccionado ningún Avatar",
+    "figura.gui.error.no_keybinds": "El Avatar no tiene combinaciones de teclas",
+    "figura.gui.error.no_sounds": "El Avatar no tiene sonidos personalizados",
+    "figura.gui.error.no_wheel_page": "No se ha seleccionado ninguna página activa para el menú de acciones",
+  
+    "figura.gui.action_wheel.slots_indicator": "Ranuras %s-%s de %s",
+  
+    "figura.gui.context.set_permissions": "Cambiar permisos",
+    "figura.gui.context.reload": "Recargar Avatar",
+    "figura.gui.context.copy_name": "Copiar Nombre",
+    "figura.gui.context.copy_uuid": "Copiar UUID",
+    "figura.gui.context.copy_path": "Copiar Ruta",
+    "figura.gui.context.open_folder": "Abrir carpeta",
+    "figura.gui.context.favorite.add": "Añadir a favoritos",
+    "figura.gui.context.favorite.remove": "Quitar de favoritos",
+  
+    "figura.gui.panels.title.profile": "Perfil",
+    "figura.gui.panels.title.browser": "Navegador",
+    "figura.gui.panels.title.wardrobe": "Armario",
+    "figura.gui.panels.title.permissions": "Permisos",
+    "figura.gui.panels.title.settings": "Ajustes",
+    "figura.gui.panels.title.help": "Ayuda",
+  
+    "figura.gui.panels.title.sound": "Sonidos del Avatar",
+    "figura.gui.panels.title.keybind": "Teclas del Avatar",
+    "figura.gui.panels.title.avatar": "Previsualizción del Avatar",
+    "figura.gui.panels.title.docs": "Documentación de Lua",
+  
+    "figura.gui.wardrobe.expand_wardrobe.tooltip": "Expandir lista de armario",
+    "figura.gui.wardrobe.minimize_wardrobe.tooltip": "Minimize wardrobe list",
+    "figura.gui.wardrobe.upload.tooltip": "Subir Avatar",
+    "figura.gui.wardrobe.reload.tooltip": "Recargar Avatar desde el servidor",
+    "figura.gui.wardrobe.delete.tooltip": "Borrar Avatar del servidor",
+    "figura.gui.wardrobe.sound.tooltip": "Sonidos del Avatar",
+    "figura.gui.wardrobe.keybind.tooltip": "Teclas del Avatar",
+    "figura.gui.wardrobe.new_avatar.tooltip": "Crear Avatar",
+    "figura.gui.wardrobe.unselect.tooltip": "Deseleccionar",
+    "figura.gui.wardrobe.folder.tooltip": "Abrir carpeta de Avatares",
+    "figura.gui.wardrobe.drop_files": "¿Copiar los siguientes archivos a tu armario?",
+  
+    "figura.gui.sound.play": "Reproducir sonido",
+    "figura.gui.sound.stop": "Parar sonido",
+  
+    "figura.gui.permissions.reset": "Resetear todos",
+    "figura.gui.permissions.reload_all": "Recargar todos",
+    "figura.gui.permissions.precise": "Modo preciso",
+    "figura.gui.permissions.expand_permissions.tooltip": "Abrir menú de permisos avanzados",
+    "figura.gui.permissions.minimize_permissions.tooltip": "Cerrar menú de permisos avanzados",
+    "figura.gui.permissions.figura_only.tooltip": "Solo mostrar jugadores que usen Figura",
+    "figura.gui.permissions.disconnected.tooltip": "Mostrar jugadores desconectados",
+  
+    "figura.gui.permissions.disconnected": "(desconectado)",
+    "figura.gui.permissions.size": "Tamaño",
+    "figura.gui.permissions.complexity": "Complejidad",
+    "figura.gui.permissions.init": "Instrucciones de Init",
+    "figura.gui.permissions.init.root": "Raíz: %s",
+    "figura.gui.permissions.init.entity": "Entidad: %s",
+    "figura.gui.permissions.tick": "Instrucciones de Tick",
+    "figura.gui.permissions.tick.world": "Mundo: %s",
+    "figura.gui.permissions.tick.entity": "Entidad: %s",
+    "figura.gui.permissions.render": "Instrucciones de Render",
+    "figura.gui.permissions.render.world": "Mundo: %s",
+    "figura.gui.permissions.render.entity": "Entidad: %s",
+    "figura.gui.permissions.render.post_entity": "Post Entidad: %s",
+    "figura.gui.permissions.render.post_world": "Post Mundo: %s",
+    "figura.gui.permissions.render.animations": "Animaciones: %s",
+  
+    "figura.gui.load_error": "Error al cargar",
+    "figura.gui.load_error.1": "Archivo moon inválido",
+    "figura.gui.load_error.2": "Script inválido",
+    "figura.gui.load_error.3": "Sonido personalizado inválido",
+    "figura.gui.load_error.4": "Modelo inválido",
+    "figura.gui.load_error.5": "\"avatar.json\" inválido",
+  
+    "figura.gui.status.reason": "Motivo",
+    "figura.gui.status.size": "Tamaño",
+    "figura.gui.status.size.0": "No hay",
+    "figura.gui.status.size.1": "Avatar size is greater than %s",
+    "figura.gui.status.size.2": "Avatar size is greater than %s",
+    "figura.gui.status.size.3": "ok",
+  
+    "figura.gui.status.texture": "Textura",
+    "figura.gui.status.texture.0": "No hay",
+    "figura.gui.status.texture.3": "OK",
+  
+    "figura.gui.status.script": "Script",
+    "figura.gui.status.script.0": "No hay",
+    "figura.gui.status.script.1": "Error de Script",
+    "figura.gui.status.script.2": "Script hecho para una versión más reciente",
+    "figura.gui.status.script.3": "OK",
+  
+    "figura.gui.status.backend": "Backend",
+    "figura.gui.status.backend.1": "Desconectado",
+    "figura.gui.status.backend.2": "Conectando...",
+    "figura.gui.status.backend.3": "Conectado",
+  
+    "figura.gui.avatar_wizard.meta": "Datos sobre el Avatar",
+    "figura.gui.avatar_wizard.name": "Nombre",
+    "figura.gui.avatar_wizard.description": "Descripción",
+    "figura.gui.avatar_wizard.authors": "Autor(es)",
+  
+    "figura.gui.avatar_wizard.model": "Modelo",
+    "figura.gui.avatar_wizard.dummy_model": "Incluir un modelo",
+    "figura.gui.avatar_wizard.custom_player": "Incluir modelo de jugador",
+    "figura.gui.avatar_wizard.slim": "Usar brazos estrechos (alex/slim)",
+    "figura.gui.avatar_wizard.cape": "Plantilla para capa",
+    "figura.gui.avatar_wizard.elytra": "Plantilla para Élitros",
+  
+    "figura.gui.avatar_wizard.pivots": "Puntos de rotación",
+    "figura.gui.avatar_wizard.items_pivot": "Ítems en mano",
+    "figura.gui.avatar_wizard.spyglass_pivot": "Catalejo",
+    "figura.gui.avatar_wizard.helmet_item_pivot": "Ítems en cabeza",
+    "figura.gui.avatar_wizard.parrots_pivot": "Loros",
+  
+    "figura.gui.avatar_wizard.scripting": "Script",
+    "figura.gui.avatar_wizard.dummy_script": "Incluir un Script",
+    "figura.gui.avatar_wizard.hide_player": "Ocultar modelo predeterminado",
+    "figura.gui.avatar_wizard.hide_armor": "Ocultar armadura predeterminada",
+    "figura.gui.avatar_wizard.hide_cape": "Ocultar capa predeterminada",
+    "figura.gui.avatar_wizard.hide_elytra": "Ocultar Élitros predeterminados",
+    "figura.gui.avatar_wizard.empty_events": "Incluir plantilla para eventos",
+  
+    "figura.gui.help.docs": "Documentación",
+    "figura.gui.help.links": "Enlaces",
+    "figura.gui.help.about": "Acerca de",
+    "figura.gui.help.ingame_docs": "Documentación de Figura",
+    "figura.gui.help.lua_manual": "Manual de Lua",
+    "figura.gui.help.external_wiki": "Wiki Online",
+    "figura.gui.help.lua_version": "Versión de Lua: %s",
+    "figura.gui.help.figura_version": "Version de Figura: %s",
+    "figura.gui.help.credits": "Hecho con amor ❤ - por %s",
+  
+  
+    "figura.config.nameplate": "Ajustes de Nameplate",
+    "figura.config.nameplate.tooltip": "Ajustes de Nameplate",
+  
+    "figura.config.self_nameplate": "Nameplate propio",
+    "figura.config.self_nameplate.tooltip": "Mostrar tu nameplate",
+  
+    "figura.config.nameplate_render": "Cuando mostrar",
+    "figura.config.nameplate_render.tooltip": "Condiciones para mostrar el Nameplate",
+    "figura.config.nameplate_render.enum": "Por defecto: comportamiento por defecto del Nameplate\nAl mirar: Sólo mostrar el Nameplate cuando si estás mirando a la entidad\nNunca: No mostrar Nameplates",
+    "figura.config.nameplate_render.1": "Por defecto",
+    "figura.config.nameplate_render.2": "Por defecto + Al mirar",
+    "figura.config.nameplate_render.3": "Nunca",
+  
+    "figura.config.preview_nameplate": "Mostrar en la IU",
+    "figura.config.preview_nameplate.tooltip": "Mostrar Nameplates en la IU",
+  
+    "figura.config.chat_nameplate": "Personalizaciones en Chat",
+    "figura.config.chat_nameplate.tooltip": "Nivel de personalizaciones en Chat",
+    "figura.config.entity_nameplate": "Personalizaciones de Entidad",
+    "figura.config.entity_nameplate.tooltip": "Nivel de personalizaciones de entidad",
+    "figura.config.list_nameplate": "Personalizaciones en Lista tab (Tablist)",
+    "figura.config.list_nameplate.tooltip": "Nivel de personalizaciones en la lista tab (Tablist)",
+    "figura.config.nameplate_level.enum": "Ninguna: No aplicar\nScript: Personalizaciones de Script\nInsígnias: Insígnias de Figura",
+    "figura.config.nameplate_level.1": "Ninguna",
+    "figura.config.nameplate_level.2": "Script",
+    "figura.config.nameplate_level.3": "Script + Insígnias",
+  
+  
+    "figura.config.script": "Script",
+    "figura.config.script.tooltip": "Ajustes de Scripts",
+  
+    "figura.config.log_location": "Mensajes de depuración",
+    "figura.config.log_location.tooltip": "Dónde enviar los mensajes de depuración (función print de lua)",
+    "figura.config.log_location.enum": "Chat: El chat del juego(también se guarda en el registro)\nLogger: El registro del cliente",
+    "figura.config.log_location.1": "Chat",
+    "figura.config.log_location.2": "Logger",
+  
+    "figura.config.log_number_length": "Decimales en print()",
+    "figura.config.log_number_length.tooltip": "Cuantos decimales mostrar cuando se use print()",
+  
+    "figura.config.format_script": "Nivel de minificación de los Scripts",
+    "figura.config.format_script.tooltip.1": "Cambia el nivel de minificación de los scripts",
+    "figura.config.format_script.tooltip.2": "Reselecciona el Avatar para que tenga efecto",
+    "figura.config.format_script.enum": "Desactivado: No hacer nada\nBajo: Elimina comentarios y espacios extra\nAlto: Elimina comentarios, espacios extra y saltos de línea",
+    "figura.config.format_script.1": "Desactivado",
+    "figura.config.format_script.2": "Bajo",
+    "figura.config.format_script.3": "Alto",
+  
+  
+    "figura.config.rendering": "Renderizado",
+    "figura.config.rendering.tooltip": "Ajustes de Renderizado",
+  
+    "figura.config.iris_compatibility_fix": "Compatibilidad con «Iris»",
+    "figura.config.iris_compatibility_fix.tooltip": "Ajustes para mejorar la compatibilidad con el mod Iris\nNo tiene efecto si Iris no está instalado",
+    "figura.config.iris_compatibility_fix.enum": "No: No aplicar ajustes de compatibilidad\nOffset: Añadir un offset a las partes con perfiles de render especiales\nEmissives: Mejorar compatibilidad de las texturas emisivas",
+    "figura.config.iris_compatibility_fix.1": "No",
+    "figura.config.iris_compatibility_fix.2": "Offset",
+    "figura.config.iris_compatibility_fix.3": "Offset y Emisivos",
+  
+    "figura.config.allow_fp_hands": "Modificaciones a las manos en 1ª persona",
+    "figura.config.allow_fp_hands.tooltip": "Permitir que los Scripts muevan, giren o escalen las manos del jugador cuando está en modo de primera persona",
+  
+    "figura.config.render_debug_parts_pivot": "Mostrar puntos de rotación",
+    "figura.config.render_debug_parts_pivot.tooltip": "Mostrar los puntos de rotación de los %d y %d cuando se active la opción de mostrar cajas de colisión",
+    "figura.config.render_debug_parts_pivot.tooltip.cubes": "cubos",
+    "figura.config.render_debug_parts_pivot.tooltip.groups": "grupos",
+    "figura.config.render_debug_parts_pivot.enum": "No: No mostrar puntos de rotación\nSolo visible: Solo mostrar para las partes visibles\nSí: Mostrar todos\nPropio: Solo mostrar para tu Avatar",
+    "figura.config.render_debug_parts_pivot.1": "No",
+    "figura.config.render_debug_parts_pivot.2": "Solo Visible (Propio)",
+    "figura.config.render_debug_parts_pivot.3": "Sí (Propio)",
+    "figura.config.render_debug_parts_pivot.4": "Solo Visible",
+    "figura.config.render_debug_parts_pivot.5": "Sí",
+  
+    "figura.config.first_person_matrices": "Matrices en 1ª persona",
+    "figura.config.first_person_matrices.tooltip": "Permitir que las matrices de las partes de los modelos se actualicen cuando estás en el modo de primera persona",
+  
+  
+    "figura.config.action_wheel": "Menú de acciones",
+    "figura.config.action_wheel.tooltip": "Ajustes del menú de acciones",
+  
+    "figura.config.action_wheel_button": "Tecla para abrir",
+    "figura.config.action_wheel_button.tooltip": "Tecla para abrir el menú de acciones",
+  
+    "figura.config.action_wheel_mode": "Modo de uso",
+    "figura.config.action_wheel_mode.tooltip": "Forma de interactuar con el menú de acciones",
+    "figura.config.action_wheel_mode.enum": "Mantener: La tecla para abrir se ha de mantener pulsada para mostrar el menú\nInterruptor: Pulsa una vez para mostrar, pulsa otra vez para ocultar\nEjecutar al cerrar: Ejecutar la acción seleccionada al cerrar el menú",
+    "figura.config.action_wheel_mode.1": "Mantener",
+    "figura.config.action_wheel_mode.2": "Interruptor",
+    "figura.config.action_wheel_mode.3": "Mantener (ejecutar al cerrar)",
+    "figura.config.action_wheel_mode.4": "Interruptor (ejecutar al cerrar)",
+  
+    "figura.config.action_wheel_scale": "Tamaño",
+    "figura.config.action_wheel_scale.tooltip": "Tamaño del menú de acciones",
+  
+    "figura.config.action_wheel_title": "Posición del texto de selección",
+    "figura.config.action_wheel_title.tooltip": "Donde mostrar el texto de la acción seleccionada",
+    "figura.config.action_wheel_title.enum": "Ratón: Mostrar el texto al lado del ratón\nEncima: Mostrar el texto encima del menú\nCentro: Mostrar el texto en el centro del menú\nDebajo: Mostrar el texto debajo del menú",
+    "figura.config.action_wheel_title.1": "Ratón (Texto emergente)",
+    "figura.config.action_wheel_title.2": "Ratón",
+    "figura.config.action_wheel_title.3": "Encima",
+    "figura.config.action_wheel_title.4": "Centro",
+    "figura.config.action_wheel_title.5": "Debajo",
+  
+    "figura.config.action_wheel_slots_indicator": "Indicador de página",
+    "figura.config.action_wheel_slots_indicator.tooltip": "Donde mostrar el indicador de la página actual",
+    "figura.config.action_wheel_slots_indicator.enum": "Encima: Mostrar el texto encima del menú\nCentro: Mostrar el texto en el centro del menú\nDebajo: Mostrar el texto debajo del menú",
+    "figura.config.action_wheel_slots_indicator.1": "Encima",
+    "figura.config.action_wheel_slots_indicator.2": "Centro",
+    "figura.config.action_wheel_slots_indicator.3": "Debajo",
+  
+    "figura.config.action_wheel_decorations": "Decoraciones de Ítems",
+    "figura.config.action_wheel_decorations.tooltip": "Mostrar decoraciones de ítems(p.ej: barra de durabilidad, número de ítems...)",
+  
+  
+    "figura.config.ui": "IU",
+    "figura.config.ui.tooltip": "Ajustes de IU",
+  
+    "figura.config.background_scroll_speed": "Velocidad de movimiento del fondo",
+    "figura.config.background_scroll_speed.tooltip": "Multiplicador de la velocidad del movimiento del fondo animado",
+  
+    "figura.config.popup_scale": "Tamaño del menú de jugador",
+    "figura.config.popup_scale.tooltip": "Multiplicador de escala del menú de jugador",
+  
+    "figura.config.popup_min_size": "Tamaño mínimo del menú de jugador",
+    "figura.config.popup_min_size.tooltip": "Tamaño mínimo del menú de jugador cuando te alejas de la persona",
+  
+    "figura.config.popup_max_size": "Tamaño máximo del menú de jugador",
+    "figura.config.popup_max_size.tooltip": "Tamaño máximo del menú de jugador cuando te acercas a la persona",
+  
+    "figura.config.avatar_portrait": "Avatares en la lista de jugadores",
+    "figura.config.avatar_portrait.tooltip": "Usar una imágen del avatar en vez del aspecto del jugador en la lista tab",
+  
+    "figura.config.figura_inventory": "Usar miniatura de jugador en el inventario",
+    "figura.config.figura_inventory.tooltip": "Utilizar las miniaturas de jugador en los inventarios en vez del sistema predeterminado",
+  
+    "figura.config.toast_time": "Tiempo de notificación",
+    "figura.config.toast_time.tooltip": "Durante cuanto tiempo (segundos) las notificaciones de Figura deben permanecer en pantalla",
+  
+    "figura.config.toast_title_time": "Tiempo de título",
+    "figura.config.toast_title_time.tooltip": "Durante cuanto tiempo (segundos) mostrar el título de las notificaciones de Figura",
+  
+    "figura.config.wardrobe_file_names": "Usar nombres de archivo",
+    "figura.config.wardrobe_file_names.tooltip": "Mostrar los nombres de archivo en vez del nombre del Avatar en el armario",
+  
+    "figura.config.preview_head_rotation": "Usar rotación de cabeza en la IU",
+    "figura.config.preview_head_rotation.tooltip": "Si se activa, se utilizará la dirección en la que se está mirando para la previsualización de los avatares\nSi se desactiva los Avatares en las previsualizaciones siempre mirarán hacia adelante",
+  
+    "figura.config.text_scroll_speed": "Velocidad de movimiento del texto",
+    "figura.config.text_scroll_speed.tooltip": "Cambia la velocidad a la que se mueve el texto",
+  
+    "figura.config.text_scroll_delay": "Tiempo de espera para el movimiento del texto",
+    "figura.config.text_scroll_delay.tooltip": "Cuanto tiempo esperar para que el texto comience a moverse (en ticks)",
+  
+  
+    "figura.config.paperdoll": "Miniatura de jugador",
+    "figura.config.paperdoll.tooltip": "Ajustes de la miniatura de jugador",
+  
+    "figura.config.has_paperdoll": "Activar",
+    "figura.config.has_paperdoll.tooltip": "Activar la miniatura de jugador",
+  
+    "figura.config.paperdoll_always_on": "Mostrar siempre",
+    "figura.config.paperdoll_always_on.tooltip": "Siempre mostrar la miniatura de jugador",
+  
+    "figura.config.first_person_paperdoll": "Mostrar solo en 1ª persona",
+    "figura.config.first_person_paperdoll.tooltip": "Solo mostrar la miniatura de jugador si se está en modo de primera persona",
+  
+    "figura.config.paperdoll_invisible": "Ignorar invisibilidad",
+    "figura.config.paperdoll_invisible.tooltip": "Ignorar el efecto de invisibilidad en la miniatura de jugador",
+
+    "figura.config.paperdoll_scale": "Tamaño",
+    "figura.config.paperdoll_scale.tooltip": "Escala de la miniatura de jugador",
+  
+    "figura.config.paperdoll_x": "Posición X",
+    "figura.config.paperdoll_x.tooltip": "Posición X de la miniatura de jugador",
+  
+    "figura.config.paperdoll_y": "Posición Y",
+    "figura.config.paperdoll_y.tooltip": "Posición Y de la miniatura de jugador",
+  
+    "figura.config.paperdoll_pitch": "Rotación Pitch",
+    "figura.config.paperdoll_pitch.tooltip": "Changes the paperdoll PITCH rotation",
+  
+    "figura.config.paperdoll_yaw": "Rotación Yaw",
+    "figura.config.paperdoll_yaw.tooltip": "Changes the paperdoll YAW rotation",
+  
+  
+    "figura.config.misc": "Varios",
+    "figura.config.misc.tooltip": "Ajustes sin categoría",
+  
+    "figura.config.popup_button": "Tecla del Menú de jugador",
+    "figura.config.popup_button.tooltip": "Tecla para abrir el Menú de jugador, con opciones varias",
+  
+    "figura.config.reload_button": "Tecla para recargar Avatar",
+    "figura.config.reload_button.tooltip": "Recarga el Avatar actual al pulsarse",
+  
+    "figura.config.panic_button": "Tecla para activar el modo seguro",
+    "figura.config.panic_button.tooltip": "Desactiva las funciones de figura temporalmente",
+  
+    "figura.config.wardrobe_button": "Tecla para abrir el armario",
+    "figura.config.wardrobe_button.tooltip": "Tecla para abrir el armario de Figura",
+  
+    "figura.config.button_location": "Posición del botón de Figura",
+    "figura.config.button_location.tooltip": "Posición del botón de Figura",
+    "figura.config.button_location.enum": "Icono: Posicionar al lado del botón de reportar jugador\nOtros: Botón en forma de texto, posicionado en el sitio seleccionado",
+    "figura.config.button_location.1": "Icono",
+    "figura.config.button_location.2": "Superior Izquierda",
+    "figura.config.button_location.3": "Superior Derecha",
+    "figura.config.button_location.4": "Inferior Izquierda",
+    "figura.config.button_location.5": "Inferior Derecha",
+    "figura.config.button_location.6": "A la Izquierda de Entidad",
+    "figura.config.button_location.7": "A la Derecha de Entidad",
+  
+    "figura.config.update_channel": "Comprobar actualizaciones",
+    "figura.config.update_channel.tooltip": "Comprobar si hay una versión más reciente de Figura",
+    "figura.config.update_channel.enum": "No: No comprobar actualizaciones\nReleases: Comprobar si hay actualizaciones de tipo Release(estable)\nPre-Releases: Comprobar si hay actualizaciones de tipo Pre-Release(inestable)",
+    "figura.config.update_channel.1": "No",
+    "figura.config.update_channel.2": "Sí, Releases",
+    "figura.config.update_channel.3": "Sí, Pre-releases y Releases",
+  
+    "figura.config.default_permission_level": "Nivel de permisos por defecto",
+    "figura.config.default_permission_level.tooltip": "Selecciona el nivel de permisos que se le asigna a los jugadores por defecto",
+  
+    "figura.config.chat_emojis": "Emojis en el chat",
+    "figura.config.chat_emojis.tooltip": "Activar la función de emojis en el chat, Convierte \":nombre_de_emoji:\" en un emoji",
+  
+    "figura.config.easter_eggs": "Activar «Huevos de Pascua»",
+    "figura.config.easter_eggs.tooltip": "Activar funciones inesperadas/divertidas de Figura",
+  
+  
+    "figura.config.dev": "Desarrollo",
+    "figura.config.dev.tooltip": "Ajustes para desarrolladores",
+  
+    "figura.config.connection_toasts": "Alertas de conexión al backend",
+    "figura.config.connection_toasts.tooltip": "Mostrar mensajes sobre el estado de la conexión al backend",
+  
+    "figura.config.log_others": "Ver registros de los Scripts de otros",
+    "figura.config.log_others.tooltip": "Mostrar los registros de los Scripts de otros jugadores",
+  
+    "figura.config.log_pings": "Registrar Pings",
+    "figura.config.log_pings.tooltip": "Registrar los «Pings» de otros jugadores",
+    "figura.config.log_pings.enum": "No: No se registrará nada\nChat: Mostrar registros en el chat\nLogger: Guardar en el archivo de registro del juego",
+    "figura.config.log_pings.1": "No",
+    "figura.config.log_pings.2": "Chat + Logger",
+    "figura.config.log_pings.3": "Logger",
+  
+    "figura.config.sync_pings": "Requerir conexión al backend para usar Pings",
+    "figura.config.sync_pings.tooltip.1": "Cambiar si se requiere una conexión con el backend para usar pings propios",
+    "figura.config.sync_pings.tooltip.2": "Importante: Los pings propios no funcionarán si no hay una conexión con el backend Note that: if toggled, your pings will never run if you're not connected to the backend!",
+  
+    "figura.config.chat_messages": "Control del chat",
+    "figura.config.chat_messages.tooltip.1": "Permite a los Scripts enviar y/o manipular mensajes de chat por ti",
+    "figura.config.chat_messages.tooltip.2": "Los mensajes enviados por Scripts estarán firmados por lo que generalmente esta opción es peligrosa",
+    "figura.config.chat_messages.tooltip.3": "Los desarrolladores de Figura no se hacen responsables por el uso de esta función",
+  
+    "figura.config.main_dir": "Directorio de Figura",
+    "figura.config.main_dir.tooltip": "Cambiar la ruta del directorio de Figura",
+  
+    "figura.config.server_ip": "Dirección IP del Backend",
+    "figura.config.server_ip.tooltip": "Dirección IP del servidor de Avatares\nNecesario para poder usar las funciones de multijugador",
+  
+    "figura.config.clear_cache": "Borrar Caché",
+    "figura.config.clear_cache.tooltip": "Borrar los archivos en el caché (avatares de otros jugadores)",
+  
+    "figura.config.redownload_assets": "Actualizar recursos",
+    "figura.config.redownload_assets.tooltip": "Forzar una actualización de los recursos(Traducciones, Emojis...)\nEstos normalmente se actualizan al iniciar el juego\nPuedes forzar de nuevo la actualización pero esto causará que se recargen los recursos del juego por lo que este puede quedarse bloqueado por unos instantes",
+  
+  
+    "figura.command.click_to_open": "Haz click para abrir",
+    "figura.command.run.not_local_error": "No hay ningún Avatar local activo",
+    "figura.command.run.no_script_error": "No hay ningún Script activo",
+    "figura.command.load.loading": "Cargando Avatar...",
+    "figura.command.load.invalid": "La ruta \"%s\" es inválida",
+    "figura.command.docs_export.success": "Se ha exportado la documentación en el directorio de Figura",
+    "figura.command.docs_export.error": "Hubo un error al exportar la documentación de Figura",
+    "figura.command.docs_type_hover": "Click to show %s docs",
+    "figura.command.debug.success": "Se han guardado los datos de depuración en el directorio de Figura",
+    "figura.command.debug.error": "Error al guardar los datos de depuración"
+}  

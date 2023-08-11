@@ -1,0 +1,46 @@
+{
+  "blacklist": "",
+  "emojis": {
+    "\uE000": ["blahaj", "ikea_shark", "shark", "blåhaj"],
+    "\uE001": ["trans_shark", "transgender_blahaj", "trans_blahaj"],
+    "\uE002": ["moff", "moth"],
+    "\uE003": ["butterfly"],
+
+    "\uE004": ["shrimp"],
+    "\uE005": ["crab"],
+    "\uE006": ["lobster"],
+    "\uE007": ["blue_lobster", "lobster2"],
+
+    "\uE008": ["octopus"],
+    "\uE009": ["penguin", "linux"],
+    "\uE00A": ["wolf", "<3_woolfy"],
+    "\uE00B": ["fox", "<3_foxes", "<3_lily"],
+
+    "\uE00C": ["black_cat", "cat3"],
+    "\uE00D": ["cat_face", "cat2"],
+    "\uE00E": ["cat"],
+    "\uE00F": ["bunni", "bunny", "bnuy", "bnui", "booni", "buni", "bnuuy"],
+
+    "\uE010": ["axolotl", "salamander"],
+    "\uE011": ["whale"],
+    "\uE012": ["turtle"],
+    "\uE013": ["chick", "hatching_chick", "baby_chicken"],
+
+    "\uE014": ["dragon"],
+    "\uE015": ["duck"],
+    "\uE016": ["bee"],
+    "\uE017": ["snail"],
+
+    "\uE018": ["purple_shrimp", "shrimp2"],
+    "\uE019": ["sheep"],
+    "\uE01A": ["pig"],
+    "\uE01B": ["cow"],
+
+    "\uE01C": ["giraffe_neck", "giraffe2"],
+    "\uE01D": ["giraffe_head", "giraffe"],
+    "\uE01E": ["rat", "white_rat", "reggie"],
+    "\uE01F": ["squid"],
+
+    "\uE020": ["fish"]
+  }
+}
