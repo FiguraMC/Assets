@@ -1,11 +1,11 @@
 {
   "blacklist": "",
   "emojis": {
-    "\uE000": ["expressionless", "closed_eyes"],
+    "\uE000": ["expressionless", "closed_eyes","neutral"],
     "\uE001": ["diagonal_mouth"],
     "\uE002": ["really?", "disappointed"],
     "\uE003": ["disgusted", "drama"],
-    "\uE004": ["annoyed"],
+    "\uE004": ["persevere"],
     "\uE005": ["pensive"],
     "\uE006": ["unamused"],
     "\uE007": ["frown", "sad"],

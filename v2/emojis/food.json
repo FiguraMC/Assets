@@ -8,7 +8,7 @@
     "\uE004":["spicy", "spicy_pepper", "pepper"],
     "\uE005":["beans"],
     "\uE006":["strawberry", "celeste"],
-    "\uE007": ["apple"],
+    "\uE007":["apple"],
 
     "\uE008":["bento", "bento_box"],
     "\uE009":["sushi", "roll"],
@@ -29,6 +29,7 @@
     "\uE016":["juice", "juicebox"],
     "\uE017":["lolipop"],
     "\uE018":["icecream", "ice_cream"],
-    "\uE019":["cheese", "big_cheese"]
+    "\uE019":["cheese", "big_cheese"],
+	"\uE01A":["popcorn"]
   }
 }
