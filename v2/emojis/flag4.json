@@ -1,0 +1,221 @@
+{
+  "blacklist": "",
+  "emojis": {
+    "\uE000": [
+      "flag_sd",
+      "sudan"
+    ],
+    "\uE001": [
+      "flag_se",
+      "sweden"
+    ],
+    "\uE002": [
+      "flag_sg",
+      "singapore"
+    ],
+    "\uE003": [
+      "flag_sh",
+      "saint_helena_ascension_and_tristan_da_cunha"
+    ],
+    "\uE004": [
+      "flag_si",
+      "slovenia"
+    ],
+    "\uE005": [
+      "flag_sj",
+      "svalbard_and_jan_mayen"
+    ],
+    "\uE006": [
+      "flag_sk",
+      "slovakia"
+    ],
+    "\uE007": [
+      "flag_sl",
+      "sierra_leone"
+    ],
+    "\uE008": [
+      "flag_sm",
+      "san_marino"
+    ],
+    "\uE009": [
+      "flag_sn",
+      "senegal"
+    ],
+    "\uE00A": [
+      "flag_so",
+      "somalia"
+    ],
+    "\uE00B": [
+      "flag_sr",
+      "suriname"
+    ],
+    "\uE00C": [
+      "flag_ss",
+      "south_sudan"
+    ],
+    "\uE00D": [
+      "flag_st",
+      "sao_tome_and_principe"
+    ],
+    "\uE00E": [
+      "flag_sv",
+      "el_salvador"
+    ],
+    "\uE00F": [
+      "flag_sx",
+      "sint_maarten_(dutch_part)"
+    ],
+    "\uE010": [
+      "flag_sy",
+      "syrian_arab_republic"
+    ],
+    "\uE011": [
+      "flag_sz",
+      "swaziland"
+    ],
+    "\uE012": [
+      "flag_tc",
+      "turks_and_caicos_islands"
+    ],
+    "\uE013": [
+      "flag_td",
+      "chad"
+    ],
+    "\uE014": [
+      "flag_tf",
+      "french_southern_territories"
+    ],
+    "\uE015": [
+      "flag_tg",
+      "togo"
+    ],
+    "\uE016": [
+      "flag_th",
+      "thailand"
+    ],
+    "\uE017": [
+      "flag_tj",
+      "tajikistan"
+    ],
+    "\uE018": [
+      "flag_tk",
+      "tokelau"
+    ],
+    "\uE019": [
+      "flag_tl",
+      "timor-leste"
+    ],
+    "\uE01A": [
+      "flag_tm",
+      "turkmenistan"
+    ],
+    "\uE01B": [
+      "flag_tn",
+      "tunisia"
+    ],
+    "\uE01C": [
+      "flag_to",
+      "tonga"
+    ],
+    "\uE01D": [
+      "flag_tr",
+      "turkey"
+    ],
+    "\uE01E": [
+      "flag_tt",
+      "trinidad_and_tobago"
+    ],
+    "\uE01F": [
+      "flag_tv",
+      "tuvalu"
+    ],
+    "\uE020": [
+      "flag_tw",
+      "taiwan"
+    ],
+    "\uE021": [
+      "flag_tz",
+      "tanzania"
+    ],
+    "\uE022": [
+      "flag_ua",
+      "ukraine"
+    ],
+    "\uE023": [
+      "flag_ug",
+      "uganda"
+    ],
+    "\uE024": [
+      "flag_um",
+      "united_states_minor_outlying_islands"
+    ],
+    "\uE025": [
+      "flag_us",
+      "united_states"
+    ],
+    "\uE026": [
+      "flag_uy",
+      "uruguay"
+    ],
+    "\uE027": [
+      "flag_uz",
+      "uzbekistan"
+    ],
+    "\uE028": [
+      "flag_va",
+      "vatican_city"
+    ],
+    "\uE029": [
+      "flag_vc",
+      "saint_vincent_and_the_grenadines"
+    ],
+    "\uE02A": [
+      "flag_ve",
+      "venezuela"
+    ],
+    "\uE02B": [
+      "flag_vg",
+      "virgin_islands,_british"
+    ],
+    "\uE02C": [
+      "flag_vi",
+      "virgin_islands_US"
+    ],
+    "\uE02D": [
+      "flag_vn",
+      "viet_nam"
+    ],
+    "\uE02E": [
+      "flag_vu",
+      "vanuatu"
+    ],
+    "\uE02F": [
+      "flag_wf",
+      "wallis_and_futuna"
+    ],
+    "\uE030": [
+      "flag_ws",
+      "samoa"
+    ],
+    "\uE031": [
+      "flag_ye",
+      "yemen"
+    ],
+    "\uE032": [
+      "flag_yt",
+      "mayotte"
+    ],
+    "\uE033": [
+      "flag_za",
+      "south_africa"
+    ],
+    "\uE034": [
+      "flag_zm",
+      "zambia"
+    ],
+    "\uE035": [
+      "flag_zw",
+      "zimbabwe"
+    ]
+  }
+}
