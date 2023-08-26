@@ -1,261 +1,70 @@
 {
   "blacklist": "",
   "emojis": {
-    "\uE000": [
-      "flag_eh",
-      "western_sahara"
-    ],
-    "\uE001": [
-      "flag_er",
-      "eritrea"
-    ],
-    "\uE002": [
-      "flag_es",
-      "spain"
-    ],
-    "\uE003": [
-      "flag_et",
-      "ethiopia"
-    ],
-    "\uE004": [
-      "flag_fi",
-      "finland"
-    ],
-    "\uE005": [
-      "flag_fj",
-      "fiji"
-    ],
-    "\uE006": [
-      "flag_fk",
-      "falkland_islands_(malvinas)"
-    ],
-    "\uE007": [
-      "flag_fm",
-      "micronesia"
-    ],
-    "\uE008": [
-      "flag_fo",
-      "faroe_islands"
-    ],
-    "\uE009": [
-      "flag_fr",
-      "france"
-    ],
-    "\uE00A": [
-      "flag_ga",
-      "gabon"
-    ],
-    "\uE00B": [
-      "flag_gb",
-      "united_kingdom"
-    ],
-    "\uE00C": [
-      "flag_gd",
-      "grenada"
-    ],
-    "\uE00D": [
-      "flag_ge",
-      "georgia"
-    ],
-    "\uE00E": [
-      "flag_gf",
-      "french_guiana"
-    ],
-    "\uE00F": [
-      "flag_gg",
-      "guernsey"
-    ],
-    "\uE010": [
-      "flag_gh",
-      "ghana"
-    ],
-    "\uE011": [
-      "flag_gi",
-      "gibraltar"
-    ],
-    "\uE012": [
-      "flag_gl",
-      "greenland"
-    ],
-    "\uE013": [
-      "flag_gm",
-      "gambia"
-    ],
-    "\uE014": [
-      "flag_gn",
-      "guinea"
-    ],
-    "\uE015": [
-      "flag_gp",
-      "guadeloupe"
-    ],
-    "\uE016": [
-      "flag_gq",
-      "equatorial_guinea"
-    ],
-    "\uE017": [
-      "flag_gr",
-      "greece"
-    ],
-    "\uE018": [
-      "flag_gs",
-      "south_georgia"
-    ],
-    "\uE019": [
-      "flag_gt",
-      "guatemala"
-    ],
-    "\uE01A": [
-      "flag_gu",
-      "guam"
-    ],
-    "\uE01B": [
-      "flag_gw",
-      "guinea-bissau"
-    ],
-    "\uE01C": [
-      "flag_gy",
-      "guyana"
-    ],
-    "\uE01D": [
-      "flag_hk",
-      "hong_kong"
-    ],
-    "\uE01E": [
-      "flag_hm",
-      "heard_island_and_mcdonald_islands"
-    ],
-    "\uE01F": [
-      "flag_hn",
-      "honduras"
-    ],
-    "\uE020": [
-      "flag_hr",
-      "croatia"
-    ],
-    "\uE021": [
-      "flag_ht",
-      "haiti"
-    ],
-    "\uE022": [
-      "flag_hu",
-      "hungary"
-    ],
-    "\uE023": [
-      "flag_id",
-      "indonesia"
-    ],
-    "\uE024": [
-      "flag_ie",
-      "ireland"
-    ],
-    "\uE025": [
-      "flag_il",
-      "israel"
-    ],
-    "\uE026": [
-      "flag_im",
-      "isle_of_man"
-    ],
-    "\uE027": [
-      "flag_in",
-      "india"
-    ],
-    "\uE028": [
-      "flag_io",
-      "british_indian_ocean_territory"
-    ],
-    "\uE029": [
-      "flag_iq",
-      "iraq"
-    ],
-    "\uE02A": [
-      "flag_ir",
-      "iran"
-    ],
-    "\uE02B": [
-      "flag_is",
-      "iceland"
-    ],
-    "\uE02C": [
-      "flag_it",
-      "italy"
-    ],
-    "\uE02D": [
-      "flag_je",
-      "jersey"
-    ],
-    "\uE02E": [
-      "flag_jm",
-      "jamaica"
-    ],
-    "\uE02F": [
-      "flag_jo",
-      "jordan"
-    ],
-    "\uE030": [
-      "flag_jp",
-      "japan"
-    ],
-    "\uE031": [
-      "flag_ke",
-      "kenya"
-    ],
-    "\uE032": [
-      "flag_kg",
-      "kyrgyzstan"
-    ],
-    "\uE033": [
-      "flag_kh",
-      "cambodia"
-    ],
-    "\uE034": [
-      "flag_ki",
-      "kiribati"
-    ],
-    "\uE035": [
-      "flag_km",
-      "comoros"
-    ],
-    "\uE036": [
-      "flag_kn",
-      "saint_kitts_and_nevis"
-    ],
-    "\uE037": [
-      "flag_kp",
-      "north_korea"
-    ],
-    "\uE038": [
-      "flag_kr",
-      "south_korea"
-    ],
-    "\uE039": [
-      "flag_kw",
-      "kuwait"
-    ],
-    "\uE03A": [
-      "flag_ky",
-      "cayman_islands"
-    ],
-    "\uE03B": [
-      "flag_kz",
-      "kazakhstan"
-    ],
-    "\uE03C": [
-      "flag_la",
-      "lao_people's_democratic_republic"
-    ],
-    "\uE03D": [
-      "flag_lb",
-      "lebanon"
-    ],
-    "\uE03E": [
-      "flag_lc",
-      "saint_lucia"
-    ],
-    "\uE03F": [
-      "flag_li",
-      "liechtenstein"
+    "\uE000": ["flag_eh","western_sahara"],
+    "\uE001": ["flag_er","eritrea"],
+    "\uE002": ["flag_es","spain"],
+    "\uE003": ["flag_et","ethiopia"],
+    "\uE004": ["flag_fi","finland"],
+    "\uE005": ["flag_fj","fiji"],
+    "\uE006": ["flag_fk","falkland_islands_(malvinas)"],
+    "\uE007": ["flag_fm","micronesia"],
+    "\uE008": ["flag_fo","faroe_islands"],
+    "\uE009": ["flag_fr","france"],
+    "\uE00A": ["flag_ga","gabon"],
+    "\uE00B": ["flag_gb","united_kingdom"],
+    "\uE00C": ["flag_gd","grenada"],
+    "\uE00D": ["flag_ge","georgia"],
+    "\uE00E": ["flag_gf","french_guiana"],
+    "\uE00F": ["flag_gg","guernsey"],
+    "\uE010": ["flag_gh","ghana"],
+    "\uE011": ["flag_gi","gibraltar"],
+    "\uE012": ["flag_gl","greenland"],
+    "\uE013": ["flag_gm","gambia"],
+    "\uE014": ["flag_gn","guinea"],
+    "\uE015": ["flag_gp","guadeloupe"],
+    "\uE016": ["flag_gq","equatorial_guinea"],
+    "\uE017": ["flag_gr","greece"],
+    "\uE018": ["flag_gs","south_georgia"],
+    "\uE019": ["flag_gt","guatemala"],
+    "\uE01A": ["flag_gu","guam"],
+    "\uE01B": ["flag_gw","guinea-bissau"],
+    "\uE01C": ["flag_gy","guyana"],
+    "\uE01D": ["flag_hk","hong_kong"],
+    "\uE01E": ["flag_hm","heard_island_and_mcdonald_islands"],
+    "\uE01F": ["flag_hn","honduras"],
+    "\uE020": ["flag_hr","croatia"],
+    "\uE021": ["flag_ht","haiti"],
+    "\uE022": ["flag_hu","hungary"],
+    "\uE023": ["flag_id","indonesia"],
+    "\uE024": ["flag_ie","ireland"],
+    "\uE025": ["flag_il","israel"],
+    "\uE026": ["flag_im","isle_of_man"],
+    "\uE027": ["flag_in","india"],
+    "\uE028": ["flag_io","british_indian_ocean_territory"],
+    "\uE029": ["flag_iq","iraq"],
+    "\uE02A": ["flag_ir","iran"],
+    "\uE02B": ["flag_is","iceland"],
+    "\uE02C": ["flag_it","italy"],
+    "\uE02D": ["flag_je","jersey"],
+    "\uE02E": ["flag_jm","jamaica"],
+    "\uE02F": ["flag_jo","jordan"],
+    "\uE030": ["flag_jp","japan"],
+    "\uE031": ["flag_ke","kenya"],
+    "\uE032": ["flag_kg","kyrgyzstan"],
+    "\uE033": ["flag_kh","cambodia"],
+    "\uE034": ["flag_ki","kiribati"],
+    "\uE035": ["flag_km","comoros"],
+    "\uE036": ["flag_kn","saint_kitts_and_nevis"],
+    "\uE037": ["flag_kp","north_korea"],
+    "\uE038": ["flag_kr","south_korea"],
+    "\uE039": ["flag_kw","kuwait"],
+    "\uE03A": ["flag_ky","cayman_islands"],
+    "\uE03B": ["flag_kz","kazakhstan"],
+    "\uE03C": ["flag_la","lao_people's_democratic_republic"],
+    "\uE03D": ["flag_lb","lebanon"],
+    "\uE03E": ["flag_lc","saint_lucia"],
+    "\uE03F": ["flag_li","liechtenstein"
     ]
   }
 }

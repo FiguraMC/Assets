@@ -1,261 +1,70 @@
 {
   "blacklist": "",
   "emojis": {
-    "\uE000": [
-      "flag_lr",
-      "liberia"
-    ],
-    "\uE001": [
-      "flag_ls",
-      "lesotho"
-    ],
-    "\uE002": [
-      "flag_lt",
-      "lithuania"
-    ],
-    "\uE003": [
-      "flag_lu",
-      "luxembourg"
-    ],
-    "\uE004": [
-      "flag_lv",
-      "latvia"
-    ],
-    "\uE005": [
-      "flag_ly",
-      "libya"
-    ],
-    "\uE006": [
-      "flag_ma",
-      "morocco"
-    ],
-    "\uE007": [
-      "flag_mc",
-      "monaco"
-    ],
-    "\uE008": [
-      "flag_md",
-      "moldova"
-    ],
-    "\uE009": [
-      "flag_me",
-      "montenegro"
-    ],
-    "\uE00A": [
-      "flag_mf",
-      "saint_martin_(french_part)"
-    ],
-    "\uE00B": [
-      "flag_mg",
-      "madagascar"
-    ],
-    "\uE00C": [
-      "flag_mh",
-      "marshall_islands"
-    ],
-    "\uE00D": [
-      "flag_mk",
-      "macedonia"
-    ],
-    "\uE00E": [
-      "flag_ml",
-      "mali"
-    ],
-    "\uE00F": [
-      "flag_mm",
-      "myanmar"
-    ],
-    "\uE010": [
-      "flag_mn",
-      "mongolia"
-    ],
-    "\uE011": [
-      "flag_mo",
-      "macao"
-    ],
-    "\uE012": [
-      "flag_mp",
-      "northern_mariana_islands"
-    ],
-    "\uE013": [
-      "flag_mq",
-      "martinique"
-    ],
-    "\uE014": [
-      "flag_mr",
-      "mauritania"
-    ],
-    "\uE015": [
-      "flag_ms",
-      "montserrat"
-    ],
-    "\uE016": [
-      "flag_mt",
-      "malta"
-    ],
-    "\uE017": [
-      "flag_mu",
-      "mauritius"
-    ],
-    "\uE018": [
-      "flag_mv",
-      "maldives"
-    ],
-    "\uE019": [
-      "flag_mw",
-      "malawi"
-    ],
-    "\uE01A": [
-      "flag_mx",
-      "mexico"
-    ],
-    "\uE01B": [
-      "flag_my",
-      "malaysia"
-    ],
-    "\uE01C": [
-      "flag_mz",
-      "mozambique"
-    ],
-    "\uE01D": [
-      "flag_na",
-      "namibia"
-    ],
-    "\uE01E": [
-      "flag_nc",
-      "new_caledonia"
-    ],
-    "\uE01F": [
-      "flag_ne",
-      "niger"
-    ],
-    "\uE020": [
-      "flag_nf",
-      "norfolk_island"
-    ],
-    "\uE021": [
-      "flag_ng",
-      "nigeria"
-    ],
-    "\uE022": [
-      "flag_ni",
-      "nicaragua"
-    ],
-    "\uE023": [
-      "flag_nl",
-      "netherlands"
-    ],
-    "\uE024": [
-      "flag_no",
-      "norway"
-    ],
-    "\uE025": [
-      "flag_np",
-      "nepal"
-    ],
-    "\uE026": [
-      "flag_nr",
-      "nauru"
-    ],
-    "\uE027": [
-      "flag_nu",
-      "niue"
-    ],
-    "\uE028": [
-      "flag_nz",
-      "new_zealand"
-    ],
-    "\uE029": [
-      "flag_om",
-      "oman"
-    ],
-    "\uE02A": [
-      "flag_pa",
-      "panama"
-    ],
-    "\uE02B": [
-      "flag_pe",
-      "peru"
-    ],
-    "\uE02C": [
-      "flag_pf",
-      "french_polynesia"
-    ],
-    "\uE02D": [
-      "flag_pg",
-      "papua_new_guinea"
-    ],
-    "\uE02E": [
-      "flag_ph",
-      "philippines"
-    ],
-    "\uE02F": [
-      "flag_pk",
-      "pakistan"
-    ],
-    "\uE030": [
-      "flag_pl",
-      "poland"
-    ],
-    "\uE031": [
-      "flag_pm",
-      "saint_pierre_and_miquelon"
-    ],
-    "\uE032": [
-      "flag_pn",
-      "pitcairn"
-    ],
-    "\uE033": [
-      "flag_pr",
-      "puerto_rico"
-    ],
-    "\uE034": [
-      "flag_ps",
-      "palestinian_territory"
-    ],
-    "\uE035": [
-      "flag_pt",
-      "portugal"
-    ],
-    "\uE036": [
-      "flag_pw",
-      "palau"
-    ],
-    "\uE037": [
-      "flag_py",
-      "paraguay"
-    ],
-    "\uE038": [
-      "flag_qa",
-      "qatar"
-    ],
-    "\uE039": [
-      "flag_re",
-      "réunion"
-    ],
-    "\uE03A": [
-      "flag_ro",
-      "romania"
-    ],
-    "\uE03B": [
-      "flag_rs",
-      "serbia"
-    ],
-    "\uE03C": [
-      "flag_ru",
-      "russia"
-    ],
-    "\uE03D": [
-      "flag_rw",
-      "rwanda"
-    ],
-    "\uE03E": [
-      "flag_sa",
-      "saudi_arabia"
-    ],
-    "\uE03F": [
-      "flag_sb",
-      "solomon_islands"
+    "\uE000": ["flag_lr","liberia"],
+    "\uE001": ["flag_ls","lesotho"],
+    "\uE002": ["flag_lt","lithuania"],
+    "\uE003": ["flag_lu","luxembourg"],
+    "\uE004": ["flag_lv","latvia"],
+    "\uE005": ["flag_ly","libya"],
+    "\uE006": ["flag_ma","morocco"],
+    "\uE007": ["flag_mc","monaco"],
+    "\uE008": ["flag_md","moldova"],
+    "\uE009": ["flag_me","montenegro"],
+    "\uE00A": ["flag_mf","saint_martin_(french_part)"],
+    "\uE00B": ["flag_mg","madagascar"],
+    "\uE00C": ["flag_mh","marshall_islands"],
+    "\uE00D": ["flag_mk","macedonia"],
+    "\uE00E": ["flag_ml","mali"],
+    "\uE00F": ["flag_mm","myanmar"],
+    "\uE010": ["flag_mn","mongolia"],
+    "\uE011": ["flag_mo","macao"],
+    "\uE012": ["flag_mp","northern_mariana_islands"],
+    "\uE013": ["flag_mq","martinique"],
+    "\uE014": ["flag_mr","mauritania"],
+    "\uE015": ["flag_ms","montserrat"],
+    "\uE016": ["flag_mt","malta"],
+    "\uE017": ["flag_mu","mauritius"],
+    "\uE018": ["flag_mv","maldives"],
+    "\uE019": ["flag_mw","malawi"],
+    "\uE01A": ["flag_mx","mexico"],
+    "\uE01B": ["flag_my","malaysia"],
+    "\uE01C": ["flag_mz","mozambique"],
+    "\uE01D": ["flag_na","namibia"],
+    "\uE01E": ["flag_nc","new_caledonia"],
+    "\uE01F": ["flag_ne","niger"],
+    "\uE020": ["flag_nf","norfolk_island"],
+    "\uE021": ["flag_ng","nigeria"],
+    "\uE022": ["flag_ni","nicaragua"],
+    "\uE023": ["flag_nl","netherlands"],
+    "\uE024": ["flag_no","norway"],
+    "\uE025": ["flag_np","nepal"],
+    "\uE026": ["flag_nr","nauru"],
+    "\uE027": ["flag_nu","niue"],
+    "\uE028": ["flag_nz","new_zealand"],
+    "\uE029": ["flag_om","oman"],
+    "\uE02A": ["flag_pa","panama"],
+    "\uE02B": ["flag_pe","peru"],
+    "\uE02C": ["flag_pf","french_polynesia"],
+    "\uE02D": ["flag_pg","papua_new_guinea"],
+    "\uE02E": ["flag_ph","philippines"],
+    "\uE02F": ["flag_pk","pakistan"],
+    "\uE030": ["flag_pl","poland"],
+    "\uE031": ["flag_pm","saint_pierre_and_miquelon"],
+    "\uE032": ["flag_pn","pitcairn"],
+    "\uE033": ["flag_pr","puerto_rico"],
+    "\uE034": ["flag_ps","palestinian_territory"],
+    "\uE035": ["flag_pt","portugal"],
+    "\uE036": ["flag_pw","palau"],
+    "\uE037": ["flag_py","paraguay"],
+    "\uE038": ["flag_qa","qatar"],
+    "\uE039": ["flag_re","réunion"],
+    "\uE03A": ["flag_ro","romania"],
+    "\uE03B": ["flag_rs","serbia"],
+    "\uE03C": ["flag_ru","russia"],
+    "\uE03D": ["flag_rw","rwanda"],
+    "\uE03E": ["flag_sa","saudi_arabia"],
+    "\uE03F": ["flag_sb","solomon_islands"
     ]
   }
 }
