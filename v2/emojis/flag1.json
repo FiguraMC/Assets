@@ -62,9 +62,6 @@
     "\uE03A": ["flag_dk","denmark"],
     "\uE03B": ["flag_dm","dominica"],
     "\uE03C": ["flag_do","dominican_republic"],
-    "\uE03D": ["flag_dz","algeria"],
-    "\uE03E": ["flag_ec","ecuador"],
-    "\uE03F": ["flag_ee","estonia"
-    ]
+    "\uE03D": ["flag_dz","algeria"]
   }
 }
