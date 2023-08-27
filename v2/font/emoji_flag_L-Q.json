@@ -9,7 +9,7 @@
     },
     {
       "type": "bitmap",
-      "file": "figura:font/emojis/flag2.png",
+      "file": "figura:font/emojis/flag_L-Q.png",
       "ascent": 8,
       "chars": [
         "\uE000\uE001\uE002\uE003\uE004\uE005\uE006\uE007",
