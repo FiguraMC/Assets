@@ -44,6 +44,7 @@
     "\uE023": ["cat3", "gray_cat", "osu_cat", "plush_cat"],
     "\uE024": ["giraffe_head", "giraffe1", "giraffe"],
     "\uE025": ["giraffe_neck", "giraffe2"],
-    "\uE026": ["giraffe_body", "giraffe3"]
+    "\uE026": ["giraffe_body", "giraffe3"],
+    "\uE027": ["slime", "blob", "boinger"]
   }
 }
