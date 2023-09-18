@@ -18,7 +18,7 @@
     "\uE00D": ["skill_issue"],
 
     "\uE00E": ["eyes"],
-	"\uE00F": ["skull"],"shortcuts":["💀"]},
+    "\uE00F": {"names":["skull"],"shortcuts":["💀"]},
     "\uE010": ["anonymous", "guy_fawkes"],
     "\uE011": ["ghost"]
   }
