@@ -25,26 +25,27 @@
     "\uE013": ["snail"],
     "\uE014": ["snake", "snek"],
     "\uE015": ["bat"],
+	"\uE016": ["bug"],
+	
+	"\uE017": ["cat"],
+    "\uE018": ["cat2", "cat_black"],
+    "\uE019": ["wolf"],
+    "\uE01A": ["fox"],
 
-    "\uE016": ["cat"],
-    "\uE017": ["cat2", "cat_black"],
-    "\uE018": ["wolf"],
-    "\uE019": ["fox"],
-
-    "\uE01A": ["mouse", "rat", "lab_rat"],
-    "\uE01B": ["pig"],
-    "\uE01C": ["cow"],
-    "\uE01D": ["egg_hatch", "baby_chicken_hatch"],
-    "\uE01E": ["chick", "baby_chicken"],
-    "\uE01F": ["sheep"],
-    "\uE020": ["rabbit", "bunny"],
-
-    "\uE021": ["dragon"],
-    "\uE022": ["penguin", "linux"],
-    "\uE023": ["cat3", "gray_cat", "osu_cat", "plush_cat"],
-    "\uE024": ["giraffe_head", "giraffe1", "giraffe"],
-    "\uE025": ["giraffe_neck", "giraffe2"],
-    "\uE026": ["giraffe_body", "giraffe3"],
-    "\uE027": ["slime", "blob", "boinger"]
+    "\uE01B": ["mouse", "rat", "lab_rat"],
+    "\uE01C": ["pig"],
+    "\uE01D": ["cow"],
+    "\uE01E": ["egg_hatch", "baby_chicken_hatch"],
+    "\uE01F": ["chick", "baby_chicken"],
+    "\uE020": ["sheep"],
+    "\uE021": ["rabbit", "bunny"],
+          
+    "\uE022": ["dragon"],
+    "\uE023": ["penguin", "linux"],
+    "\uE024": ["cat3", "gray_cat", "osu_cat", "plush_cat"],
+    "\uE025": ["giraffe_head", "giraffe1", "giraffe"],
+    "\uE026": ["giraffe_neck", "giraffe2"],
+    "\uE027": ["giraffe_body", "giraffe3"],
+    "\uE028": ["slime", "blob", "boinger"]
   }
 }

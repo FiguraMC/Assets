@@ -41,6 +41,7 @@
     "\uE01E":["@maven"],
     "\uE01F":["@maven-logo"],
 
-    "\uE020":["@cone","@mxduck"]
+    "\uE020":["@cone","@mxduck"],
+	"\uE021":["@april","@kenopsia"]
   }
 }
