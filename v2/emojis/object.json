@@ -35,20 +35,25 @@
     "\uE01C": ["crown"],
     "\uE01D": ["fez"],
     "\uE01E": ["witch_hat", "witch"],
+    "\uE01F": ["mechanical_leg","robot_leg"],
 
-    "\uE01F": ["grave", "ded"],
-    "\uE020": ["balloon"],
-    "\uE021": ["white_ribbon", "cancer_lung", "lung_cancer"],
-    "\uE022": ["pink_ribbon", "cancer_breast", "breast_cancer"],
-    "\uE023": ["money", "usd"],
-    "\uE024": ["key"],
-    "\uE025": ["koinobori", "flags"],
+    "\uE020": ["grave", "ded"],
+    "\uE021": ["balloon"],
+    "\uE022": ["white_ribbon", "cancer_lung", "lung_cancer"],
+    "\uE023": ["pink_ribbon", "cancer_breast", "breast_cancer"],
+    "\uE024": ["money", "usd"],
+    "\uE025": ["key"],
+    "\uE026": ["koinobori", "flags"],
 
-    "\uE026": ["racecar", "vroom"],
-    "\uE027": ["ambulance"],
-    "\uE028": ["truck", "trailer"],
-    "\uE029": ["wheel"],
-    "\uE02A": ["candle", "wick"],
-    "\uE02B": ["timer", "stopwatch"]
+    "\uE027": ["mechanical_arm", "robot_arm"],
+    "\uE028": ["racecar", "vroom"],
+    "\uE029": ["ambulance"],
+    "\uE02A": ["truck", "trailer"],
+    "\uE02B": ["wheel"],
+    "\uE02C": ["candle", "wick"],
+    "\uE02D": ["timer", "stopwatch"],
+    "\uE02E": ["boom", "explosion"],
+    "\uE02F": ["rocket"]
+
   }
 }
