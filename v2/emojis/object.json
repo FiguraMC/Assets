@@ -53,7 +53,10 @@
     "\uE02C": ["candle", "wick"],
     "\uE02D": ["timer", "stopwatch"],
     "\uE02E": ["boom", "explosion"],
-    "\uE02F": ["rocket"]
+    "\uE02F": ["rocket"],
 
+    "\uE030": ["pencil"],
+    "\uE031": ["scroll"],
+    "\uE032": ["basketball"]
   }
 }
