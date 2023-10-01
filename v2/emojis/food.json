@@ -14,22 +14,26 @@
     "\uE009":["sushi", "roll"],
     "\uE00A":["rice_ball", "onigiri"],
     "\uE00B":["ramen", "soup"],
+    "\uE00C":["potato"],
+    "\uE00D":["waffle"],
+    "\uE00E":["plate"],
+    "\uE00F":["pumpkin"],
 
-    "\uE00C":["pizza", "pizzer"],
-    "\uE00D":["bread", "loaf"],
-    "\uE00E":["bread2", "bread_slice"],
-    "\uE00F":["cookie"],
-    "\uE010":["cookie_crumb"],
-    "\uE011":["burger"],
-    "\uE012":["meat"],
-    "\uE013":["egg", "egg_irl"],
-
-    "\uE014":["cake", "lie"],
-    "\uE015":["coffee", "cafe", "cofve"],
-    "\uE016":["juice", "juicebox"],
-    "\uE017":["lolipop"],
-    "\uE018":["icecream", "ice_cream"],
-    "\uE019":["cheese", "big_cheese"],
-	"\uE01A":["popcorn"]
+    "\uE010":["pizza", "pizzer"],
+    "\uE011":["bread", "loaf"],
+    "\uE012":["bread2", "bread_slice"],
+    "\uE013":["cookie"],
+    "\uE014":["cookie_crumb"],
+    "\uE015":["burger"],
+    "\uE016":["meat"],
+    "\uE017":["egg", "egg_irl"],
+    
+    "\uE018":["cake", "lie"],
+    "\uE019":["coffee", "cafe", "cofve"],
+	  "\uE01A":["juice", "juicebox"],
+    "\uE01B":["lolipop"],
+    "\uE01C":["icecream", "ice_cream"],
+    "\uE01D":["cheese", "big_cheese"],
+    "\uE01E":["popcorn"]
   }
 }
