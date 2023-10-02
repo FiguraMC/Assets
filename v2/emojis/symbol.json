@@ -69,6 +69,8 @@
     "\uE03A": ["clock10", "10h", "22h", "10am", "10pm"],
     "\uE03B": ["clock11", "11h", "23h", "11am", "11pm"],
     "\uE03C": ["hug", "hugs"],
-    "\uE03D": ["speak", "person_speaking", "head_speaking"]
+    "\uE03D": ["speak", "person_speaking", "head_speaking"],
+    "\uE03E": ["bust", "bust_in_sillouette"],
+    "\uE03F": ["busts", "busts_in_sillouette"]
   }
 }
