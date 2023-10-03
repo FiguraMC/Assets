@@ -13,6 +13,12 @@
 
     "\uE008": ["handshake", "help"],
     "\uE009": ["middle_finger", "fuck_you"],
-    "\uE00A": ["l", "l_hand", "loser", "point_up"]
+    "\uE00A": ["l", "l_hand", "loser", "point_up"],
+    "\uE00B": ["strong", "muscle", "arm"],
+    
+    "\uE00C": ["this", "point_up"],
+    "\uE00D": ["foot"],
+    "\uE00E": ["leg"],
+    "\uE00F": ["clap"]
   }
 }
