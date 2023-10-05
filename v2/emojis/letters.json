@@ -29,6 +29,20 @@
     "\uE017": ["regional_indicator_x", "letter_x"],
 
     "\uE018": ["regional_indicator_y", "letter_y"],
-    "\uE019": ["regional_indicator_z", "letter_z"]
+    "\uE019": ["regional_indicator_z", "letter_z"],
+    
+    "\uE020": ["number_0", "zero"],
+    "\uE021": ["number_1", "one"],
+    "\uE022": ["number_2", "two"],
+    "\uE023": ["number_3", "three"],
+    "\uE024": ["number_4", "four"],
+    "\uE025": ["number_5", "five"],
+    "\uE026": ["number_6", "six"],
+    "\uE027": ["number_7", "seven"],
+    
+    "\uE028": ["number_8", "eight"],
+    "\uE029": ["number_9", "nine"],
+    "\uE030": ["number_10", "ten", "keycap_ten"],
+    "\uE031": ["asterisk"]
   }
 }
