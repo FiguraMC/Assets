@@ -75,6 +75,6 @@
     
     "\uE040": ["female","female_sign"],
     "\uE041": ["male","male_sign"],
-    "\uE042": ["transgender_sign","transgender_symbol"],
+    "\uE042": ["transgender_sign","transgender_symbol"]
   }
 }
