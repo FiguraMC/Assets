@@ -57,6 +57,10 @@
 
     "\uE030": ["pencil"],
     "\uE031": ["scroll"],
-    "\uE032": ["basketball"]
+    "\uE032": ["basketball"],
+    "\uE033": ["lock", "closed_lock"],
+    "\uE034": ["unlock", "open_lock"],
+    "\uE035": ["closed_lock_with_key", "lock_with_key"],
+    "\uE036": ["lock_with_ink_pen","closed_lock_with_ink_pen"]
   }
 }
