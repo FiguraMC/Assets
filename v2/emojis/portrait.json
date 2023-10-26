@@ -42,7 +42,9 @@
     "\uE01F":["@maven-logo"],
 
     "\uE020":["@cone","@mxduck"],
-	"\uE021":["@april","@kenopsia"],
-	"\uE022":["@cosmic","@cosmiccalamitty","@rio1u"]
+    "\uE021":["@april","@kenopsia"],
+    "\uE022":["@cosmic","@cosmiccalamitty","@rio1u"],
+    "\uE023":["@jimmy","@jimmyhellp"],
+    "\uE024":["@komod","@komodo_dgn"]
   }
 }

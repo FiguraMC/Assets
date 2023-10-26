@@ -1,12 +1,12 @@
 {
   "blacklist": "",
   "emojis": {
-    "\uE000": ["smile", "smile1"],
-    "\uE001": ["smile_big", "smile2"],
-    "\uE002": ["smile_happy", "smile3"],
+    "\uE000": ["smile"],
+    "\uE001": ["smile_big"],
+    "\uE002": ["smile_happy"],
     "\uE003": ["blush"],
     "\uE004": ["innocent", "angel"],
-    "\uE005": ["holding_back_tears"],
+    "\uE005": ["holding_back_tears", "holding_tears"],
     "\uE006": ["star_struck", "starry_eyes"],
     "\uE007": ["celebration", "partying_face"],
 
