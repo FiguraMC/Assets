@@ -1,0 +1,56 @@
+name: Update Base Strings
+
+on:
+  workflow_dispatch:
+    inputs:
+      repository:
+        description: Mod Repository (eg. "FiguraMC/Figura")
+        required: true
+        type: string
+      commit:
+        description: Commit SHA
+        required: true
+        type: string
+      path:
+        description: Path to Base Strings (eg. "src/main/resources/assets/figura/lang/en_us.json")
+        required: true
+        type: string
+
+jobs:
+  update-base:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Get Base Strings
+        working-directory: /tmp
+        run: |
+          git clone https://github.com/${{ github.event.inputs.repository }}.git --filter=blob:none --no-checkout --depth 1 --sparse --sparse mod
+          cd mod
+          git sparse-checkout set ${{ github.event.inputs.path }}
+          git checkout ${{ github.event.inputs.commit }}
+
+      - name: Overwrite Base Strings
+        run: |
+          cp /tmp/mod/${{ github.event.inputs.path }} ./v2/lang/$(basename ${{ github.event.inputs.path }})
+
+      - name: Format Strings
+        run: |
+          echo "COMMIT_SHORT=$(echo ${{ github.event.inputs.commit }} | cut -c1-7)" >> $GITHUB_ENV
+          echo "TIME=$(date -u +"%Y-%m-%d %H:%M:%S")" >> $GITHUB_ENV
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v5
+        with:
+          title: Update Base Strings
+          body: |
+            This pull request was automatically generated to update the base strings.
+
+            | Last Commit | Time |
+            | ----------- | ---- |
+            | [`${{ env.COMMIT_SHORT }}`](https://github.com/${{ github.event.inputs.repository }}/commit/${{ github.event.inputs.commit }}) | `${{ env.TIME }} UTC` |
+
+          branch: update-base-strings
+          commit-message: "[auto] Update Base Strings"
+          token: ${{ secrets.GH_BOT_TOKEN }}
