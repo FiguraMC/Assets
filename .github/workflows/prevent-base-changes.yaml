@@ -6,7 +6,7 @@ on:
       - v2/lang/en_us.json
 
 jobs:
-  check-translation-diff:
+  prevent-base-changes:
     if: github.actor != 'figuramcbot' || !contains(github.event.pull_request.title, 'Update Base Strings')
     runs-on: ubuntu-22.04
 
@@ -20,6 +20,7 @@ jobs:
           body-includes: "Base Strings Modified"
 
       - name: Create Comment
+        if: steps.fc.outputs.comment-id == ''
         uses: peter-evans/create-or-update-comment@v1
         with:
           issue-number: ${{ github.event.pull_request.number }}
