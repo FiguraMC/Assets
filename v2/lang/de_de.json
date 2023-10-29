@@ -643,5 +643,13 @@
     "figura.config.popup_button.tooltip": "Schaltfläche zum Öffnen eines Popup Menüs mit Schnellaktionen für den Zielbenutzer",
     "figura.gui.permissions.init": "Initilisiere Anweisungen",
     "figura.docs.globals.type": "Figura überschreibt lua's type() funktion\nWenn auf Figura Typen benutzt, wird der Typ's name wie in der Dokumentation und in den figuraMetatables global zurückgegeben.\nWenn auf einen Tisch der ein metatable mit einem __Typ Key, wird der entsprechende Wert zurückgegeben",
-    "figura.docs.globals.print": "Eine Funktion die ihre Argumente in den Chat schreibt\nObwohl der Syntax nur ein Argument möchte, kann man so viele wie man möchte einfügen\nAlle werden geschrieben, sie werden mit einen Tab Abstand geteilt\nGibt eine String repräsentation von allen Werten zurück"
+    "figura.docs.globals.print": "Eine Funktion die ihre Argumente in den Chat schreibt\nObwohl der Syntax nur ein Argument möchte, kann man so viele wie man möchte einfügen\nAlle werden geschrieben, sie werden mit einen Tab Abstand geteilt\nGibt eine String repräsentation von allen Werten zurück",
+    "figura.docs.math.sign": "Wiedergibt das Vorzeichen der gegeben Nummer\nGibt 1 züruck falls die Nummer positiv ist, und -1 falls sie negativ ist.\nWenn die Nummer 0 ist, wird 0 wiedergeben.",
+    "figura.docs.wheel_page.should_keep_slots": "Gibt zurück, ob die Slots dieser Seite zurückgesetzt werden sollen, wenn diese Seite zum Aktionsrad hinzugefügt wird",
+    "figura.docs.wheel_page.set_keep_slots": "Setzt ob die Slots dieser Seite zurückgesetzt werden sollen, wenn diese Seite zum Aktionsrad hinzugefügt wird",
+    "figura.docs.wheel_page.new_action": "Fügt eine neue Aktion bei dem Index der ausgewählten Seite hinzu\nFalls kein Index gegeben ist, wird der erstverfügbare Index ausgewählt",
+    "figura.docs.wheel_action": "Eine Aktion in dem Figura Aktionsrad\nMit Aktionen wird durch klicken oder durch scrollen interagiert, aber sie können auch schaltbar sein",
+    "figura.docs.math.lerp_angle": "Ähnlich wie die standard lerp funktion, aber  Nummern sind von 0-360 limitiert\nLerp erfolgt im kürzesten Winkel\nAls Beispiel, ein lerp von 340  und 20, mit einem Faktor von 0.75, 10 wiedergeben",
+    "figura.docs.action_wheel.execute": "Führt die Aktion eines gegebenen Indexes aus\nFalls der Index \"null\" ist, wird die am letzten ausgewählte Aktion ausgeführt\nEs kann ein optionaler, zweiter Parameter gegeben werden, um anzugeben, falls sie --- Was? Ich weiß nicht was ich hier schreiben soll :/",
+    "figura.docs.wheel_page.get_action": "Gibt eine Aktion einer Seite durch den gegebenen Index zurück"
 }
