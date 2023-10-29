@@ -1,8 +1,9 @@
-name: Prevent Translation Changes
+name: Prevent Base Strings Modification
 
 on:
-  pull_request:
-    types: [opened, reopened, synchronize]
+  pull_request_target:
+    paths:
+      - v2/lang/en_us.json
 
 jobs:
   check-translation-diff:
@@ -10,24 +11,8 @@ jobs:
     runs-on: ubuntu-22.04
 
     steps:
-      - name: Calculate Fetch Depth
-        run: |
-          echo "FETCH_DEPTH=$((${{ github.event.pull_request.commits }} + 1))" >> $GITHUB_ENV
-
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: ${{ env.FETCH_DEPTH }}
-
-      - name: Check If Base Strings Changes
-        run: |
-          if git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }} | grep -q 'v2/lang/en_us.json'; then
-            echo "BASE_CHANGED=true" >> $GITHUB_ENV
-          fi
-
       - name: Find Comment
         uses: peter-evans/find-comment@v2
-        if: env.BASE_CHANGED == 'true'
         id: fc
         with:
           issue-number: ${{ github.event.pull_request.number }}
@@ -36,7 +21,6 @@ jobs:
 
       - name: Create Comment
         uses: peter-evans/create-or-update-comment@v1
-        if: env.BASE_CHANGED == 'true' && steps.fc.outputs.comment-id == ''
         with:
           issue-number: ${{ github.event.pull_request.number }}
           body: |
@@ -47,5 +31,4 @@ jobs:
           token: ${{ secrets.GH_BOT_TOKEN }}
 
       - name: Fail Workflow
-        if: env.BASE_CHANGED == 'true' && steps.fc.outputs.comment-id == ''
         run: exit 1
