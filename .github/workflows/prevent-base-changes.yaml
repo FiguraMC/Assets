@@ -21,8 +21,7 @@ jobs:
 
       - name: Check If Base Strings Changes
         run: |
-          CHANGED_FILES=$(git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }} | grep 'v2/lang/en_us.json')
-          if [ ! -z "$CHANGED_FILES" ]; then
+          if git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }} | grep -q 'v2/lang/en_us.json'; then
             echo "BASE_CHANGED=true" >> $GITHUB_ENV
           fi
 
