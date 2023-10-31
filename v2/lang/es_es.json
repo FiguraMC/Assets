@@ -141,7 +141,7 @@
     "figura.gui.error.no_keybinds": "El Avatar no tiene teclas especiales!",
     "figura.emoji.reference": "Referencias",
     "figura.emoji.symbol": "Simbolos",
-    "figura.gui.minimise": "Minimisar",
+    "figura.gui.minimise": "Minimizar",
     "figura.gui.wardrobe.keybind.tooltip": "Teclas Especiales del Avatar",
     "figura.badges.no_permissions.vanilla_model_edit": "Intentó cambiar el Modelo Vanilla",
     "figura.permissions.value.vanilla_model_edit.tooltip": "Cambia si el Avatar puede controlar cambiar cosas del modelo vanilla, como visibilidad del modelo vanilla, armadura, elytra, entre otras",
