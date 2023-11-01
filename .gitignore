@@ -42,6 +42,12 @@ remappedSrc/
 # paint.NET files - this probably shouldn't be downloaded when users request assets
 *.pdn
 
+# GIMP - this probably shouldn't be downloaded when users request assets
+*.xcf
+
+# Krita - this probably shouldn't be downloaded when users request assets
+*.kra
+
 # i forgor photoshop's filetype but if you're using photoshop to edit minecraft textures please seek a refund.
 
 
