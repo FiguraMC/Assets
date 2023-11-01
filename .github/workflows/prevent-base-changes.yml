@@ -1,5 +1,5 @@
 # Clones the repository which then begins with finding the required comment,
-# and then creates a new comment that the base strings were modified.
+# and then creates a new comment which indicates the base strings were modified.
 
 name: Prevent Base Strings Modification
 

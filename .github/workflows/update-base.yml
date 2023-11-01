@@ -1,5 +1,5 @@
 # Clones the repository which then begins with obtaining the base strings,
-# once obtained, Overwrite and format the strings and prepare a pull request as end result.
+# once obtained, Overwrite and format the strings which then prepares a pull request as end result.
 
 name: Update Base Strings
 
