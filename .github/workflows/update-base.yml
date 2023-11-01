@@ -1,3 +1,6 @@
+# Clones the repository which then begins with obtaining the base strings,
+# once obtained, Overwrite and format the strings which then prepares a pull request as end result.
+
 name: Update Base Strings
 
 on:
@@ -20,10 +23,10 @@ jobs:
   update-base:
     runs-on: ubuntu-22.04
     steps:
-      - name: Checkout
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Get Base Strings
+      - name: Get the Base Strings
         working-directory: /tmp
         run: |
           git clone https://github.com/${{ github.event.inputs.repository }}.git --filter=blob:none --no-checkout --depth 1 --sparse --sparse mod
@@ -31,16 +34,16 @@ jobs:
           git sparse-checkout set ${{ github.event.inputs.path }}
           git checkout ${{ github.event.inputs.commit }}
 
-      - name: Overwrite Base Strings
+      - name: Overwrite the Base Strings
         run: |
           cp /tmp/mod/${{ github.event.inputs.path }} ./v2/lang/$(basename ${{ github.event.inputs.path }})
 
-      - name: Format Strings
+      - name: Format the Strings
         run: |
           echo "COMMIT_SHORT=$(echo ${{ github.event.inputs.commit }} | cut -c1-7)" >> $GITHUB_ENV
           echo "TIME=$(date -u +"%Y-%m-%d %H:%M:%S")" >> $GITHUB_ENV
 
-      - name: Create Pull Request
+      - name: Create a Pull Request
         uses: peter-evans/create-pull-request@v5
         with:
           title: Update Base Strings
