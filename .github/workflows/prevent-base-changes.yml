@@ -1,3 +1,6 @@
+# Clones the repository which then begins with finding the required comment,
+# and then creates a new comment that the base strings were modified.
+
 name: Prevent Base Strings Modification
 
 on:
@@ -19,7 +22,7 @@ jobs:
           comment-author: "figuramcbot"
           body-includes: "Base Strings Modified"
 
-      - name: Create Comment
+      - name: Create a Comment
         if: steps.fc.outputs.comment-id == ''
         uses: peter-evans/create-or-update-comment@v1
         with:
