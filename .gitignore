@@ -34,3 +34,14 @@ run/
 remappedSrc/
 *.cap
 *.rdc
+
+# aseprite files - this probably shouldn't be downloaded when users request assets
+*.ase
+*.aseprite
+
+# paint.NET files - this probably shouldn't be downloaded when users request assets
+*.pdn
+
+# i forgor photoshop's filetype but if you're using photoshop to edit minecraft textures please seek a refund.
+
+
