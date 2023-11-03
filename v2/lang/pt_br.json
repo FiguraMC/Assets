@@ -84,5 +84,8 @@
     "figura.backend.upload_too_big": "O Avatar é muito grande",
     "figura.permissions.value.tick_inst": "Instruções de Tick",
     "figura.permissions.value.texture_size.tooltip": "Tamanho máximo permitido em texturas recém criadas pelo script\nTexturas pré-carregadas do Avatar são ignoradas",
-    "figura.permissions.category.high": "Alta"
+    "figura.permissions.category.high": "Alta",
+    "figura.badges.system.permissions": "Esse Avatar utiliza uma categoria de permissão mais alta!",
+    "figura.badges.system.warning": "Esse Avatar tem como base uma versão antiga do Figura, a compatibilidade pode ser limitada!",
+    "figura.badges.system.error": "O codigo do avatar contém um erro!"
 }

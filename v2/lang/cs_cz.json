@@ -12,7 +12,7 @@
     "figura.permissions.category.max": "Max",
     "figura.toast.panic_enabled": "Mód paniky zapnut!",
     "figura.toast.cache_clear": "Cache vyčištěna!",
-    "figura.permissions.value.vanilla_model_edit": "Změna Vanilla Modelu",
+    "figura.permissions.value.vanilla_model_edit": "Změna základního Modelu",
     "figura.permissions.value.texture_size": "Maximální Velikost Textury",
     "figura.badges.pride.bisexual": "Figura Bisexuální Znak!",
     "figura.permissions.value.animation_inst": "Instrukce pro Animaci",
@@ -56,7 +56,7 @@
     "figura.badges.pride.genderfae": "Figura Genderfae Znak!",
     "figura.permissions.value.complexity": "Maximální složitost",
     "figura.command.click_to_open": "Klikni zde pro otevření",
-    "figura.backend.delete_success": "Avatar vymazán!",
+    "figura.backend.delete_success": "Avatar smazán!",
     "figura.config.action_wheel_mode.3": "Držet (při puštění)",
     "figura.badges.system.error": "Script tohohle Avataru obsahuje chybu!",
     "figura.command.export_texture.success": "Textura exportováná do složky Figury",
@@ -73,5 +73,6 @@
     "figura.backend.upload_too_big": "Avatar je příliš velký",
     "figura.badges.pride.demiromantic": "Figura Demiromantický Znak!",
     "figura.permissions.category.high": "Vysoké",
-    "figura.badges.pride.aromantic": "Figura Aromantický Znak!"
+    "figura.badges.pride.aromantic": "Figura Aromantický Znak!",
+    "figura.toast.avatar_wizard.error": "Nepodařilo se vytvořit avatar!"
 }
