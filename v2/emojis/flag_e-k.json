@@ -9,6 +9,7 @@
     "\uE005": ["flag_es","spain"],
     "\uE006": ["flag_et","ethiopia"],
     "\uE007": ["flag_fi","finland"],
+
     "\uE008": ["flag_fj","fiji"],
     "\uE009": ["flag_fk","falkland_islands_(malvinas)"],
     "\uE00A": ["flag_fm","micronesia"],
@@ -17,6 +18,7 @@
     "\uE00D": ["flag_ga","gabon"],
     "\uE00E": ["flag_gb","united_kingdom"],
     "\uE00F": ["flag_gd","grenada"],
+
     "\uE010": ["flag_ge","georgia"],
     "\uE011": ["flag_gf","french_guiana"],
     "\uE012": ["flag_gg","guernsey"],
@@ -25,6 +27,7 @@
     "\uE015": ["flag_gl","greenland"],
     "\uE016": ["flag_gm","gambia"],
     "\uE017": ["flag_gn","guinea"],
+
     "\uE018": ["flag_gp","guadeloupe"],
     "\uE019": ["flag_gq","equatorial_guinea"],
     "\uE01A": ["flag_gr","greece"],
@@ -33,6 +36,7 @@
     "\uE01D": ["flag_gu","guam"],
     "\uE01E": ["flag_gw","guinea-bissau"],
     "\uE01F": ["flag_gy","guyana"],
+
     "\uE020": ["flag_hk","hong_kong"],
     "\uE021": ["flag_hm","heard_island_and_mcdonald_islands"],
     "\uE022": ["flag_hn","honduras"],
@@ -41,6 +45,7 @@
     "\uE025": ["flag_hu","hungary"],
     "\uE026": ["flag_id","indonesia"],
     "\uE027": ["flag_ie","ireland"],
+
     "\uE028": ["flag_il","israel"],
     "\uE029": ["flag_im","isle_of_man"],
     "\uE02A": ["flag_in","india"],
@@ -49,6 +54,7 @@
     "\uE02D": ["flag_ir","iran"],
     "\uE02E": ["flag_is","iceland"],
     "\uE02F": ["flag_it","italy"],
+
     "\uE030": ["flag_je","jersey"],
     "\uE031": ["flag_jm","jamaica"],
     "\uE032": ["flag_jo","jordan"],
@@ -57,13 +63,15 @@
     "\uE035": ["flag_kg","kyrgyzstan"],
     "\uE036": ["flag_kh","cambodia"],
     "\uE037": ["flag_ki","kiribati"],
+
     "\uE038": ["flag_km","comoros"],
     "\uE039": ["flag_kn","saint_kitts_and_nevis"],
     "\uE03A": ["flag_kp","north_korea"],
     "\uE03B": ["flag_kr","south_korea"],
     "\uE03C": ["flag_kw","kuwait"],
     "\uE03D": ["flag_ky","cayman_islands"],
-    "\uE03E": ["flag_kz","kazakhstan"
-    ]
+    "\uE03E": ["flag_kz","kazakhstan"],
+    "\u0000": [],
+    "\u0000": []
   }
 }

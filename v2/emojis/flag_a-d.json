@@ -9,6 +9,7 @@
     "\uE005": ["flag_al","albania"],
     "\uE006": ["flag_am","armenia"],
     "\uE007": ["flag_ao","angola"],
+
     "\uE008": ["flag_aq","antarctica"],
     "\uE009": ["flag_ar","argentina"],
     "\uE00A": ["flag_as","american_samoa"],
@@ -17,6 +18,7 @@
     "\uE00D": ["flag_aw","aruba"],
     "\uE00E": ["flag_ax","åland_islands"],
     "\uE00F": ["flag_az","azerbaijan"],
+
     "\uE010": ["flag_ba","bosnia_and_herzegovina"],
     "\uE011": ["flag_bb","barbados"],
     "\uE012": ["flag_bd","bangladesh"],
@@ -25,6 +27,7 @@
     "\uE015": ["flag_bg","bulgaria"],
     "\uE016": ["flag_bh","bahrain"],
     "\uE017": ["flag_bi","burundi"],
+
     "\uE018": ["flag_bj","benin"],
     "\uE019": ["flag_bl","saint_barthélemy"],
     "\uE01A": ["flag_bm","bermuda"],
@@ -33,6 +36,7 @@
     "\uE01D": ["flag_bq","bonaire,_sint_eustatius_and_saba"],
     "\uE01E": ["flag_br","brazil"],
     "\uE01F": ["flag_bs","bahamas"],
+
     "\uE020": ["flag_bt","bhutan"],
     "\uE021": ["flag_bv","bouvet_island"],
     "\uE022": ["flag_bw","botswana"],
@@ -41,6 +45,7 @@
     "\uE025": ["flag_ca","canada"],
     "\uE026": ["flag_cc","cocos_(keeling)_islands"],
     "\uE027": ["flag_cd","congo"],
+
     "\uE028": ["flag_cf","central_african_republic"],
     "\uE029": ["flag_cg","congo"],
     "\uE02A": ["flag_ch","switzerland"],
@@ -49,6 +54,7 @@
     "\uE02D": ["flag_cl","chile"],
     "\uE02E": ["flag_cm","cameroon"],
     "\uE02F": ["flag_cn","china"],
+
     "\uE030": ["flag_co","colombia"],
     "\uE031": ["flag_cr","costa_rica"],
     "\uE032": ["flag_cu","cuba"],
@@ -57,11 +63,14 @@
     "\uE035": ["flag_cx","christmas_island"],
     "\uE036": ["flag_cy","cyprus"],
     "\uE037": ["flag_cz","czech_republic"],
+
     "\uE038": ["flag_de","germany"],
     "\uE039": ["flag_dj","djibouti"],
     "\uE03A": ["flag_dk","denmark"],
     "\uE03B": ["flag_dm","dominica"],
     "\uE03C": ["flag_do","dominican_republic"],
-    "\uE03D": ["flag_dz","algeria"]
+    "\uE03D": ["flag_dz","algeria"],
+    "\u0000": [],
+    "\u0000": []
   }
 }

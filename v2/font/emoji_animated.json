@@ -12,13 +12,13 @@
       "file": "figura:font/emojis/animated.png",
       "ascent": 8,
       "chars": [
-	"\uE000",
+        "\uE000",
         "\uE001",
         "\uE002",
         "\uE003",
-	"\uE004",
-	"\uE005",
-	"\uE006"
+        "\uE004",
+        "\uE005",
+        "\uE006"
       ]
     }
   ]

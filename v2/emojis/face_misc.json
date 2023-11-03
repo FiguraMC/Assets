@@ -16,10 +16,16 @@
     "\uE00B": ["anime_glasses"],
     "\uE00C": ["blue_emoji"],
     "\uE00D": ["skill_issue"],
+    "\u0000": [],
+    "\u0000": [],
 
-    "\uE00E": ["eyes"],
-    "\uE00F": {"names":["skull"],"shortcuts":["💀"]},
-    "\uE010": ["anonymous", "guy_fawkes"],
-    "\uE011": ["ghost"]
+    "\uE010": ["eyes"],
+    "\uE011": {"names":["skull"],"shortcuts":["💀"]},
+    "\uE012": ["anonymous", "guy_fawkes"],
+    "\uE013": ["ghost"],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": []
   }
 }

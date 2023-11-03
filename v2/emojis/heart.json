@@ -20,11 +20,15 @@
     "\uE00E": ["heart_foxes", "foxes_heart"],
 
     "\uE00F": ["heart_chloe", "chloe_heart"],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": [],
 
-    "\uE010": ["heart_on_fire", "fire_heart"],
-    "\uE011": ["heart_broken", "broken_heart", "</3"],
-    "\uE012": ["mending_heart", "heart_mending"],
-    "\uE013": ["gift_heart", "heart_gift"],
-    "\uE014": ["heart_sparkling", "sparkling_heart"]
+    "\uE015": ["heart_on_fire", "fire_heart"],
+    "\uE016": ["heart_broken", "broken_heart", "</3"],
+    "\uE017": ["mending_heart", "heart_mending"],
+    "\uE018": ["gift_heart", "heart_gift"],
+    "\uE019": ["heart_sparkling", "sparkling_heart"]
   }
 }
