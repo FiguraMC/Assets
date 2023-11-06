@@ -9,6 +9,7 @@
     "\uE005": ["flag_lr","liberia"],
     "\uE006": ["flag_ls","lesotho"],
     "\uE007": ["flag_lt","lithuania"],
+
     "\uE008": ["flag_lu","luxembourg"],
     "\uE009": ["flag_lv","latvia"],
     "\uE00A": ["flag_ly","libya"],
@@ -17,6 +18,7 @@
     "\uE00D": ["flag_md","moldova"],
     "\uE00E": ["flag_me","montenegro"],
     "\uE00F": ["flag_mf","saint_martin_(french_part)"],
+
     "\uE010": ["flag_mg","madagascar"],
     "\uE011": ["flag_mh","marshall_islands"],
     "\uE012": ["flag_mk","macedonia"],
@@ -25,6 +27,7 @@
     "\uE015": ["flag_mn","mongolia"],
     "\uE016": ["flag_mo","macao"],
     "\uE017": ["flag_mp","northern_mariana_islands"],
+
     "\uE018": ["flag_mq","martinique"],
     "\uE019": ["flag_mr","mauritania"],
     "\uE01A": ["flag_ms","montserrat"],
@@ -33,6 +36,7 @@
     "\uE01D": ["flag_mv","maldives"],
     "\uE01E": ["flag_mw","malawi"],
     "\uE01F": ["flag_mx","mexico"],
+
     "\uE020": ["flag_my","malaysia"],
     "\uE021": ["flag_mz","mozambique"],
     "\uE022": ["flag_na","namibia"],
@@ -41,6 +45,7 @@
     "\uE025": ["flag_nf","norfolk_island"],
     "\uE026": ["flag_ng","nigeria"],
     "\uE027": ["flag_ni","nicaragua"],
+
     "\uE028": ["flag_nl","netherlands"],
     "\uE029": ["flag_no","norway"],
     "\uE02A": ["flag_np","nepal"],
@@ -49,6 +54,7 @@
     "\uE02D": ["flag_nz","new_zealand"],
     "\uE02E": ["flag_om","oman"],
     "\uE02F": ["flag_pa","panama"],
+
     "\uE030": ["flag_pe","peru"],
     "\uE031": ["flag_pf","french_polynesia"],
     "\uE032": ["flag_pg","papua_new_guinea"],
@@ -57,12 +63,14 @@
     "\uE035": ["flag_pl","poland"],
     "\uE036": ["flag_pm","saint_pierre_and_miquelon"],
     "\uE037": ["flag_pn","pitcairn"],
+
     "\uE038": ["flag_pr","puerto_rico"],
     "\uE039": ["flag_ps","palestinian_territory"],
     "\uE03A": ["flag_pt","portugal"],
     "\uE03B": ["flag_pw","palau"],
     "\uE03C": ["flag_py","paraguay"],
-    "\uE03D": ["flag_qa","qatar"
-    ]
+    "\uE03D": ["flag_qa","qatar"],
+    "\u0000": [],
+    "\u0000": []
   }
 }

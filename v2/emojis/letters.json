@@ -30,19 +30,29 @@
 
     "\uE018": ["regional_indicator_y", "letter_y"],
     "\uE019": ["regional_indicator_z", "letter_z"],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": [],
     
-    "\uE01A": ["number_0", "zero"],
-    "\uE01B": ["number_1", "one"],
-    "\uE01C": ["number_2", "two"],
-    "\uE01D": ["number_3", "three"],
-    "\uE01E": ["number_4", "four"],
-    "\uE01F": ["number_5", "five"],
-    "\uE020": ["number_6", "six"],
-    "\uE021": ["number_7", "seven"],
+    "\uE020": ["number_0", "zero"],
+    "\uE021": ["number_1", "one"],
+    "\uE022": ["number_2", "two"],
+    "\uE023": ["number_3", "three"],
+    "\uE024": ["number_4", "four"],
+    "\uE025": ["number_5", "five"],
+    "\uE026": ["number_6", "six"],
+    "\uE027": ["number_7", "seven"],
     
-    "\uE022": ["number_8", "eight"],
-    "\uE023": ["number_9", "nine"],
-    "\uE024": ["number_10", "ten", "keycap_ten"],
-    "\uE025": ["asterisk"]
+    "\uE028": ["number_8", "eight"],
+    "\uE029": ["number_9", "nine"],
+    "\uE02A": ["number_10", "ten", "keycap_ten"],
+    "\uE02B": ["asterisk"],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": []
   }
 }

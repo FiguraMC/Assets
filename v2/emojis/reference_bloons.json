@@ -25,6 +25,7 @@
     "\uE013": ["boss_bloonarius"],
     "\uE014": ["boss_lych"],
     "\uE015": ["boss_vortex"],
-    "\uE016": ["boss_dreadbloon"]
+    "\uE016": ["boss_dreadbloon"],
+    "\u0000": []
   }
 }

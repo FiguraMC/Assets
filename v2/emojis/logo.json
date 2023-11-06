@@ -19,19 +19,21 @@
     "\uE00C": ["intellij"],
     "\uE00D": ["visual_studio"],
     "\uE00E": ["eclipse_ide"],
+    "\u0000": [],
 
-    "\uE00F": ["lua"],
-    "\uE010": ["java"],
-    "\uE011": ["c"],
-    "\uE012": ["python"],
+    "\uE010": ["lua"],
+    "\uE011": ["java"],
+    "\uE012": ["c"],
+    "\uE013": ["python"],
 
-    "\uE013": ["whatsapp"], 
-    "\uE014": ["mastodon"],
-    "\uE015": ["discord"],
-    "\uE016": ["twitter"],
+    "\uE014": ["whatsapp"], 
+    "\uE015": ["mastodon"],
+    "\uE016": ["discord"],
+    "\uE017": ["twitter"],
 
-    "\uE017": ["mcdonalds"],
-    "\uE018": ["tacobell"],
-    "\uE019": ["exploit"]
+    "\uE018": ["mcdonalds"],
+    "\uE019": ["tacobell"],
+    "\uE01A": ["exploit"],
+    "\u0000": []
   }
 }
