@@ -160,5 +160,6 @@
     "figura.gui.complexity": "Complexity",
     "figura.badges.pride.aromantic": "Figura Aromantic Mark!",
     "figura.gui.minimise": "Minimize",
-    "figura.gui.favorited": "Favourited"
+    "figura.gui.favorited": "Favourited",
+    "figura.gui.wardrobe.minimize_wardrobe.tooltip": "Minimize wardrobe list"
 }
