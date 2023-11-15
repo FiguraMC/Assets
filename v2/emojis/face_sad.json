@@ -26,6 +26,6 @@
     "\uE014": ["despair"],
     "\uE015": ["exhausted", "leave_me_alone"],
     "\uE016": ["judging", "stare"],
-    "\u0000": []
+    "\uE017": ["meh", "tired"]
   }
 }
