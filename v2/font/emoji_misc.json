@@ -12,8 +12,8 @@
       "file": "figura:font/emojis/misc.png",
       "ascent": 8,
       "chars": [
-        "\uE000\uE001\uE002\u0000",
-        "\uE003\uE004\uE005\u0000"
+        "\uE000\uE001\uE002\uE003",
+        "\uE004\uE005\uE006\uE007"
       ]
     }
   ]
