@@ -26,6 +26,10 @@ jobs:
           comment-author: 'github-actions[bot]'
           body-includes: <!-- assets-validate-result -->
 
+      - name: Format Date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d %H:%M:%S')"
+
       - name: Create/Update Comment - Failed
         uses: peter-evans/create-or-update-comment@v3
         if: steps.validate.outputs.has_issues == 'true'
@@ -40,6 +44,8 @@ jobs:
 
             ${{ steps.validate.outputs.issues_table }}
 
+            Last run on `${{ steps.date.outputs.date }}` at commit ${{ github.sha }}.
+
       - name: Create/Update Comment - Passed
         uses: peter-evans/create-or-update-comment@v3
         if: steps.validate.outputs.has_issues == 'false' && steps.fc.outputs.comment-id != ''
@@ -50,6 +56,8 @@ jobs:
           body: |
             <!-- assets-validate-result -->
             All issues have been resolved! 🎉
+
+            Last run on `${{ steps.date.outputs.date }}` at commit ${{ github.sha }}.
 
       - name: Fail Workflow
         if: steps.validate.outputs.has_issues == 'true'
