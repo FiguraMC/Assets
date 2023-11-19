@@ -30,7 +30,7 @@
 
     "\uE018": ["checkmark"],
     "\uE019": ["x"],
-    "\uE01A": ["no_entry", "cancel"],
+    "\uE01A": ["no_entry"],
     "\uE01B": ["circle"],
     "\uE01C": ["underage", "18+", "nsfw"],
     "\uE01D": ["no_smoking", "smoking"],
