@@ -1,0 +1,56 @@
+name: Validate Assets
+
+on:
+  pull_request:
+    paths:
+      - v2/**
+
+jobs:
+  validate:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Validate
+        id: validate
+        uses: repository/figura-assets-validator@v1
+        with:
+          path: v2
+
+      - name: Find Comment
+        uses: peter-evans/find-comment@v2
+        id: fc
+        with:
+          issue-number: ${{ github.event.pull_request.number }}
+          comment-author: 'github-actions[bot]'
+          body-includes: <!-- assets-validate-result -->
+
+      - name: Create/Update Comment - Failed
+        uses: peter-evans/create-or-update-comment@v3
+        if: steps.validate.outputs.has_issues == 'true'
+        with:
+          issue-number: ${{ github.event.pull_request.number }}
+          comment-id: ${{ steps.fc.outputs.comment-id }}
+          edit-mode: replace
+          body: |
+            <!-- assets-validate-result -->
+            # ⚠️ Validation Failed ⚠️
+            Issues were detected in your changes, please fix them before merging 🙏
+
+            {{ steps.validate.outputs.issues_table }}
+
+      - name: Create/Update Comment - Passed
+        uses: peter-evans/create-or-update-comment@v3
+        if: steps.validate.outputs.has_issues == 'false' && steps.fc.outputs.comment-id != ''
+        with:
+          issue-number: ${{ github.event.pull_request.number }}
+          comment-id: ${{ steps.fc.outputs.comment-id }}
+          edit-mode: replace
+          body: |
+            <!-- assets-validate-result -->
+            All issues have been resolved! 🎉
+
+      - name: Fail Workflow
+        if: steps.validate.outputs.has_issues == 'true'
+        run: exit 1
