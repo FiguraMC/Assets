@@ -7,7 +7,7 @@
     "\uE003": ["parking", "symbol_parking"],
     "\uE004": ["info", "information", "symbol_info", "symbol_information"],
     "\uE005": ["warning", "symbol_warning"],
-    "\uE006": ["red", "symbol_octaganal"],
+    "\uE006": ["red", "symbol_octagonal"],
     "\uE007": ["cancel", "symbol_cancel"],
 
     "\uE008": ["volume_0", "volume_mute", "mute"],
@@ -30,7 +30,7 @@
 
     "\uE018": ["checkmark"],
     "\uE019": ["x"],
-    "\uE01A": ["no_entry", "cancel"],
+    "\uE01A": ["no_entry"],
     "\uE01B": ["circle"],
     "\uE01C": ["underage", "18+", "nsfw"],
     "\uE01D": ["no_smoking", "smoking"],
@@ -70,9 +70,9 @@
     "\uE03B": ["clock11", "11h", "23h", "11am", "11pm"],
     "\uE03C": ["hug", "hugs"],
     "\uE03D": ["speak", "person_speaking", "head_speaking"],
-    "\uE03E": ["bust", "bust_in_sillouette"],
-    "\uE03F": ["busts", "busts_in_sillouette"],
-    
+    "\uE03E": ["bust", "bust_in_silhouette"],
+    "\uE03F": ["busts", "busts_in_silhouette"],
+
     "\uE040": ["female","female_sign"],
     "\uE041": ["male","male_sign"],
     "\uE042": ["transgender_sign","transgender_symbol"],

@@ -1,6 +1,6 @@
 {
   "width": 64,
-  "heigth": 40,
+  "height": 40,
   "blacklist": "\uE005",
   "emojis": {
     "\uE000": {"names":["skull_4", "skull_rotate"],"frames":8,"frametime":4},

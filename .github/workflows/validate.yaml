@@ -1,0 +1,66 @@
+name: Validate Assets
+
+on:
+  pull_request_target:
+
+jobs:
+  validate:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+
+      - name: Validate
+        id: validate
+        uses: repository/figura-assets-validator@v1
+        with:
+          path: v2
+          sha: ${{ github.event.pull_request.head.sha }}
+
+      - name: Find Comment
+        uses: peter-evans/find-comment@v2
+        id: fc
+        with:
+          issue-number: ${{ github.event.pull_request.number }}
+          comment-author: figuramcbot
+          body-includes: <!-- assets-validate-result -->
+
+      - name: Format Date
+        id: date
+        run: echo "TIME=$(date -u +"%Y-%m-%d %H:%M:%S")" >> $GITHUB_ENV
+
+      - name: Create/Update Comment - Failed
+        uses: peter-evans/create-or-update-comment@v3
+        if: steps.validate.outputs.has_issues == 'true'
+        with:
+          issue-number: ${{ github.event.pull_request.number }}
+          comment-id: ${{ steps.fc.outputs.comment-id }}
+          edit-mode: replace
+          token: ${{ secrets.GH_BOT_TOKEN }}
+          body: |
+            <!-- assets-validate-result -->
+            # ⚠️ Validation Failed ⚠️
+            Issues were detected in your changes, please fix them before merging 🙏
+
+            ${{ steps.validate.outputs.issues_table }}
+
+            Last run on `${{ env.TIME }} UTC` at commit ${{ github.sha }}
+
+      - name: Create/Update Comment - Passed
+        uses: peter-evans/create-or-update-comment@v3
+        if: steps.validate.outputs.has_issues == 'false' && steps.fc.outputs.comment-id != ''
+        with:
+          issue-number: ${{ github.event.pull_request.number }}
+          comment-id: ${{ steps.fc.outputs.comment-id }}
+          edit-mode: replace
+          body: |
+            <!-- assets-validate-result -->
+            All issues have been resolved! 🎉
+
+            Last run on `${{ env.TIME }} UTC` at commit ${{ github.sha }}
+
+      - name: Fail Workflow
+        if: steps.validate.outputs.has_issues == 'true'
+        run: exit 1
