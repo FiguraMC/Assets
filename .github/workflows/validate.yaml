@@ -38,7 +38,7 @@ jobs:
             # ⚠️ Validation Failed ⚠️
             Issues were detected in your changes, please fix them before merging 🙏
 
-            {{ steps.validate.outputs.issues_table }}
+            ${{ steps.validate.outputs.issues_table }}
 
       - name: Create/Update Comment - Passed
         uses: peter-evans/create-or-update-comment@v3
