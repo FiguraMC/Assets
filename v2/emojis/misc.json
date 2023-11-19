@@ -1,9 +1,9 @@
 {
   "blacklist": "",
   "emojis": {
-    "\uE000": ["pregnant_man", "man"],
-    "\uE001": ["pregnant_woman", "woman"],
-    "\uE002": ["pregnant_person", "person"],
+    "\uE000": ["pregnant_man"],
+    "\uE001": ["pregnant_woman"],
+    "\uE002": ["pregnant_person"],
     "\u0000": [],
 
     "\uE003": ["man"],
