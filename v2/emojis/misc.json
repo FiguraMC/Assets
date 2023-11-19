@@ -4,11 +4,11 @@
     "\uE000": ["pregnant_man"],
     "\uE001": ["pregnant_woman"],
     "\uE002": ["pregnant_person"],
-    "\u0000": [],
+    "\u0003": ["shrug"],
 
-    "\uE003": ["man"],
-    "\uE004": ["woman"],
-    "\uE005": ["person"],
-    "\u0000": []
+    "\uE004": ["man"],
+    "\uE005": ["woman"],
+    "\uE006": ["person"],
+    "\u0007": ["bow"]
   }
 }
