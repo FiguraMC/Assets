@@ -24,42 +24,28 @@ jobs:
         id: fc
         with:
           issue-number: ${{ github.event.pull_request.number }}
-          comment-author: figuramcbot
+          comment-author: ${{ secrets.GH_BOT_TOKEN && 'figuramcbot' || 'github-actions[bot]' }}
           body-includes: <!-- assets-validate-result -->
 
       - name: Format Date
         id: date
         run: echo "TIME=$(date -u +"%Y-%m-%d %H:%M:%S")" >> $GITHUB_ENV
 
-      - name: Create/Update Comment - Failed
+      - name: Create/Update Comment
         uses: peter-evans/create-or-update-comment@v3
-        if: steps.validate.outputs.has_issues == 'true'
+        if: steps.validate.outputs.has_issues == 'true' || (steps.validate.outputs.has_issues == 'false' && steps.fc.outputs.comment-id != '')
         with:
           issue-number: ${{ github.event.pull_request.number }}
           comment-id: ${{ steps.fc.outputs.comment-id }}
           edit-mode: replace
-          token: ${{ secrets.GH_BOT_TOKEN }}
+          token: ${{ secrets.GH_BOT_TOKEN || secrets.GITHUB_TOKEN }}
           body: |
             <!-- assets-validate-result -->
-            # ⚠️ Validation Failed ⚠️
-            Issues were detected in your changes, please fix them before merging 🙏
+            ${{ steps.validate.outputs.has_issues == 'true' && '# ⚠️ Validation Failed ⚠️\nIssues were detected in your changes, please fix them before merging 🥺' || 'All issues have been resolved! 🎉' }}
 
-            ${{ steps.validate.outputs.issues_table }}
+            ${{ steps.validate.outputs.has_issues == 'true' && steps.validate.outputs.issues_table }}
 
-            Last run on `${{ env.TIME }} UTC` at commit ${{ github.sha }}
-
-      - name: Create/Update Comment - Passed
-        uses: peter-evans/create-or-update-comment@v3
-        if: steps.validate.outputs.has_issues == 'false' && steps.fc.outputs.comment-id != ''
-        with:
-          issue-number: ${{ github.event.pull_request.number }}
-          comment-id: ${{ steps.fc.outputs.comment-id }}
-          edit-mode: replace
-          body: |
-            <!-- assets-validate-result -->
-            All issues have been resolved! 🎉
-
-            Last run on `${{ env.TIME }} UTC` at commit ${{ github.sha }}
+            Last run at `${{ env.TIME }} UTC` on commit ${{ github.sha }}
 
       - name: Fail Workflow
         if: steps.validate.outputs.has_issues == 'true'
