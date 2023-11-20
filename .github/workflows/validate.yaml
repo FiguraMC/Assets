@@ -28,12 +28,20 @@ jobs:
           body-includes: <!-- assets-validate-result -->
 
       - name: Format Date
-        id: date
-        run: echo "TIME=$(date -u +"%Y-%m-%d %H:%M:%S")" >> $GITHUB_ENV
+        run: |
+          echo "TIME=$(date -u +"%Y-%m-%d %H:%M:%S")" >> $GITHUB_ENV
 
       - name: Create/Update Comment
         uses: peter-evans/create-or-update-comment@v3
         if: steps.validate.outputs.has_issues == 'true' || (steps.validate.outputs.has_issues == 'false' && steps.fc.outputs.comment-id != '')
+        env:
+          PASS_MESSAGE: |
+            All issues have been resolved! 🎉
+          FAIL_MESSAGE: |
+            # ⚠️ Validation Failed ⚠️
+            Issues were detected in your changes, please fix them before merging 🥺🙏
+
+            ${{ steps.validate.outputs.issues_table }}
         with:
           issue-number: ${{ github.event.pull_request.number }}
           comment-id: ${{ steps.fc.outputs.comment-id }}
@@ -41,9 +49,7 @@ jobs:
           token: ${{ secrets.GH_BOT_TOKEN || secrets.GITHUB_TOKEN }}
           body: |
             <!-- assets-validate-result -->
-            ${{ steps.validate.outputs.has_issues == 'true' && '# ⚠️ Validation Failed ⚠️\nIssues were detected in your changes, please fix them before merging 🥺' || 'All issues have been resolved! 🎉' }}
-
-            ${{ steps.validate.outputs.has_issues == 'true' && steps.validate.outputs.issues_table }}
+            ${{ steps.validate.outputs.has_issues == 'true' && env.FAIL_MESSAGE || env.PASS_MESSAGE }}
 
             Last run at `${{ env.TIME }} UTC` on commit ${{ github.sha }}
 
