@@ -1,3 +1,6 @@
+# Clones the repository which then begins with validating the assets,
+# and then creates a new comment to let the contributor know if the validation has passed or failed.
+
 name: Validate Assets
 
 on:
@@ -7,12 +10,12 @@ jobs:
   validate:
     runs-on: ubuntu-22.04
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v4
         with:
           ref: ${{ github.event.pull_request.head.sha }}
 
-      - name: Validate
+      - name: Validate Assets
         id: validate
         uses: repository/figura-assets-validator@v1
         with:
