@@ -37,7 +37,7 @@
     "figura.permissions.value.init_inst": "Init Instructions",
     "figura.backend.upload_error": "Ошибка загрузки Аватара",
     "figura.permissions.category.default": "Стандартный",
-    "figura.backend.ping_size": "Реквест слишком Большой",
+    "figura.backend.ping_size": "Пинг слишком Большой",
     "figura.toast.new_version": "Доступно обновление!",
     "figura.backend.ping_rate": "Отправляется слишком много Пингов",
     "figura.backend.upload_too_big": "Аватар слишком большой",
