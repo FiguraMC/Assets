@@ -4,7 +4,7 @@
     "\uE000": ["yawn", "uninterested", "distracted"],
     "\uE001": ["o7", "salute"],
     "\uE002": ["sleeping", "sleepy", "kiri"],
-    "\uE003": ["freezing"],
+    "\uE003": ["freezing","cold_face"],
     "\uE004": ["nerd", "gs"],
     "\uE005": ["clown", "bozo"],
     "\uE006": ["smiling_imp"],

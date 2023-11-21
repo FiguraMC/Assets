@@ -4,7 +4,7 @@
     "\uE000": ["camera", "4k"],
     "\uE001": ["sax", "saxophone"],
     "\uE002": ["chess", "pawn"],
-    "\uE003": ["moyai"],
+    "\uE003": ["moyai","moai"],
     "\uE004": ["spoon", "zerok", "iron_shovel"],
     "\uE005": ["spork", "spunk"],
     "\uE006": ["fork", "twork"],
@@ -57,6 +57,11 @@
 
     "\uE030": ["pencil"],
     "\uE031": ["scroll"],
-    "\uE032": ["basketball"]
+    "\uE032": ["basketball"],
+    "\uE033": ["palette"],
+    "\uE034": ["file_folder"],
+    "\uE035": ["open_file_folder"],
+    "\uE036": ["file_folder_paper"],
+    "\uE037": ["open_file_folder_paper"]
   }
 }
