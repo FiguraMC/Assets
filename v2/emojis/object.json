@@ -62,6 +62,15 @@
     "\uE034": ["unlock", "open_lock"],
     "\uE035": ["closed_lock_with_key", "lock_with_key"],
     "\uE036": ["lock_with_ink_pen","closed_lock_with_ink_pen"],
-    "\uE037": ["diamond"]
+    "\uE037": ["diamond"],
+
+    "\uE038": ["palette"],
+    "\uE039": ["file_folder","folder"],
+    "\uE040": ["open_file_folder","open_folder"],
+    "\uE041": ["file_folder_paper", "folder_paper"],
+    "\uE042": ["open_file_folder_paper", "open_folder_paper"],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": []
   }
 }
