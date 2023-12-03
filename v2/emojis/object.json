@@ -64,7 +64,7 @@
     "\uE036": ["lock_with_ink_pen","closed_lock_with_ink_pen"],
     "\uE037": ["diamond"],
 
-    "\uE038": ["palette"],
+    "\uE038": ["palette", "art"],
     "\uE039": ["file_folder","folder"],
     "\uE040": ["open_file_folder","open_folder"],
     "\uE041": ["file_folder_paper", "folder_paper"],
