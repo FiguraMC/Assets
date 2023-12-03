@@ -69,8 +69,8 @@
     "\uE040": ["open_file_folder","open_folder"],
     "\uE041": ["file_folder_paper", "folder_paper"],
     "\uE042": ["open_file_folder_paper", "open_folder_paper"],
-    "\u0000": [],
-    "\u0000": [],
+    "\u0000": ["mag"],
+    "\u0000": ["mag_right"],
     "\u0000": []
   }
 }
