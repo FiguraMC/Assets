@@ -74,5 +74,10 @@
     "figura.badges.pride.demiromantic": "Figura Demiromantický Znak!",
     "figura.permissions.category.high": "Vysoké",
     "figura.badges.pride.aromantic": "Figura Aromantický Znak!",
-    "figura.toast.avatar_wizard.error": "Nepodařilo se vytvořit avatar!"
+    "figura.toast.avatar_wizard.error": "Nepodařilo se vytvořit avatar!",
+    "figura.tab": "  ",
+    "figura.backend.upload_too_many": "Máte příliš mnoho avatarů",
+    "figura.toast.load_error": "Nepodařilo se načíst avatar!",
+    "figura.backend.upload_error": "Chyba při nahrávání avatara",
+    "figura.backend.delete_error": "Chyba při mazání avatara"
 }
