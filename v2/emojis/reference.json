@@ -38,8 +38,8 @@
     "\uE01F": ["bunger_bbq"],
 
     "\uE020": ["uno_select_color", "uno_card", "uno_wild"],
-    "\uE021": ["uno_take_2", "+2", "uno_draw_2"],
-    "\uE022": ["uno_take_4", "+4", "uno_draw_4"],
+    "\uE021": ["uno_take_4", "+4", "uno_draw_4"],
+    "\uE022": ["uno_take_2", "+2", "uno_draw_2"],
     "\uE023": ["uno_reverse", "no_u"],
     "\uE024": ["uno_skip"],
     "\u0000": [],
@@ -55,8 +55,8 @@
     "\uE02E": ["looks_to_the_moon", "lttm"],
     "\u0000": [],
 
-	  "\uE030": ["pou", "dirty_pou"],
-	  "\uE031": ["tbh", "autism_creature", "yippe"],
+	"\uE030": ["pou", "dirty_pou"],
+	"\uE031": ["tbh", "autism_creature", "yippe"],
     "\u0000": [],
     "\u0000": [],
     "\u0000": [],
