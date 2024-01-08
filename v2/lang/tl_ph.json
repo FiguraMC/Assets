@@ -133,5 +133,8 @@
     "figura.permissions.value.particles.tooltip": "Ang pinaka madaming ipinapayag na pag lagay na particle kada segundo",
     "figura.badges.system.warning": "Itong pagkakatawang-tao ay gumagamit ng mas bagong kopiya ng Figura, possibleng magka problema!",
     "figura.badges.pride.demiboy": "Marka para sa Demiboy!",
-    "figura.badges.pride.demisexual": "Marka para sa Demisexual!"
+    "figura.badges.pride.demisexual": "Marka para sa Demisexual!",
+    "figura.emoji.face_sad": "Malungkot",
+    "figura.gui.name": "Pangalan",
+    "figura.emoji.reference": "Mga Sanggunian"
 }

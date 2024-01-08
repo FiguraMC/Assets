@@ -293,5 +293,6 @@
     "figura.command.docs_export.error": "导出Figura文档时失败！",
     "figura.command.docs_type_hover": "点击以展示 %s 文档",
     "figura.command.debug.success": "已保存调试数据到Figura文件夹",
-    "figura.command.debug.error": "保存调试数据时出错！"
+    "figura.command.debug.error": "保存调试数据时出错！",
+    "figura.toast.avatar_data_clear": ""
 }
