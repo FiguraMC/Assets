@@ -1,5 +1,5 @@
 {
-  "blacklist": "\uE008",
+  "blacklist": "\uE008\uE019\uE043",
   "emojis": {
     "\uE000": ["tm", "trademark"],
     "\uE001": ["infinity", "symbol_infinity"],
@@ -28,8 +28,8 @@
     "\uE016": ["music2"],
     "\uE017": ["speech_bubble", "texting", "typing"],
 
-    "\uE018": ["checkmark"],
-    "\uE019": ["x"],
+    "\uE018": ["checkmark","white_check_mark","heavy_check_mark"],
+    "\uE019": ["x", "cross_mark"],
     "\uE01A": ["no_entry"],
     "\uE01B": ["circle"],
     "\uE01C": ["underage", "18+", "nsfw"],
@@ -76,7 +76,7 @@
     "\uE040": ["female","female_sign"],
     "\uE041": ["male","male_sign"],
     "\uE042": ["transgender_sign","transgender_symbol"],
-    "\u0000": [],
+    "\uE043": ["star","gold_star"],
     "\u0000": [],
     "\u0000": [],
     "\u0000": [],
