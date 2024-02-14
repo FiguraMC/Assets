@@ -1,7 +1,7 @@
 {
   "blacklist": "\uE000\uE001\uE002\uE003\uE004\uE005\uE006\uE007\uE008\uE009\uE00A\uE00B\uE00C\uE00D\uE00E\uE00F",
   "emojis": {
-    "\uE000": ["heart_red", "red_heart", "<3"],
+    "\uE000": ["heart_red", "red_heart", "<3", "heart"],
     "\uE001": ["heart_orange", "orange_heart"],
     "\uE002": ["heart_yellow", "yellow_heart"],
     "\uE003": ["heart_green", "green_heart"],
@@ -14,7 +14,7 @@
     "\uE009": ["heart_pink", "pink_heart"],
 
     "\uE00A": ["heart_skye", "skye_heart"],
-    "\uE00B": ["heart_kiri", "kiri_heart"],
+    "\uE00B": ["heart_gloom", "gloom_heart"],
     "\uE00C": ["heart_nuke", "nuke_heart"],
     "\uE00D": ["heart_nick", "nick_heart"],
     "\uE00E": ["heart_foxes", "foxes_heart"],
