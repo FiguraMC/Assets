@@ -53,6 +53,11 @@
     "\uE02C": ["giraffe_neck", "giraffe2"],
     "\uE02D": ["giraffe_body", "giraffe3"],
     "\uE02E": ["slime", "blob", "boinger"],
+    "\uE02F": ["dog","dawg","pupper"],
+    "\uE030": ["axolotl1","axolotl_cyan"],
+    "\uE031": ["axolotl2","axolotl_brown"],
+    "\uE032": ["axolotl3","axolotl_blue"],
+    "\uE033": ["axolotl4","axolotl_yellow","axolotl_gold"],
     "\u0000": []
   }
 }
