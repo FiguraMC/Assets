@@ -22,10 +22,10 @@
     "\uE010": ["eyes"],
     "\uE011": {"names":["skull"],"shortcuts":["💀"]},
     "\uE012": ["anonymous", "guy_fawkes"],
-    "\uE013": ["ghost"],
-    "\u0000": [],
-    "\u0000": [],
-    "\u0000": [],
+    "\uE013": ["ghost_blush","blush_ghost","ghost_blushing","blushing_ghost"],
+    "\uE014": ["ghost"],
+    "\u0015": ["mouth","lips"],
+    "\u0016": ["eye","eyeball","single_eye","eye_single"],
     "\u0000": []
   }
 }
