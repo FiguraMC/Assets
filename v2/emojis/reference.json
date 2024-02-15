@@ -53,15 +53,15 @@
     "\uE02C": ["karma_5", "karma_self_preservation"],
     "\uE02D": ["karma_10", "karma_max"],
     "\uE02E": ["looks_to_the_moon", "lttm"],
-    "\u0000": ["mario","red_plumber"],
+    "\u002F": ["mario","red_plumber"],
 
-	"\uE030": ["pou", "dirty_pou"],
-	"\uE031": ["tbh", "autism_creature", "yippe"],
-    "\u0000": ["fire_flower"],
-    "\u0000": ["1Up","1_up"],
-    "\u0000": ["mushroom","toad"],
-    "\u0000": ["waluigi","purple_plumber","sexy_man"],
-    "\u0000": ["wario","yellow_plumber"],
-    "\u0000": ["luigi","green_plumber","green_mario"]
+	  "\uE030": ["pou", "dirty_pou"],
+	  "\uE031": ["tbh", "autism_creature", "yippe"],
+    "\u0032": ["fire_flower"],
+    "\u0033": ["1Up","1_up"],
+    "\u0034": ["mushroom","toad"],
+    "\u0035": ["waluigi","purple_plumber","sexy_man"],
+    "\u0036": ["wario","yellow_plumber"],
+    "\u0037": ["luigi","green_plumber","green_mario"]
   }
 }
