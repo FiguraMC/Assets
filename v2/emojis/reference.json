@@ -42,8 +42,8 @@
     "\uE022": ["uno_take_2", "+2", "uno_draw_2"],
     "\uE023": ["uno_reverse", "no_u"],
     "\uE024": ["uno_skip"],
-    "\uE025": ["portal_blue","blue_portal"],
-    "\uE026": ["portal_orange","orange_portal"],
+    "\uE025": ["portal_orange","orange_portal"],
+    "\uE026": ["portal_blue","blue_portal"],
     "\uE027": ["portal_gun"],
 
     "\uE028": ["karma_1", "karma_wrath"],
@@ -53,7 +53,7 @@
     "\uE02C": ["karma_5", "karma_self_preservation"],
     "\uE02D": ["karma_10", "karma_max"],
     "\uE02E": ["looks_to_the_moon", "lttm"],
-    "\uE02F": ["mario","red_plumber"],
+    "\u002F": ["mario","red_plumber"],
 
 	  "\uE030": ["pou", "dirty_pou"],
 	  "\uE031": ["tbh", "autism_creature", "yippe"],
