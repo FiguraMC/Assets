@@ -32,10 +32,10 @@
     "\uE019": ["cat2", "cat_black"],
     "\uE01A": ["wolf"],
     "\uE01B": ["fox"],
-    "\u0000": [],
-    "\u0000": [],
-    "\u0000": [],
-    "\u0000": [],
+    "\uE01C": ["panda","po"],
+    "\uE01D": ["dog","dawg","pupper"],
+    "\uE01E": ["axolotl_1","axolotl_cyan","cyan_axolotl","axolotl_white","white_axolotl"],
+    "\uE01F": ["axolotl_2","axolotl_brown","brown_axolotl"],
 
     "\uE020": ["mouse", "rat", "lab_rat"],
     "\uE021": ["pig"],
@@ -44,7 +44,7 @@
     "\uE024": ["chick", "baby_chicken"],
     "\uE025": ["sheep"],
     "\uE026": ["rabbit", "bunny"],
-    "\u0000": [],
+    "\uE027": ["axolotl_3","axolotl_yellow","yellow_axolotl","axolotl_gold","gold_axolotl"],
 
     "\uE028": ["dragon"],
     "\uE029": ["penguin", "linux"],
@@ -53,11 +53,6 @@
     "\uE02C": ["giraffe_neck", "giraffe2"],
     "\uE02D": ["giraffe_body", "giraffe3"],
     "\uE02E": ["slime", "blob", "boinger"],
-    "\uE02F": ["dog","dawg","pupper"],
-    "\uE030": ["axolotl1","axolotl_cyan"],
-    "\uE031": ["axolotl2","axolotl_brown"],
-    "\uE032": ["axolotl3","axolotl_blue"],
-    "\uE033": ["axolotl4","axolotl_yellow","axolotl_gold"],
-    "\u0000": []
+    "\uE02F": ["axolotl_2","axolotl_blue","blue_axolotl","mudkip_axolotl","axolotl_mudkip"]
   }
 }

@@ -24,8 +24,8 @@
     "\uE012": ["anonymous", "guy_fawkes"],
     "\uE013": ["ghost_blush","blush_ghost","ghost_blushing","blushing_ghost"],
     "\uE014": ["ghost"],
-    "\u0015": ["mouth","lips"],
-    "\u0016": ["eye","eyeball","single_eye","eye_single"],
+    "\uE015": ["mouth","lips"],
+    "\uE016": ["eye","eyeball","single_eye","eye_single"],
     "\u0000": []
   }
 }

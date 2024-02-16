@@ -13,7 +13,7 @@
 
     "\uE008": ["missing", "missingno", "cs_source", "no_texture"],
     "\uE009": ["catstare", "cat_stare"],
-    "\u0000": [],
+    "\uE00A": ["gwuh"],
     "\u0000": []
   }
 }
