@@ -9,6 +9,11 @@
     "\uE004": ["man"],
     "\uE005": ["woman"],
     "\uE006": ["person"],
-    "\uE007": ["bow"]
+    "\uE007": ["bow"],
+
+    "\uE008": ["merman"],
+    "\uE009": ["mermaid"],
+    "\uE00A": ["merfolk"],
+    "\u0000": []
   }
 }
