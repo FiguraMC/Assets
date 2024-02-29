@@ -32,10 +32,10 @@
     "\uE019": ["cat2", "cat_black"],
     "\uE01A": ["wolf"],
     "\uE01B": ["fox"],
-    "\u0000": [],
-    "\u0000": [],
-    "\u0000": [],
-    "\u0000": [],
+    "\uE01C": ["dog"],
+    "\uE01D": ["panda"],
+    "\uE01E": ["axolotl_white","white_axolotl"],
+    "\uE01F": ["axolotl_brown","brown_axolotl"],
 
     "\uE020": ["mouse", "rat", "lab_rat"],
     "\uE021": ["pig"],
@@ -44,7 +44,7 @@
     "\uE024": ["chick", "baby_chicken"],
     "\uE025": ["sheep"],
     "\uE026": ["rabbit", "bunny"],
-    "\u0000": [],
+    "\uE027": ["axolotl_blue","white_blue"],
 
     "\uE028": ["dragon"],
     "\uE029": ["penguin", "linux"],
@@ -53,6 +53,6 @@
     "\uE02C": ["giraffe_neck", "giraffe2"],
     "\uE02D": ["giraffe_body", "giraffe3"],
     "\uE02E": ["slime", "blob", "boinger"],
-    "\u0000": []
+    "\uE02F": ["axolotl_gold","white_gold"]
   }
 }

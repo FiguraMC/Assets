@@ -42,9 +42,9 @@
     "\uE022": ["uno_take_2", "+2", "uno_draw_2"],
     "\uE023": ["uno_reverse", "no_u"],
     "\uE024": ["uno_skip"],
-    "\u0000": [],
-    "\u0000": [],
-    "\u0000": [],
+    "\uE025": ["portal_gun"],
+    "\uE026": ["orange_portal","portal_orange"],
+    "\uE027": ["blue_portal","portal_blue"],
 
     "\uE028": ["karma_1", "karma_wrath"],
     "\uE029": ["karma_2", "karma_lust"],
@@ -53,15 +53,15 @@
     "\uE02C": ["karma_5", "karma_self_preservation"],
     "\uE02D": ["karma_10", "karma_max"],
     "\uE02E": ["looks_to_the_moon", "lttm"],
-    "\u0000": [],
+    "\uE02F": ["mario"],
 
 	"\uE030": ["pou", "dirty_pou"],
 	"\uE031": ["tbh", "autism_creature", "yippe"],
     "\uE032": ["fnaf","freddy","har"],
-    "\u0000": [],
-    "\u0000": [],
-    "\u0000": [],
-    "\u0000": [],
-    "\u0000": []
+    "\uE033": ["fire_flower"],
+    "\uE034": ["mushroom","toad"],
+    "\uE035": ["waluigi"],
+    "\uE036": ["wario"],
+    "\uE037": ["luigi","green_mario"]
   }
 }

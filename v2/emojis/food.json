@@ -35,6 +35,15 @@
     "\uE01C":["icecream", "ice_cream"],
     "\uE01D":["cheese", "big_cheese"],
     "\uE01E":["popcorn"],
-    "\uE01F":["carved_pumpkin", "jack_o_lantern"]
+    "\uE01F":["carved_pumpkin", "jack_o_lantern"],
+
+    "\uE020":["candy"],
+    "\uE021":["rainbow_lolipop","lolipop_rainbow"],
+    "\uE022":["miso_soup"],
+    "\uE023":["beer"],
+    "\uE024":["wine"],
+    "\uE025":["cheese_wedge"],
+    "\uE026":["hot_dog"],
+    "\uE027":["jello","pink_slime"]
   }
 }

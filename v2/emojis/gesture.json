@@ -19,6 +19,11 @@
     "\uE00C": ["this", "point_up"],
     "\uE00D": ["foot"],
     "\uE00E": ["leg"],
-    "\uE00F": ["clap"]
+    "\uE00F": ["clap"],
+
+    "\uE010": ["that", "point_down"],
+    "\uE011": ["point_right"],
+    "\uE012": ["point_left"],
+    "\u0000": []
   }
 }
