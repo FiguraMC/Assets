@@ -46,5 +46,9 @@
     "figura.toast.new_version": "Đã có phiên bản cập nhật mới!",
     "figura.backend.ping_rate": "Bạn đang gửi đi quá nhiều Pings",
     "figura.backend.upload_too_big": "Avatar quá lớn",
-    "figura.permissions.category.high": "Cao"
+    "figura.permissions.category.high": "Cao",
+    "figura.permissions.value.tick_inst.tooltip": "Số lượng mã được cho phép trong mỗi sự kiện Tick",
+    "figura.permissions.value.render_inst.tooltip": "Số lượng mã được cho phép trong khi kết xuất",
+    "figura.permissions.value.world_render_inst.tooltip": "Số lượng mã được cho phép trong khi tạo dựng thế giới",
+    "figura.permissions.value.render_inst": "Hướng dẫn kết xuất"
 }

@@ -723,7 +723,7 @@
     "figura.config.action_wheel_mode.3": "Утримання (запуск при відпусканні)",
     "figura.config.figura_inventory.tooltip": "Перемикає між ванільним і ляльковим рендерингом для інвентарю гравця",
     "figura.config.wardrobe_file_names": "Імена файлів гардеробу",
-    "figura.docs.animations.get_playing": "Повернути таблицю з усіма граючими анімаціями",
+    "figura.docs.animations.get_playing": "Возвращает таблицю з усіма граючими анімаціями",
     "figura.command.export_texture.success": "Експортовано текстури до каталогу Figura",
     "figura.config.update_channel": "Канал оновлень Figura",
     "figura.config.action_wheel_title.1": "Миша (підказка)",
