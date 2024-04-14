@@ -31,12 +31,14 @@ jobs:
           bun run scripts/pack/index.ts ./src /tmp/output/v2
 
       - name: Create and Init Branch
+        if: github.event_name == 'push'
         run: |
           git switch --orphan output
           git clean -fdx
           cp -R /tmp/output/* .
 
       - name: Commit and Push changes
+        if: github.event_name == 'push'
         uses: actions-js/push@master
         with:
           branch: output
