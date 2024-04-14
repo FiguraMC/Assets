@@ -25,34 +25,61 @@ await fsp.mkdir(fontsOutputPath, { recursive: true });
 const emojisPath = path.join(inputPath, "emojis");
 const emojisConfigPath = path.join(inputPath, "emojis.toml");
 
-const emojiConfigSchema = z.record(
-	z.string(),
-	z.object({
-		emojis: z.record(
-			z.string(),
-			z
-				.union([
-					z.array(z.string()).min(1),
-					z.object({
-						names: z.array(z.string()).min(1),
-						shortcuts: z.array(z.string()).optional().default([]),
-						blacklisted: z.boolean().optional().default(false),
-						frames: z
-							.object({
-								count: z.number().int().positive(),
-								time: z.number().int().positive(),
-							})
-							.optional(),
-					}),
-				])
-				.transform((value) =>
-					Array.isArray(value)
-						? { names: value, shortcuts: [], blacklisted: false }
-						: value,
-				),
-		),
-	}),
-);
+const emojiConfigSchema = z
+	.record(
+		z.string(),
+		z.object({
+			emojis: z.record(
+				z.string(),
+				z
+					.union([
+						z.array(z.string()).min(1),
+						z.object({
+							names: z.array(z.string()).min(1),
+							shortcuts: z.array(z.string()).optional().default([]),
+							blacklisted: z.boolean().optional().default(false),
+							frames: z
+								.object({
+									count: z.number().int().positive(),
+									time: z.number().int().positive(),
+								})
+								.optional(),
+						}),
+					])
+					.transform((value) =>
+						Array.isArray(value)
+							? { names: value, shortcuts: [], blacklisted: false }
+							: value,
+					),
+			),
+		}),
+	)
+	.refine((value) => {
+		const names = new Set<string>();
+		const shortcuts = new Set<string>();
+
+		for (const category of Object.values(value)) {
+			for (const emoji of Object.values(category.emojis)) {
+				for (const name of emoji.names) {
+					if (names.has(name)) {
+						throw new Error(`Duplicate name: ${name}`);
+					}
+
+					names.add(name);
+				}
+
+				for (const shortcut of emoji.shortcuts) {
+					if (shortcuts.has(shortcut)) {
+						throw new Error(`Duplicate shortcut: ${shortcut}`);
+					}
+
+					shortcuts.add(shortcut);
+				}
+			}
+		}
+
+		return true;
+	});
 
 const emojisDefintion = await fsp
 	.readFile(emojisConfigPath, "utf-8")
