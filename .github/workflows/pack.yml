@@ -18,13 +18,25 @@ jobs:
         uses: oven-sh/setup-bun@v1
 
 
-      - name: Initialize Output
+      - name: Init Output and Pack
         run: |
           mkdir -p /tmp/output
           cp -R include/* /tmp/output
           cd scripts/pack/
           bun install
-          bun run . ../../src /tmp/output
+          cd ../..
+          bun run scripts/pack/index.ts ./src /tmp/output
+
+      - name: Create and Init Branch
+        run: |
+          git switch --orphan output
+          cp -R /tmp/output/* .
+
+      - name: Commit and Push changes
+        uses: actions-js/push@master
+        with:
+          force: true
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup upterm session
         uses: lhotari/action-upterm@v1
