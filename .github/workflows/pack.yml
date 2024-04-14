@@ -41,4 +41,4 @@ jobs:
         with:
           branch: output
           force: true
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GH_BOT_TOKEN }}
