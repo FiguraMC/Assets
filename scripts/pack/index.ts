@@ -205,6 +205,6 @@ for (const category in emojisDefintion) {
 
 	await fsp.writeFile(
 		path.join(emojiDefsOutputPath, `${category}.json`),
-		JSON.stringify({ blacklist, emojis: emoijiDefRecord }),
+		JSON.stringify({ blacklist: blacklist.join(""), emojis: emoijiDefRecord }),
 	);
 }
