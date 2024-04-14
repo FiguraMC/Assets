@@ -51,6 +51,7 @@ jobs:
           git switch --orphan packed_v1
           git clean -fdx
           cp -R /tmp/output/v1/* .
+          cp /tmp/output/README.md .
 
       - name: Commit and Push changes (V1)
         if: github.event_name == 'push'
@@ -66,6 +67,7 @@ jobs:
           git switch --orphan packed_v2
           git clean -fdx
           cp -R /tmp/output/v2/* .
+          cp /tmp/output/README.md .
 
       - name: Commit and Push changes (V2)
         if: github.event_name == 'push'
