@@ -33,6 +33,7 @@ jobs:
       - name: Create and Init Branch
         run: |
           git switch --orphan output
+          git clean -fx
           cp -R /tmp/output/* .
 
       - name: Commit and Push changes
