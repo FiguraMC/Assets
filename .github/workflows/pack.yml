@@ -18,14 +18,17 @@ jobs:
         uses: oven-sh/setup-bun@v1
 
 
-      - name: Init Output and Pack
+      - name: Initialize Output Directory
         run: |
           mkdir -p /tmp/output
           cp -R include/* /tmp/output
           cd scripts/pack/
           bun install
           cd ../..
-          bun run scripts/pack/index.ts ./src /tmp/output
+
+      - name: Pack Assets
+        run: |
+          bun run scripts/pack/index.ts ./src /tmp/output/v2
 
       - name: Create and Init Branch
         run: |
