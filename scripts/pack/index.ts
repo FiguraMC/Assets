@@ -180,7 +180,7 @@ for (const category in emojisDefintion) {
 	};
 
 	await fsp.writeFile(
-		path.join(fontsOutputPath, `${category}.json`),
+		path.join(fontsOutputPath, `emoji_${category}.json`),
 		JSON.stringify(font),
 	);
 
