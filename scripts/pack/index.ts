@@ -162,7 +162,10 @@ for (const category in emojisDefintion) {
 
 	const codepoints = emojiNames.map((_, i) => String.fromCodePoint(0xe000 + i));
 	const charmap = Array.from({ length: rows }, (_, row) =>
-		codepoints.slice(row * cols, (row + 1) * cols).join(""),
+		codepoints
+			.slice(row * cols, (row + 1) * cols)
+			.join("")
+			.padEnd(cols, "\0"),
 	);
 
 	const font = {
