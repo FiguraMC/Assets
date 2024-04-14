@@ -17,5 +17,14 @@ jobs:
       - name: Setup Bun
         uses: oven-sh/setup-bun@v1
 
+
+      - name: Initialize Output
+        run: |
+          mkdir -p /tmp/output
+          cp -R include/* /tmp/output
+          cd scripts/pack/
+          bun install
+          bun run . ../../src /tmp/output
+
       - name: Setup upterm session
         uses: lhotari/action-upterm@v1
