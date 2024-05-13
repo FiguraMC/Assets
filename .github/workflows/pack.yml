@@ -1,0 +1,78 @@
+name: Pack Assets
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  pack:
+    runs-on: ubuntu-22.04
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v1
+
+
+      - name: Initialize Output Directory
+        run: |
+          mkdir -p /tmp/output
+          cp -R include/* /tmp/output
+          cd scripts/pack/
+          bun install
+          cd ../..
+
+      - name: Pack Assets
+        run: |
+          bun run scripts/pack/index.ts ./src /tmp/output/v2
+
+      - name: Create and Init Branch
+        if: github.event_name == 'push'
+        run: |
+          git switch --orphan packed_all
+          git clean -fdx
+          cp -R /tmp/output/* .
+
+      - name: Commit and Push changes
+        if: github.event_name == 'push'
+        uses: actions-js/push@master
+        with:
+          branch: packed_all
+          force: true
+          github_token: ${{ secrets.GH_BOT_TOKEN }}
+
+      - name: Create and Init Branch (V1)
+        if: github.event_name == 'push'
+        run: |
+          git switch --orphan packed_v1
+          git clean -fdx
+          cp -R /tmp/output/v1/* .
+          cp /tmp/output/README.md .
+
+      - name: Commit and Push changes (V1)
+        if: github.event_name == 'push'
+        uses: actions-js/push@master
+        with:
+          branch: packed_v1
+          force: true
+          github_token: ${{ secrets.GH_BOT_TOKEN }}
+
+      - name: Create and Init Branch (V2)
+        if: github.event_name == 'push'
+        run: |
+          git switch --orphan packed_v2
+          git clean -fdx
+          cp -R /tmp/output/v2/* .
+          cp /tmp/output/README.md .
+
+      - name: Commit and Push changes (V2)
+        if: github.event_name == 'push'
+        uses: actions-js/push@master
+        with:
+          branch: packed_v2
+          force: true
+          github_token: ${{ secrets.GH_BOT_TOKEN }}
