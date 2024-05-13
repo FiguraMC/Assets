@@ -1,0 +1,40 @@
+{
+  "blacklist": "",
+  "emojis": {
+    "\uE000":["banana", "rotate"],
+    "\uE001":["carrot"],
+    "\uE002":["toamto", "totma", "tomat", "toa", "tomato", "fruit"],
+    "\uE003":["cery", "cherry"],
+    "\uE004":["spicy", "spicy_pepper", "pepper"],
+    "\uE005":["beans"],
+    "\uE006":["strawberry", "celeste"],
+    "\uE007":["apple"],
+
+    "\uE008":["bento", "bento_box"],
+    "\uE009":["sushi", "roll"],
+    "\uE00A":["rice_ball", "onigiri"],
+    "\uE00B":["ramen", "soup"],
+    "\uE00C":["potato"],
+    "\uE00D":["waffle"],
+    "\uE00E":["plate"],
+    "\uE00F":["pumpkin"],
+
+    "\uE010":["pizza", "pizzer"],
+    "\uE011":["bread", "loaf"],
+    "\uE012":["bread2", "bread_slice"],
+    "\uE013":["cookie"],
+    "\uE014":["cookie_crumb"],
+    "\uE015":["burger"],
+    "\uE016":["meat"],
+    "\uE017":["egg", "egg_irl"],
+
+    "\uE018":["cake", "lie"],
+    "\uE019":["coffee", "cafe", "cofve"],
+    "\uE01A":["juice", "juicebox"],
+    "\uE01B":["lolipop"],
+    "\uE01C":["icecream", "ice_cream"],
+    "\uE01D":["cheese", "big_cheese"],
+    "\uE01E":["popcorn"],
+    "\uE01F":["carved_pumpkin", "jack_o_lantern"]
+  }
+}

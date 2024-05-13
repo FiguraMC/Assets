@@ -1,0 +1,58 @@
+{
+  "blacklist": "",
+  "emojis": {
+    "\uE000": ["regional_indicator_a", "letter_a"],
+    "\uE001": ["regional_indicator_b", "letter_b"],
+    "\uE002": ["regional_indicator_c", "letter_c"],
+    "\uE003": ["regional_indicator_d", "letter_d"],
+    "\uE004": ["regional_indicator_e", "letter_e"],
+    "\uE005": ["regional_indicator_f", "letter_f"],
+    "\uE006": ["regional_indicator_g", "letter_g"],
+    "\uE007": ["regional_indicator_h", "letter_h"],
+
+    "\uE008": ["regional_indicator_i", "letter_i"],
+    "\uE009": ["regional_indicator_j", "letter_j"],
+    "\uE00A": ["regional_indicator_k", "letter_k"],
+    "\uE00B": ["regional_indicator_l", "letter_l"],
+    "\uE00C": ["regional_indicator_m", "letter_m"],
+    "\uE00D": ["regional_indicator_n", "letter_n"],
+    "\uE00E": ["regional_indicator_o", "letter_o"],
+    "\uE00F": ["regional_indicator_p", "letter_p"],
+
+    "\uE010": ["regional_indicator_q", "letter_q"],
+    "\uE011": ["regional_indicator_r", "letter_r"],
+    "\uE012": ["regional_indicator_s", "letter_s"],
+    "\uE013": ["regional_indicator_t", "letter_t"],
+    "\uE014": ["regional_indicator_u", "letter_u"],
+    "\uE015": ["regional_indicator_v", "letter_v"],
+    "\uE016": ["regional_indicator_w", "letter_w"],
+    "\uE017": ["regional_indicator_x", "letter_x"],
+
+    "\uE018": ["regional_indicator_y", "letter_y"],
+    "\uE019": ["regional_indicator_z", "letter_z"],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": [],
+
+    "\uE020": ["number_0", "zero"],
+    "\uE021": ["number_1", "one"],
+    "\uE022": ["number_2", "two"],
+    "\uE023": ["number_3", "three"],
+    "\uE024": ["number_4", "four"],
+    "\uE025": ["number_5", "five"],
+    "\uE026": ["number_6", "six"],
+    "\uE027": ["number_7", "seven"],
+
+    "\uE028": ["number_8", "eight"],
+    "\uE029": ["number_9", "nine"],
+    "\uE02A": ["number_10", "ten", "keycap_ten"],
+    "\uE02B": ["asterisk"],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": []
+  }
+}

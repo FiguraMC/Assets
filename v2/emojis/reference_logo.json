@@ -1,0 +1,20 @@
+{
+  "blacklist": "",
+  "emojis": {
+    "\uE000": ["adofai", "a_dance_of_fire_and_ice"],
+    "\uE001": ["tf2", "team_fortress_2"],
+    "\uE002": ["factorio"],
+    "\uE003": ["gmod", "garrys_mod", "garry's_mod"],
+    "\uE004": ["csgo", "counter_strike", "counterstrike"],
+    "\uE005": ["rust"],
+    "\uE006": ["terraria"],
+    "\uE007": ["slime_rancher", "pink_slime"],
+
+    "\uE008": ["omori", "omor"],
+    "\uE009": ["minecraft", "grass_block"],
+    "\uE00A": ["enter_the_gungeon", "bulletkin"],
+    "\uE00B": ["undertale"],
+    "\uE00C": ["deltarune"],
+    "\uE00D": ["rain_world", "rainworld", "slugcat", "goober"]
+  }
+}

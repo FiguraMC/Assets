@@ -1,0 +1,39 @@
+{
+  "blacklist": "",
+  "emojis": {
+    "\uE000": ["visual_studio_code", "vscode"],
+    "\uE001": ["sublime_text"],
+    "\uE002": ["notepad++"],
+    "\uE003": ["notepad"],
+
+    "\uE004": ["aseprite", "ase"],
+    "\uE005": ["paint_dot_net", "paitn_dot_net", "pdn"],
+    "\uE006": ["blockbench"],
+    "\uE007": ["steam"],
+
+    "\uE008": ["quilt"],
+    "\uE009": ["fabric"],
+    "\uE00A": ["forge"],
+    "\uE00B": ["modrinth"],
+
+    "\uE00C": ["intellij"],
+    "\uE00D": ["visual_studio"],
+    "\uE00E": ["eclipse_ide"],
+    "\u0000": [],
+
+    "\uE010": ["lua"],
+    "\uE011": ["java"],
+    "\uE012": ["c"],
+    "\uE013": ["python"],
+
+    "\uE014": ["whatsapp"], 
+    "\uE015": ["mastodon"],
+    "\uE016": ["discord"],
+    "\uE017": ["twitter"],
+
+    "\uE018": ["mcdonalds"],
+    "\uE019": ["tacobell"],
+    "\uE01A": ["exploit"],
+    "\u0000": []
+  }
+}

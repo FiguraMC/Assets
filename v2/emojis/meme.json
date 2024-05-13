@@ -1,0 +1,19 @@
+{
+  "blacklist": "",
+  "emojis": {
+    "\uE000": ["troll", "trol"],
+    "\uE001": ["stonks", "stock", "trade", "stock_market"],
+    "\uE002": ["no_stonks"],
+    "\uE003": ["smooth_brain"],
+
+    "\uE004": ["shrek", "ogre"],
+    "\uE005": ["rick_astley_feet", "rickroll", "rick", "never_gonna_give_you_up"],
+    "\uE006": ["loss"],
+    "\uE007": ["arthur_fist"],
+
+    "\uE008": ["missing", "missingno", "cs_source", "no_texture"],
+    "\uE009": ["catstare", "cat_stare"],
+    "\u0000": [],
+    "\u0000": []
+  }
+}

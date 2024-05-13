@@ -1,0 +1,49 @@
+{
+  "blacklist": "",
+  "emojis": {
+    "\uE000":["@skye", "@skyrina"],
+    "\uE001":["@ame", "@lumelia"],
+    "\uE002":["@chloe", "@chloespacedout"],
+    "\uE003":["@kate", "@lexize"],
+    "\uE004":["@slime_deni", "@circlemaniac"],
+
+    "\uE006":["@gn","@gnamimates"],
+    "\uE007":["@scarlet","@scarletlight"],
+
+    "\uE008":["@gloomsys", "@gloom"],
+    "\uE009":["@electric", "@ohitselectric"],
+    "\uE00A":["@palck"],
+    "\uE00B":["@serena"],
+    "\uE00C":["@toast"],
+    "\uE00D":["@slyme"],
+    "\uE00E":["@perry","@aster"],
+    "\uE00F":["@jepril"],
+
+    "\uE010":["@jonkkusa"],
+    "\uE011":["@kye", "@cookie", "@kylie"],
+    "\uE012":["@forseir"],
+    "\uE013":["@katt", "@kitkat"],
+    "\uE014":["@auria"],
+    "\uE015":["@syl", "@sylvia"],
+    "\uE016":["@4p5"],
+    "\uE017":["@4p5_hair"],
+
+    "\uE018":["@tsuki", "@zqukiiruhkih", "@zqukiiruh'kih"],
+    "\uE019":["@tsuki_ramen"],
+    "\uE01A":["@crimson", "@kelvin"],
+    "\uE01B":["@josh", "@joshakabane"],
+    "\uE01C":["@josh-naga", "@joshakabane-naga"],
+    "\uE01D":["@josh-galactus", "@galactus-prime"],
+    "\uE01E":["@maven"],
+    "\uE01F":["@maven-logo"],
+
+    "\uE020":["@cone","@mxduck"],
+    "\uE021":["@april","@kenopsia"],
+    "\uE022":["@cosmic","@cosmiccalamitty","@rio1u"],
+    "\uE023":["@jimmy","@jimmyhellp"],
+    "\uE024":["@komod","@komodo_dgn"],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": []
+  }
+}

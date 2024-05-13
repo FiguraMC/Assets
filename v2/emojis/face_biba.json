@@ -1,0 +1,31 @@
+{
+  "blacklist": "",
+  "emojis": {
+    "\uE000":  ["biba_annoyed"],
+    "\uE001":  ["biba_sunglasses"],
+    "\uE002":  ["biba_cry"],
+    "\uE003":  ["biba_angry"],
+    "\uE004":  ["biba_smile"],
+    "\uE005":  ["biba_shocked"],
+    "\uE006":  ["biba_happy"],
+    "\uE007":  ["biba_squint"],
+
+    "\uE008":  ["biba_yawn"],
+    "\uE009":  ["biba_yum"],
+    "\uE00A":  ["biba_blush"],
+    "\uE00B":  ["biba_worried"],
+    "\uE00C":  ["biba_love"],
+    "\uE00D":  ["biba_unamused"],
+    "\uE00E":  ["biba_dizzy"],
+    "\uE00F":  ["biba_eyebrow"],
+
+    "\uE010":  ["biba_wink"],
+    "\uE011":  ["biba_big_smile"],
+    "\uE012":  ["biba_perplexed"],
+    "\uE013":  ["biba_woozy"],
+    "\uE014":  ["biba_confused"],
+    "\uE015":  ["biba_stern"],
+    "\uE016":  ["biba_furious"],
+    "\uE017":  ["biba_sleepy"]
+  }
+}
