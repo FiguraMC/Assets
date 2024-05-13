@@ -1,0 +1,12 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "figura:font/emojis/face_silly.png",
+      "ascent": 8,
+      "chars": [
+        "\uE000\uE001\uE002\uE003"
+      ]
+    }
+  ]
+}

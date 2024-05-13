@@ -36,7 +36,7 @@ jobs:
 
       - name: Overwrite the Base Strings
         run: |
-          cp /tmp/mod/${{ github.event.inputs.path }} ./include/v2/lang/$(basename ${{ github.event.inputs.path }})
+          cp /tmp/mod/${{ github.event.inputs.path }} ./v2/lang/$(basename ${{ github.event.inputs.path }})
 
       - name: Format the Strings
         run: |

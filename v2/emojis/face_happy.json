@@ -1,0 +1,31 @@
+{
+  "blacklist": "",
+  "emojis": {
+    "\uE000": ["smile"],
+    "\uE001": ["smile_big"],
+    "\uE002": ["smile_happy"],
+    "\uE003": ["blush"],
+    "\uE004": ["innocent", "angel"],
+    "\uE005": ["holding_back_tears", "holding_tears"],
+    "\uE006": ["star_struck", "starry_eyes"],
+    "\uE007": ["celebration", "partying_face"],
+
+    "\uE008": ["sunglasses", "cool"],
+    "\uE009": ["money_mouth", "rich"],
+    "\uE00A": ["wink", ";3"],
+    "\uE00B": ["pleased"],
+    "\uE00C": ["heart_eyes"],
+    "\uE00D": ["blow_kiss"],
+    "\uE00E": ["kiss"],
+    "\uE00F": ["uwu"],
+
+    "\uE010": ["owo"],
+    "\uE011": ["uwu_eager"],
+    "\uE012": ["pleading"],
+    "\uE013": ["yum"],
+    "\uE014": ["silly"],
+    "\uE015": ["silly_wink"],
+    "\uE016": ["sheesh", "flirty"],
+    "\uE017": ["smile+1"]
+  }
+}

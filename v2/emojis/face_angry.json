@@ -1,0 +1,16 @@
+{
+  "blacklist": "",
+  "emojis": {
+    "\uE000": ["triumph"],
+    "\uE001": ["mad", "mad1"],
+    "\uE002": ["angered", "rage"],
+    "\uE003": ["censored", "swearing"],
+    "\uE004": ["screaming", "shouting"],
+
+    "\uE005": ["mad2"],
+    "\uE006": ["mad3"],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": []
+  }
+}

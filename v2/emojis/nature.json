@@ -1,0 +1,34 @@
+{
+  "blacklist": "",
+  "emojis": {
+    "\uE000": ["moon", "crescent_moon"],
+    "\uE001": ["moon2", "full_moon"],
+    "\uE002": ["sparkles"],
+    "\uE003": ["lightning", "thunder", "zap"],
+    "\uE004": ["poof"],
+
+    "\uE005": ["fire", "fire1", "fire_red"],
+    "\uE006": ["fire3", "fire_blue"],
+    "\uE007": ["fire2", "fire_green"],
+    "\uE008": ["hi_im_new", "plant"],
+    "\uE009": ["flower", "daisy"],
+
+    "\uE00A": ["mercury", "planet_mercury"],
+    "\uE00B": ["venus", "planet_venus"],
+    "\uE00C": ["earth", "planet_earth"],
+    "\uE00D": ["mars", "planet_mars"],
+    "\uE00E": ["jupiter", "planet_jupiter"],
+
+    "\uE00F": ["saturn", "planet_saturn"],
+    "\uE010": ["uranus", "planet_uranus"],
+    "\uE011": ["neptune", "planet_neptune"],
+    "\uE012": ["pluto", "planet_pluto"],
+    "\u0000": [],
+
+    "\uE014": ["brain"],
+    "\uE015": ["anatomical_heart"],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": []
+  }
+}

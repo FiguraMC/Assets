@@ -1,0 +1,34 @@
+{
+  "blacklist": "\uE000\uE001\uE002\uE003\uE004\uE005\uE006\uE007\uE008\uE009\uE00A\uE00B\uE00C\uE00D\uE00E\uE00F",
+  "emojis": {
+    "\uE000": ["heart_red", "red_heart", "<3", "heart"],
+    "\uE001": ["heart_orange", "orange_heart"],
+    "\uE002": ["heart_yellow", "yellow_heart"],
+    "\uE003": ["heart_green", "green_heart"],
+    "\uE004": ["heart_blue", "blue_heart"],
+
+    "\uE005": ["heart_purple", "purple_heart"],
+    "\uE006": ["heart_brown", "brown_heart"],
+    "\uE007": ["heart_black", "black_heart"],
+    "\uE008": ["heart_white", "white_heart"],
+    "\uE009": ["heart_pink", "pink_heart"],
+
+    "\uE00A": ["heart_skye", "skye_heart"],
+    "\uE00B": ["heart_gloom", "gloom_heart"],
+    "\uE00C": ["heart_nuke", "nuke_heart"],
+    "\uE00D": ["heart_nick", "nick_heart"],
+    "\uE00E": ["heart_foxes", "foxes_heart"],
+
+    "\uE00F": ["heart_chloe", "chloe_heart"],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": [],
+
+    "\uE015": ["heart_on_fire", "fire_heart"],
+    "\uE016": ["heart_broken", "broken_heart", "</3"],
+    "\uE017": ["mending_heart", "heart_mending"],
+    "\uE018": ["gift_heart", "heart_gift"],
+    "\uE019": ["heart_sparkling", "sparkling_heart"]
+  }
+}

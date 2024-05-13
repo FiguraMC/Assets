@@ -6,7 +6,7 @@ name: Prevent Base Strings Modification
 on:
   pull_request_target:
     paths:
-      - include/v2/lang/en_us.json
+      - v2/lang/en_us.json
 
 jobs:
   prevent-base-changes:

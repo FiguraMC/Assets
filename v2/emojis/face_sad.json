@@ -1,0 +1,40 @@
+{
+  "blacklist": "",
+  "emojis": {
+    "\uE000": ["expressionless", "closed_eyes"],
+    "\uE001": ["diagonal_mouth"],
+    "\uE002": ["really?", "disappointed"],
+    "\uE003": ["disgusted", "drama"],
+    "\uE004": ["persevere"],
+    "\uE005": ["pensive"],
+    "\uE006": ["unamused"],
+    "\uE007": ["frown", "sad"],
+
+    "\uE008": ["shocked"],
+    "\uE009": ["guilty"],
+    "\uE00A": ["tear_smile"],
+    "\uE00B": ["tear_frown"],
+    "\uE00C": ["worry"],
+    "\uE00D": ["tear_worry"],
+    "\uE00E": ["ashamed"],
+    "\uE00F": ["distraught"],
+
+    "\uE010": ["sob"],
+    "\uE011": ["crying_loudly"],
+    "\uE012": ["crying_pancake"],
+    "\uE013": ["fake_dead"],
+    "\uE014": ["despair"],
+    "\uE015": ["exhausted", "leave_me_alone"],
+    "\uE016": ["judging", "stare"],
+    "\uE017": ["meh", "tired"],
+    
+    "\uE018": ["crying_sunglasses"],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": []
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "blacklist": "",
+  "emojis": {
+    "\uE000": ["pregnant_man"],
+    "\uE001": ["pregnant_woman"],
+    "\uE002": ["pregnant_person"],
+    "\uE003": ["shrug"],
+
+    "\uE004": ["man"],
+    "\uE005": ["woman"],
+    "\uE006": ["person"],
+    "\uE007": ["bow"],
+
+    "\uE008": ["merman"],
+    "\uE009": ["mermaid"],
+    "\uE00A": ["merfolk"],
+    "\u0000": []
+  }
+}

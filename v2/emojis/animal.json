@@ -1,0 +1,58 @@
+{
+  "blacklist": "",
+  "emojis": {
+    "\uE000": ["blahaj", "shark", "plush_shark"],
+    "\uE001": ["blahaj2", "shark2", "plush_shark2"],
+    "\uE002": ["shrimp"],
+    "\uE003": ["crab"],
+    "\uE004": ["lobster"],
+    "\uE005": ["lobster2", "lobster_blue"],
+    "\uE006": ["octopus"],
+    "\uE007": ["squid"],
+
+    "\uE008": ["whale"],
+    "\uE009": ["turtle"],
+    "\uE00A": ["axolotl"],
+    "\uE00B": ["blowfish", "pufferfish", "guh"],
+    "\uE00C": ["tropical_fish", "clownfish"],
+    "\uE00D": ["fish"],
+    "\uE00E": ["jelly", "jellyfish"],
+    "\uE00F": ["seahorse"],
+
+    "\uE010": ["moth"],
+    "\uE011": ["butterfly"],
+    "\uE012": ["bee"],
+    "\uE013": ["snail"],
+    "\uE014": ["snake", "snek"],
+    "\uE015": ["bat"],
+    "\uE016": ["bug"],
+    "\uE017": ["dove","dove_of_peace"],
+
+    "\uE018": ["cat"],
+    "\uE019": ["cat2", "cat_black"],
+    "\uE01A": ["wolf"],
+    "\uE01B": ["fox"],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": [],
+
+    "\uE020": ["mouse", "rat", "lab_rat"],
+    "\uE021": ["pig"],
+    "\uE022": ["cow"],
+    "\uE023": ["egg_hatch", "baby_chicken_hatch"],
+    "\uE024": ["chick", "baby_chicken"],
+    "\uE025": ["sheep"],
+    "\uE026": ["rabbit", "bunny"],
+    "\u0000": [],
+
+    "\uE028": ["dragon"],
+    "\uE029": ["penguin", "linux"],
+    "\uE02A": ["cat3", "gray_cat", "osu_cat", "plush_cat"],
+    "\uE02B": ["giraffe_head", "giraffe1", "giraffe"],
+    "\uE02C": ["giraffe_neck", "giraffe2"],
+    "\uE02D": ["giraffe_body", "giraffe3"],
+    "\uE02E": ["slime", "blob", "boinger"],
+    "\u0000": []
+  }
+}

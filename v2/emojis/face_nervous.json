@@ -1,0 +1,40 @@
+{
+  "blacklist": "",
+  "emojis": {
+    "\uE000": ["ayo", "pull_down_sunglasses"],
+    "\uE001": ["incognito"],
+    "\uE002": ["flushed"],
+    "\uE003": ["woozy"],
+    "\uE004": ["confounded"],
+    "\uE005": ["thinking", "thinkies", "think"],
+    "\uE006": ["upside_down"],
+    "\uE007": ["huh", "eyebrow"],
+
+    "\uE008": ["hmm", "raised_eyebrow"],
+    "\uE009": ["monocle"],
+    "\uE00A": ["shh", "shush"],
+    "\uE00B": ["confused1", "what"],
+    "\uE00C": ["woozy_melt"],
+    "\uE00D": ["melt"],
+    "\uE00E": ["sweat_smile"],
+    "\uE00F": ["sweat"],
+
+    "\uE010": ["blank", "no_mouth"],
+    "\uE011": ["neutral_face", "neutral"],
+    "\uE012": ["zipper", "zipper_mouth"],
+    "\uE013": ["confused"],
+    "\uE014": ["hand_over_mouth"],
+    "\uE015": ["damn", "grimacing"],
+    "\uE016": ["liar", "pinocchio"],
+    "\uE017": ["head_in_clouds"],
+
+    "\uE018": ["bandage_head", "injured"],
+    "\uE019": ["mask", "bovid", "lovid", "covid", "david"],
+    "\uE01A": ["sick", "fever"],
+    "\uE01B": ["nausea"],
+    "\uE01C": ["nauseous", "holding_back_vomit"],
+    "\uE01D": ["vomit"],
+    "\uE01E": ["rolling_eyes"],
+    "\uE01F": ["annoyed", "exhale"]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "width": 64,
+  "height": 40,
+  "blacklist": "\uE005",
+  "emojis": {
+    "\uE000": {"names":["skull_4", "skull_rotate"],"frames":8,"frametime":4},
+    "\uE001": {"names":["banana_rotata_x"],"frames":8,"frametime":3},
+    "\uE002": {"names":["banana_rotata_y"],"frames":8,"frametime":3},
+    "\uE003": {"names":["banana_rotata_z"],"frames":8,"frametime":3},
+    "\uE004": {"names":["tbh_squish"],"frames":8,"frametime":2},
+    "\uE005": {"names":["heart_rainbow", "rainbow_heart"],"frames":8,"frametime":3},
+    "\uE006": {"names":["slime_boing", "slime_bounce", "boing", "slime_gang"],"frames":6,"frametime":3},
+    "\uE007": {"names":["loading", "spinner", "throbber"],"frames":10,"frametime":2},
+    "\uE008": {"names":["loading_dark", "spinner_dark", "throbber_dark"],"frames":10,"frametime":2}
+  }
+}
