@@ -14,7 +14,7 @@
     "\uE009": ["guilty"],
     "\uE00A": ["tear_smile"],
     "\uE00B": ["tear_frown"],
-    "\uE00C": ["worry"],
+    "\uE00C": ["worry", "fearful"],
     "\uE00D": ["tear_worry"],
     "\uE00E": ["ashamed"],
     "\uE00F": ["distraught"],
