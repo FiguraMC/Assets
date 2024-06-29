@@ -43,7 +43,7 @@
     "figura.toast.avatar_data_clear": "Avatár adatok törölve!",
     "figura.toast.wardrobe_copy.success": "%s fájl(ok) másolva!",
     "figura.toast.panic_disabled": "Pánik mód kikapcsolva!",
-    "figura.toast.permission_change": "Az engedélyek módosítva erre:",
+    "figura.toast.permission_change": "Az engedélyek módosítva erre",
     "figura.backend.upload_success": "Avatár feltöltve!",
     "figura.permissions.value.sounds.tooltip": "A maximálisan megengedett hangok száma másodpercenként, amit ez az Avatár létre hozhat",
     "figura.permissions.value.complexity.tooltip": "Maximális komplexitás van engedélyezve ennél az Avatárnál\nA komplexitás így van kiszámolva: 1 oldal -> 1 komplexitás\nEz azt jelenti, hogy egy kocka 6-tal növeli a komplexitást\nElrejtett részek nem növelik a komplexitást",
