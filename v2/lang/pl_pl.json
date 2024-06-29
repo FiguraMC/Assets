@@ -34,7 +34,7 @@
     "figura.permissions.category.max.info": "Maksymalne uprawnienia\nWszysko jest włączone i wymaksowane\nAvatary mają dostęp do każdej funkcji\nIdealne dla bardzo skomplikowanych Avatarów",
     "figura.backend.delete_success": "Usunięto Avatara!",
     "figura.permissions.category.blocked": "Zablokowani",
-    "figura.permissions.value.init_inst": "Kod inicjalizacyjny",
+    "figura.permissions.value.init_inst": "Instrukcje inicjalizacyjne",
     "figura.backend.upload_error": "Błąd przy przesyłaniu Avatara",
     "figura.permissions.category.default": "Domyślne",
     "figura.backend.ping_size": "Ping jest zbyt duży",
@@ -589,5 +589,16 @@
     "figura.command.debug.error": "Nie udało się zapisać danych debugowania!",
     "figura.docs": "Komenda \"/figura docs\" umożliwia ci na dostęp do dokumentacji na temat wszystkiego, co związane z niestandardowymi typami i funkcjami dodawanymi do środowiska skryptowania \"Lua\" przez Figurę",
     "figura.docs.enum.play_states": "Lista poprawnych \"PlayStates\"\nUżyte w animacjach z Blockbench-a",
-    "figura.docs.enum.colors": "Lista niestandardowych kolorów\nUżyte wszędzie, gdzie można wstawić wartość heksadecymalną jako kolor"
+    "figura.docs.enum.colors": "Lista niestandardowych kolorów\nUżyte wszędzie, gdzie można wstawić wartość heksadecymalną jako kolor",
+    "figura.docs.animation.name": "Nazwa tej animacji",
+    "figura.docs.animation.pause": "Wstrzymaj odtwarzanie animacji",
+    "figura.docs.animation.stop": "Zatrzymaj animację",
+    "figura.docs.animation": "Animacja Blockbench",
+    "figura.docs.animation.get_name": "Zwraca nazwę tej animacji",
+    "figura.docs.blockstate.get_id": "Zwraca ten identyfikator BlockState",
+    "figura.docs.host.set_clipboard": "Ustawia tekst w schowku",
+    "figura.permissions.value.cancel_sounds.tooltip": "Zmienia możliwość zatrzymania jakiegokolwiek dźwięku przez wydarzenie ON_PLAY_SOUND",
+    "figura.permissions.value.buffers_count": "Ilość Buforów",
+    "figura.permissions.value.buffers_count.tooltip": "Maksymalna ilość buforów którą może stworzyć ten Avatar",
+    "figura.permissions.value.max_sockets_count.tooltip": "Maksymalna ilość otwartych gniazd sieciowych"
 }
