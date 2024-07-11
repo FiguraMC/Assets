@@ -29,7 +29,7 @@
     "\uE017": ["speech_bubble", "texting", "typing"],
 
     "\uE018": ["checkmark","white_check_mark","heavy_check_mark"],
-    "\uE019": ["x", "cross_mark"],
+    "\uE019": ["x", "cross_mark","extremely_loud_incorrect_buzzer"],
     "\uE01A": ["no_entry"],
     "\uE01B": ["circle"],
     "\uE01C": ["underage", "18+", "nsfw"],
