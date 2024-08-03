@@ -45,7 +45,7 @@
     "figura.permissions.disabled": "Deactivat",
     "figura.permissions.value.init_inst": "Instrucțiuni de inițializare",
     "figura.permissions.value.init_inst.tooltip": "Cantitatea de instrucțiuni cod permise în timpul fazei inițializare script",
-    "figura.permissions.value.world_tick_inst": "World Tick Instrucțiuni",
+    "figura.permissions.value.world_tick_inst": "World tick instrucțiuni",
     "figura.permissions.value.world_tick_inst.tooltip": "Cantitatea de instrucțiuni cod permise în timpul event-ului World Tick",
     "figura.permissions.value.tick_inst": "Tick Instrucțiuni",
     "figura.permissions.value.tick_inst.tooltip": "Cantitatea de instrucțiuni cod permise în timpul event-ului Tick",
