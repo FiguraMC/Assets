@@ -66,11 +66,11 @@
 
     "\uE038": ["palette", "art"],
     "\uE039": ["file_folder","folder"],
-    "\uE040": ["open_file_folder","open_folder"],
-    "\uE041": ["file_folder_paper", "folder_paper"],
-    "\uE042": ["open_file_folder_paper", "open_folder_paper"],
-    "\uE043": ["mag"],
-    "\uE044": ["mag_right"],
-    "\u0000": []
+    "\uE03A": ["open_file_folder","open_folder"],
+    "\uE03B": ["file_folder_paper", "folder_paper"],
+    "\uE03C": ["open_file_folder_paper", "open_folder_paper"],
+    "\uE03D": ["mag"],
+    "\uE03E": ["mag_right"],
+    "\u003F": ["headphones"]
   }
 }
