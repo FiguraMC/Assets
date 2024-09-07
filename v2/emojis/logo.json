@@ -19,7 +19,7 @@
     "\uE00C": ["intellij"],
     "\uE00D": ["visual_studio"],
     "\uE00E": ["eclipse_ide"],
-    "\u0000": [],
+    "\uE00F": ["github"],
 
     "\uE010": ["lua"],
     "\uE011": ["java"],
