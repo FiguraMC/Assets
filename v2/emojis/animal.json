@@ -47,7 +47,7 @@
     "\u0000": [],
 
     "\uE028": ["dragon"],
-    "\uE029": ["penguin", "linux"],
+    "\uE029": ["penguin", "linux", "tux"],
     "\uE02A": ["cat3", "gray_cat", "osu_cat", "plush_cat"],
     "\uE02B": ["giraffe_head", "giraffe1", "giraffe"],
     "\uE02C": ["giraffe_neck", "giraffe2"],
