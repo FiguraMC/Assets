@@ -71,6 +71,15 @@
     "\uE03C": ["open_file_folder_paper", "open_folder_paper"],
     "\uE03D": ["mag"],
     "\uE03E": ["mag_right"],
-    "\uE03F": ["headphones"]
+    "\uE03F": ["headphones"],
+
+    "\uE040": ["pin","pushpin"],
+    "\uE041": ["pin_round","round_pushpin"],
+    "\uE042": ["pin_location","location"],
+    "\uE043": ["books"],
+    "\uE044": ["book"],
+    "\uE045": ["newspaper"],
+    "\uE046": ["paper","page"],
+    "\uE047": ["image","photo","frame_photo"]
   }
 }
