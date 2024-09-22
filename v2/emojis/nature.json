@@ -23,7 +23,7 @@
     "\uE010": ["uranus", "planet_uranus"],
     "\uE011": ["neptune", "planet_neptune"],
     "\uE012": ["pluto", "planet_pluto"],
-    "\u0000": [],
+    "\uE013": ["rock","boulder"],
 
     "\uE014": ["brain"],
     "\uE015": ["anatomical_heart"],
