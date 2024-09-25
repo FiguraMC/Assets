@@ -15,6 +15,7 @@
     "\uE00A": ["enter_the_gungeon", "bulletkin"],
     "\uE00B": ["undertale"],
     "\uE00C": ["deltarune"],
-    "\uE00D": ["rain_world", "rainworld", "slugcat", "goober"]
+    "\uE00D": ["rain_world", "rainworld", "slugcat", "goober"],
+    "\uE00E": ["catppuccin"]
   }
 }
