@@ -759,5 +759,16 @@
     "figura.docs.animation.animation.is_playing": "Prüft ob diese Animation aktiv ist",
     "figura.docs.animation.animation.is_paused": "Prüft ob diese Animation pausiert ist",
     "figura.docs.animation.animation.is_stopped": "Prüft ob diese Animation gestoppt ist",
-    "figura.docs.animation.pause": "Pausiert das Abspielen der Animation"
+    "figura.docs.animation.pause": "Pausiert das Abspielen der Animation",
+    "figura.docs.animation.new_code": "Führt eine Zeichenkette zu einem bestimmten Zeitpunkt aus\nWenn zu dieser Zeit bereits Code läuft, wird dieser überschrieben",
+    "figura.docs.animation.set_blend": "Setzt den Keyframe-Überblendfaktor der Animation",
+    "figura.docs.animation.set_offset": "Setzt die Zeit, die für die Animation übersprungen werden soll\nDie Zeit wird bei jeder Wiederholung übersprungen",
+    "figura.docs.animation.set_start_delay": "Setzt die Zeit, die gewartet wird, bevor die Animation initialisiert wird\nBeachte, dass die Animation trotzdem als gestartet betrachtet wird",
+    "figura.docs.animation.get_loop_delay": "Gibt die Wiederholungsverzögerung der Animation zurück",
+    "figura.docs.animation.set_loop_delay": "Setzt die Zeit, die zwischen den Wiederholungen der Animation gewartet wird",
+    "figura.docs.animation.get_length": "Gibt die Länge der Animation zurück",
+    "figura.docs.animation.set_length": "Setzt die Länge der Animation in Sekunden",
+    "figura.docs.animation.get_blend": "Gibt den Keyframe-Überblendfaktor der Animation zurück",
+    "figura.docs.animation.get_offset": "Gibt den Zeitversatz der Animation zurück",
+    "figura.docs.animation.get_start_delay": "Gibt die Startverzögerung der Animation zurück"
 }
