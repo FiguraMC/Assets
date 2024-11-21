@@ -430,7 +430,7 @@
     "figura.config.iris_compatibility_fix.1.tooltip": "Don't apply any compatibility fix",
     "figura.config.misc": "Misc",
     "figura.gui.help.links": "Links",
-    "figura.config.self_nameplate.tooltip": "Toggles the rendering of your own nameplate",
+    "figura.config.self_nameplate.tooltip": "Toggles the rendering of your nameplate",
     "figura.config.list_nameplate.tooltip": "Set the level of nameplate customisations on the TABLIST",
     "figura.config.action_wheel_slots_indicator.tooltip": "Changes the position of this Page's Slots Indicator text, which is based on the slots shown in the action wheel\nIf the Selected Action Text is set to the same position as this, the action text will take priority when rendering",
     "figura.docs.animation.animation.is_stopped": "Checks if this animation is stopped",
