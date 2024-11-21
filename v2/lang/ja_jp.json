@@ -549,5 +549,6 @@
     "figura.command.debug.error": "デバッグデータの保存に失敗しました!",
     "figura.command.export_texture.error": "テクスチャの出力に失敗しました!",
     "figura.command.export_avatar.success": "アバターをFiguraディレクトリに出力しました",
-    "figura.command.export_avatar.error": "アバターの出力に失敗しました!"
+    "figura.command.export_avatar.error": "アバターの出力に失敗しました!",
+    "figura.permissions.value.buffer_size": "バッファサイズ"
 }
