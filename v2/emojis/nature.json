@@ -9,7 +9,7 @@
     "\uE005": ["moon_waning_quarter"],
     "\uE006": ["moon_waning_crescent"],
     "\uE007": ["moon_old"],
-    
+
     "\uE008": ["moon_new"],
     "\uE009": ["moon_full"],
     "\uE00A": ["crescent_moon"],
@@ -18,7 +18,7 @@
     "\uE00D": ["venus"],
     "\uE00E": ["earth"],
     "\uE00F": ["mars"],
-    
+
     "\uE010": ["jupiter"],
     "\uE011": ["saturn"],
     "\uE012": ["uranus"],
@@ -27,7 +27,7 @@
     "\u0000": [],
     "\u0000": [],
     "\u0000": [],
-    
+
     "\uE018": ["sparkles"],
     "\uE019": ["zap", "bolt", "electricity"],
     "\uE01A": ["poof"],
@@ -36,7 +36,7 @@
     "\uE01D": ["fire_blue"],
     "\uE01E": ["new_leaf"],
     "\uE01F": ["flower"],
-    
+
     "\uE020": ["brain"],
     "\uE021": ["heart_anatomical"],
     "\uE022": ["mushroom", "funga", "fly_agar", "amanita_muscaria"],

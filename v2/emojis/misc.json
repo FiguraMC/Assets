@@ -4,23 +4,23 @@
     "\uE000": ["pregnant_man"],
     "\uE001": ["pregnant_woman"],
     "\uE002": ["pregnant_person"],
-    
+
     "\uE003": ["man"],
     "\uE004": ["woman"],
     "\uE005": ["person"],
-    
+
     "\uE006": ["merman"],
     "\uE007": ["mermaid"],
     "\uE008": ["merfolk"],
-    
+
     "\uE009": ["tuxedo_man"],
     "\uE00A": ["tuxedo_woman"],
     "\uE00B": ["tuxedo_person"],
-    
+
     "\uE00C": ["shrugging_man"],
     "\uE00D": ["shrugging_woman"],
     "\uE00E": ["shrugging_person"],
-    
+
     "\uE00F": ["bowing_man", "man_bowing"],
     "\uE010": ["bowing_woman", "woman_bowing"],
     "\uE011": ["bowing_person", "person_bowing"]
