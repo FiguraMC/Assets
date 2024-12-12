@@ -1,0 +1,31 @@
+{
+  "blacklist": "",
+  "emojis": {
+    "\uE000": ["gasp"],
+    "\uE001": ["open_mouth"],
+    "\uE002": ["shocked"],
+    "\uE003": ["triumph"],
+    "\uE004": ["exploding_face"],
+    "\uE005": ["dizzy"],
+    "\uE006": ["scream"],
+    "\uE007": ["scream_cat"],
+
+    "\uE008": ["rolling_eyes"],
+    "\uE009": ["damn","grimacing"],
+    "\uE00A": ["angry"],
+    "\uE00B": ["rage"],
+    "\uE00C": ["screaming","symbols_over_mouth"],
+    "\uE00D": ["guilty"],
+    "\uE00E": ["sweat"],
+    "\uE00F": ["sweat_smile"],
+
+    "\uE010": ["head_in_clouds"],
+    "\uE011": ["annoyed", "exhale"],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": []
+  }
+}

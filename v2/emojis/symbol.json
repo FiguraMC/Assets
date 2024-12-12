@@ -1,5 +1,5 @@
 {
-  "blacklist": "\uE008\uE019\uE043",
+  "blacklist": "\uE00B\uE019\uE043",
   "emojis": {
     "\uE000": ["tm", "trademark"],
     "\uE001": ["infinity", "symbol_infinity"],
