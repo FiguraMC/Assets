@@ -5,7 +5,6 @@
     "\uE001": ["sublime_text"],
     "\uE002": ["notepad++"],
     "\uE003": ["notepad"],
-
     "\uE004": ["aseprite", "ase"],
     "\uE005": ["paint_dot_net", "paitn_dot_net", "pdn"],
     "\uE006": ["blockbench"],
@@ -15,25 +14,27 @@
     "\uE009": ["fabric"],
     "\uE00A": ["forge"],
     "\uE00B": ["modrinth"],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": [],
 
-    "\uE00C": ["intellij"],
-    "\uE00D": ["visual_studio"],
-    "\uE00E": ["eclipse_ide"],
-    "\uE00F": ["github"],
+    "\uE010": ["intellij"],
+    "\uE011": ["visual_studio"],
+    "\uE012": ["eclipse_ide"],
+    "\uE013": ["lua"],
+    "\uE014": ["java"],
+    "\uE015": ["c"],
+    "\uE016": ["python"],
+    "\uE017": ["github"],
 
-    "\uE010": ["lua"],
-    "\uE011": ["java"],
-    "\uE012": ["c"],
-    "\uE013": ["python"],
-
-    "\uE014": ["whatsapp"], 
-    "\uE015": ["mastodon"],
-    "\uE016": ["discord"],
-    "\uE017": ["twitter"],
-
-    "\uE018": ["mcdonalds"],
-    "\uE019": ["tacobell"],
-    "\uE01A": ["exploit"],
-    "\uE01B": ["neoforge"]
+    "\uE018": ["discord"], 
+    "\uE019": ["telegram"],
+    "\uE01A": ["whatsapp"],
+    "\uE01B": ["bluesky", "bsky"],
+    "\uE01C": ["mastodon"],
+    "\uE01D": ["twitter"],
+    "\uE01E": ["catppuccin"],
+    "\u0000": []
   }
 }
