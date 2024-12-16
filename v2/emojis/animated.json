@@ -11,6 +11,7 @@
     "\uE005": {"names":["heart_rainbow", "rainbow_heart"],"frames":6,"frametime":3},
     "\uE006": {"names":["slime_boing", "slime_bounce", "boing", "slime_gang"],"frames":6,"frametime":3},
     "\uE007": {"names":["loading", "spinner", "throbber"],"frames":10,"frametime":2},
-    "\uE008": {"names":["loading_dark", "spinner_dark", "throbber_dark"],"frames":10,"frametime":2}
+    "\uE008": {"names":["loading_dark", "spinner_dark", "throbber_dark"],"frames":10,"frametime":2},
+    "\uE009": {"names":["fox_tail", "tail_wag", "senko_tail"],"frames":10,"frametime":1}
   }
 }

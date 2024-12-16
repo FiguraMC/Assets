@@ -58,9 +58,9 @@
     "\uE030": ["palette", "art"],
     "\uE031": ["scroll"],
     "\uE032": ["plate"],
-    "\u0000": [],
-    "\u0000": [],
-    "\u0000": [],
+    "\uE033": ["image","photo","frame_photo"],
+    "\uE034": ["halo"],
+    "\uE035": ["golden_halo"],
     "\u0000": [],
     "\u0000": [],
 

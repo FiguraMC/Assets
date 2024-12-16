@@ -40,8 +40,8 @@
     "\uE020": ["brain"],
     "\uE021": ["heart_anatomical"],
     "\uE022": ["mushroom", "funga", "fly_agar", "amanita_muscaria"],
-    "\u0000": [],
-    "\u0000": [],
+    "\uE023": ["tree","🌳"],
+    "\uE024": ["leaf","leaf"],
     "\u0000": [],
     "\u0000": [],
     "\u0000": []
