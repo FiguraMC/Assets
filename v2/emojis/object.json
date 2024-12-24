@@ -71,6 +71,15 @@
     "\uE03C": ["file_folder","folder"],
     "\uE03D": ["open_file_folder","open_folder"],
     "\uE03E": ["file_folder_paper", "folder_paper"],
-    "\uE03F": ["open_file_folder_paper", "open_folder_paper"]
+    "\uE03F": ["open_file_folder_paper", "open_folder_paper"],
+    
+    "\uE040": ["pin"],
+    "\uE041": ["location"],
+    "\uE042": ["books"],
+    "\uE043": ["newspaper"],
+    "\uE044": ["paper","page"],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": []
   }
 }
