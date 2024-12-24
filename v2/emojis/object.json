@@ -61,8 +61,8 @@
     "\uE033": ["image","photo","frame_photo"],
     "\uE034": ["halo"],
     "\uE035": ["golden_halo"],
-    "\uE036": ["mag_left"],
-    "\uE037": ["mag_right"],
+    "\u0000": [],
+    "\u0000": [],
 
     "\uE038": ["lock", "closed_lock"],
     "\uE039": ["unlock", "open_lock"],
