@@ -1018,5 +1018,6 @@
     "figura.permissions.value.texture_size.tooltip": "Dimensione massima autorizzata per le nuove texture create con lo script\nLe texture precaricate dall'Avatar vengono ignorate",
     "figura.config.nameplate_render.2": "Vanilla + Osservare",
     "figura.config.nameplate_render.tooltip": "Cambia le condizioni per il render delle Targhette delle entità",
-    "figura.config.sound_badge.tooltip": "Aggiunge un piccolo indicatore nella Targhetta quando un Avatar riproduce un suono\nRichiede che i Distintivi siano attivi"
+    "figura.config.sound_badge.tooltip": "Aggiunge un piccolo indicatore nella Targhetta quando un Avatar riproduce un suono\nRichiede che i Distintivi siano attivi",
+    "figura.badges.no_permissions.cancel_sounds": "Impossibile cancellare il suono"
 }
