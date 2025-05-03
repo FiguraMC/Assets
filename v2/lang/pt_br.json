@@ -909,5 +909,22 @@
     "figura.docs.enum.string_encodings": "Lista de codificações de texto validos\nUsado em Buffers",
     "figura.docs.enum.fluid_raycast_types": "Lista de FluidRaycastTypes validos\nUsado para determinar como raycast.block manipula fluidos",
     "figura.docs.globals.data": "A instância global de DataAPI",
-    "figura.docs.globals.net": "A instância global de NetworkingAPI"
+    "figura.docs.globals.net": "A instância global de NetworkingAPI",
+    "figura.docs.animation.is_stopped": "Verifica se essa animação está parada",
+    "figura.docs.animation.is_holding": "Verifica se essa animação está parada no último quadro",
+    "figura.docs.client.get_max_memory": "Retorna a quantidade máxima de memória que o Minecraft tentará usar",
+    "figura.docs.client.get_allocated_memory": "Retorne a quantidade máxima de memória que o Minecraft pode usar",
+    "figura.docs.client.is_window_focused": "Retorna 'true' se o Minecraft está com a janela focada atualmente",
+    "figura.docs.client.generate_uuid": "Gera um UUID aleatório",
+    "figura.docs.client.uuid_to_int_array": "Converte uma string UUID em uma representação array int, retornando VarArgs de 4 ints",
+    "figura.docs.client.get_viewer": "Retorna a entidade do jogador do client que está rodando Minecraft",
+    "figura.config.inventory_scissor.tooltip": "Habilitar isso impede o jogador de renderizar fora da caixa de visualização de entidade do inventário.",
+    "figura.docs.avatar.get_max_buffer_size": "Adquire a quantidade máxima de bytes de buffer que esse avatar pode ter",
+    "figura.docs.client.get_java_version": "Retorna a versão atual do Java com a qual você está jogando Minecraft atualmente",
+    "figura.docs.client.get_used_memory": "Retorna o número de Bytes de memória que o Minecraft está usando atualmente",
+    "figura.docs.client.int_uuid_to_string": "Converte um int array UUID (como 4 argumentos separados) em sua representação de string hexadecimal",
+    "figura.docs.animation.is_playing": "Verifica se essa animação está sendo reproduzida",
+    "figura.docs.animation.is_paused": "Verifica se essa animação está pausada",
+    "figura.docs.client.compare_versions": "Compara duas versões se elas são menores que (-1), iguais (0) ou maior que (1)",
+    "figura.docs.client.get_camera_entity": "Retorna a entidade que a câmera está atualmente mirando, então retorna a entidade que você está espectando, incluindo você mesmo"
 }
