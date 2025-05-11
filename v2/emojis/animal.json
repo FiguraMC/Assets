@@ -33,7 +33,7 @@
     "\uE01A": ["cat_plush"],
     "\uE01B": ["wolf"],
     "\uE01C": ["fox", "foh"],
-    "\u0000": [],
+    "\uE01D": ["goat"],
     "\u0000": [],
     "\u0000": [],
 
@@ -53,6 +53,6 @@
     "\uE02C": ["seal"],
     "\uE02D": ["happy_frog", "smiling_frog"],
     "\uE02E": ["frog"],
-    "\u0000": []
+    "\uE02F": ["horse"]
   }
 }
