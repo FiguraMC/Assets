@@ -77,8 +77,8 @@
     "\uE041": ["male","male_sign"],
     "\uE042": ["transgender_sign","transgender_symbol"],
     "\uE043": ["star","gold_star"],
-    "\u0000": [],
-    "\u0000": [],
+    "\uE044": ["upvote", "lgtm", "figura_upvote"],
+    "\uE045": ["downvote", "figura_downvote"],
     "\u0000": [],
     "\u0000": []
   }
