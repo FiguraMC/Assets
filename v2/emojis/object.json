@@ -61,8 +61,8 @@
     "\uE033": ["image","photo","frame_photo"],
     "\uE034": ["halo"],
     "\uE035": ["golden_halo"],
-    "\u0000": [],
-    "\u0000": [],
+    "\uE036": ["briefcase"],
+    "\uE037": ["shield"],
 
     "\uE038": ["lock", "closed_lock"],
     "\uE039": ["unlock", "open_lock"],
@@ -72,12 +72,21 @@
     "\uE03D": ["open_file_folder","open_folder"],
     "\uE03E": ["file_folder_paper", "folder_paper"],
     "\uE03F": ["open_file_folder_paper", "open_folder_paper"],
-    
+
     "\uE040": ["pin"],
     "\uE041": ["location"],
     "\uE042": ["books"],
     "\uE043": ["newspaper"],
     "\uE044": ["paper","page"],
+    "\uE045": ["hourglass"],
+    "\uE046": ["alarm_clock"],
+    "\u0000": [],
+
+    "\uE048": ["envelope"],
+    "\uE049": ["postbox"],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": [],
     "\u0000": [],
     "\u0000": [],
     "\u0000": []
