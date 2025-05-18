@@ -33,8 +33,8 @@
     "\uE01A": ["cat_plush"],
     "\uE01B": ["wolf"],
     "\uE01C": ["fox", "foh"],
-    "\u0000": [],
-    "\u0000": [],
+    "\uE01D": ["goat"],
+    "\uE01E": ["pukeko"],
     "\u0000": [],
 
     "\uE020": ["mouse", "rat", "lab_rat"],
@@ -51,8 +51,8 @@
     "\uE02A": ["giraffe_head", "giraffe1", "giraffe"],
     "\uE02B": ["slime", "blob", "boinger"],
     "\uE02C": ["seal"],
-    "\u0000": [],
-    "\u0000": [],
-    "\u0000": []
+    "\uE02D": ["happy_frog", "smiling_frog"],
+    "\uE02E": ["frog"],
+    "\uE02F": ["horse"]
   }
 }
