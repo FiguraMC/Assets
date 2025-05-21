@@ -17,9 +17,9 @@
     "\uE00A": ["tuxedo_woman"],
     "\uE00B": ["tuxedo_person"],
 
-    "\uE00C": ["shrugging_man"],
-    "\uE00D": ["shrugging_woman"],
-    "\uE00E": ["shrugging_person"],
+    "\uE00C": ["shrugging_man","male_shrug"],
+    "\uE00D": ["shrugging_woman","female_shrug"],
+    "\uE00E": ["shrugging_person","shrug","person_shrugging"],
 
     "\uE00F": ["bowing_man", "man_bowing"],
     "\uE010": ["bowing_woman", "woman_bowing"],
