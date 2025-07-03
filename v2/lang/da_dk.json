@@ -40,5 +40,7 @@
     "figura.permissions.category.blocked": "Blokeret",
     "figura.permissions.category.default": "Standard",
     "figura.toast.new_version": "Ny version tilgængelig!",
-    "figura.permissions.category.high": "Høj"
+    "figura.permissions.category.high": "Høj",
+    "figura.tab": "  ",
+    "figura.permissions.value.init_inst": "Init instruktioner"
 }
