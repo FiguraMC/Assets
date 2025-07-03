@@ -1,0 +1,9 @@
+{
+  "blacklist": "",
+  "emojis": {
+    "\uE000": {"names":["mcb_fire"],"frames":32,"frametime":1},
+    "\uE001": {"names":["mcb_nether_portal"],"frames":32,"frametime":1},
+    "\uE002": {"names":["mcb_lava"],"frames":32,"frametime":4},
+    "\uE003": {"names":["mcb_water"],"frames":32,"frametime":4}
+  }
+}
