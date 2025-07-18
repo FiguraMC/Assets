@@ -1828,5 +1828,10 @@
     "figura.docs.socket.get_host": "Renvoie l'hôte où ce socket est connecté",
     "figura.docs.socket.is_connected": "Vérifie si ce socket est connecté",
     "figura.docs.socket.is_closed": "Vérifie si ce socket est fermé",
-    "figura.docs.socket.close": "Ferme ce socket"
+    "figura.docs.socket.close": "Ferme ce socket",
+    "figura.config.inventory_scissor.tooltip": "Activer cette option empêche le joueur de s'afficher en dehors de la zone de vue de l'entité dans l'inventaire.",
+    "figura.docs.animation.is_playing": "Vérifie si l'animation est en train d'être jouée",
+    "figura.docs.animation.is_stopped": "Vérifie si l'animation est arrêtée",
+    "figura.docs.entity.is_falling": "Renvoie vrai si l'entité a une vélocité Y négative et n'est pas sur le sol",
+    "figura.docs.animation.is_paused": "Vérifie si l'animation est en pause"
 }
