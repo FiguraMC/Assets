@@ -77,7 +77,7 @@
     "\uE041": ["location"],
     "\uE042": ["books"],
     "\uE043": ["newspaper"],
-    "\uE044": ["paper","page"],
+    "\uE044": ["paper","page","job_application"],
     "\uE045": ["hourglass"],
     "\uE046": ["alarm_clock"],
     "\u0000": [],
