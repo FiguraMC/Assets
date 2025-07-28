@@ -47,12 +47,15 @@
     "\uE027": ["skunk"],
 
     "\uE028": ["dragon"],
-    "\uE029": ["penguin", "linux"],
+    "\uE029": ["penguin", "linux", "tux"],
     "\uE02A": ["giraffe_head", "giraffe1", "giraffe"],
     "\uE02B": ["slime", "blob", "boinger"],
     "\uE02C": ["seal"],
     "\uE02D": ["happy_frog", "smiling_frog"],
     "\uE02E": ["frog"],
-    "\uE02F": ["horse"]
+    "\uE02F": ["horse"],
+
+    "\uE030": ["raccoon"],
+    "\uE031": ["red_panda", "wah"]
   }
 }
