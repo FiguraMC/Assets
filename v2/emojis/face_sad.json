@@ -25,7 +25,7 @@
     "\uE013": ["confounded"],
     "\uE014": ["green_face", "nausea"],
     "\uE015": ["vomit", "barf"],
-    "\u0000": [],
-    "\u0000": []
+    "\uE016": ["weep"],
+    "\uE017": ["despair"]
   }
 }
