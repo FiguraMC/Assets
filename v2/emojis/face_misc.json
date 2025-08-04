@@ -11,7 +11,7 @@
     "\uE007": ["ghost","boo"],
 
     "\uE008": ["imp"],
-    "\uE009": ["smiling_imp","devious"],
+    "\uE009": ["smiling_imp","imp_smiling"],
     "\uE00A": ["anonymous","anon"],
     "\uE00B": ["hot_face"],
     "\uE00C": ["salute","o7"],
@@ -31,11 +31,11 @@
     "\uE018": ["lying","long_nose","pinochio","usopp"],
     "\uE019": ["confused"],
     "\uE01A": ["melting"],
-    "\u0000": [],
-    "\u0000": [],
-    "\u0000": [],
-    "\u0000": [],
-    "\u0000": [],
+    "\uE01B": ["clueless"],
+    "\uE01C": ["man_face"],
+    "\uE01D": ["kek"],
+    "\uE01E": ["devious"],
+    "\uE01F": ["cringe"],
 
     "\uE020": ["mlg"],
     "\uE021": ["skill_issue"],
@@ -49,9 +49,9 @@
     "\uE028": ["confused_fella","scared_fella"],
     "\uE029": ["hey","smiley_man","aga"],
     "\uE030": ["smug", "smurg"],
-    "\u0000": [],
-    "\u0000": [],
-    "\u0000": [],
+    "\uE031": ["woah"],
+    "\uE032": ["anime_glasses","glowing_glasses","glasses_glowing","youfellformytrapcard"],
+    "\uE033": ["WHAT"],
     "\u0000": [],
     "\u0000": []
   }
