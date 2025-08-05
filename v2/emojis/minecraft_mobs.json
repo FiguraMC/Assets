@@ -44,7 +44,7 @@
     "\uE024": ["mcm_dolphin"],
     "\uE025": ["mcm_drowned"],
     "\uE026": ["mcm_enderman"],
-    "\uE027": ["mcm_fox"],
+    "\uE027": ["mcm_fox", "mcm_fop"],
 
     "\uE028": ["mcm_goat"],
     "\uE029": ["mcm_iron_golem"],
