@@ -433,7 +433,7 @@
     "\uE1AD": ["mci_guster_banner_pattern"],
     "\uE1AE": ["mci_angler_pottery_sherd"],
     "\uE1AF": ["mci_archer_pottery_sherd"],
-    "\uE1B0": ["mci_arms_up_pottery_sherd"],
+    "\uE1B0": ["mci_arms_up_pottery_sherd", "mci_pottery_sherd_arms_up"],
     "\uE1B1": ["mci_blade_pottery_sherd", "mci_pottery_sherd_blade"],
     "\uE1B2": ["mci_brewer_pottery_sherd", "mci_pottery_sherd_brewer"],
     "\uE1B3": ["mci_burn_pottery_sherd", "mci_pottery_sherd_burn"],
