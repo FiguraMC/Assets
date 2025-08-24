@@ -79,5 +79,20 @@
     "figura.backend.upload_too_many": "Máte příliš mnoho avatarů",
     "figura.toast.load_error": "Nepodařilo se načíst avatar!",
     "figura.backend.upload_error": "Chyba při nahrávání avatara",
-    "figura.backend.delete_error": "Chyba při mazání avatara"
+    "figura.backend.delete_error": "Chyba při mazání avatara",
+    "figura.permissions.category.low.info": "Nízké oprávnění\nVětšina funkcí jsou vypnuty\nIdeální pro velmi jednoduché avatary",
+    "figura.toast.reload": "Avatar znovu načten!",
+    "figura.toast.permission_change": "Oprávnění změněna na",
+    "figura.backend.upload_success": "Avatar nahrán!",
+    "figura.backend.ping_size": "Příliš velký ping",
+    "figura.toast.reload_all": "Všechny avatary byly znovu načteny!",
+    "figura.toast.clipboard": "Zkopírováno do schránky!",
+    "figura.backend.equip_error": "Nepodařilo se nastavit vybrané avatary",
+    "figura.toast.wardrobe_copy.error": "Nepodařilo se zkopírovat soubory!",
+    "figura.permissions.category.blocked.info": "Žádné oprávnění\nVšechny funkce Figury jsou vypnuty\nPokud není žádný avatar přítomný",
+    "figura.backend.connected": "Cloud připojen!",
+    "figura.backend.disconnected": "Cloud odpojen!",
+    "figura.backend.ping_rate": "Odesílání příliš mnoho pingů",
+    "figura.permissions.disabled": "Vypnuto",
+    "figura.permissions.enabled": "Zapnuto"
 }
