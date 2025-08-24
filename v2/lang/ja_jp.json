@@ -3,7 +3,7 @@
     "figura.toast.avatar_data_clear": "アバターのデータを削除しました!",
     "figura.backend.avatar_not_found": "アバターが見つかりません",
     "figura.toast.load_error": "アバターの読み込みに失敗しました!",
-    "figura.permissions.value.complexity.tooltip": "このアバターに許可される最大の複雑さ\n複雑さは次のように計算されます：1平面=1複雑さ\nつまり立方体の複雑さは6です\n隠された部分が複雑さを増やすことはありません",
+    "figura.permissions.value.complexity.tooltip": "このアバターに許可される最大の複雑さ\n複雑さは 1面 = 1複雑さ として計算されます\nつまり立方体の複雑さは6です\n隠された部分が複雑さを増やすことはありません",
     "figura.permissions.value.texture_size.tooltip": "スクリプトによって新しくつくられたテクスチャの最大サイズ\nアバターによって仮読み込みされているテクスチャは無視されます",
     "figura.popup_menu.permission_screen": "権限の管理画面で開く",
     "figura.badges.system.error": "このアバターのスクリプトにエラーがあります!",
@@ -549,5 +549,17 @@
     "figura.command.debug.error": "デバッグデータの保存に失敗しました!",
     "figura.command.export_texture.error": "テクスチャの出力に失敗しました!",
     "figura.command.export_avatar.success": "アバターをFiguraディレクトリに出力しました",
-    "figura.command.export_avatar.error": "アバターの出力に失敗しました!"
+    "figura.command.export_avatar.error": "アバターの出力に失敗しました!",
+    "figura.permissions.value.buffer_size": "バッファサイズ",
+    "figura.permissions.value.buffer_size.tooltip": "アバターが作成できるバッファの最大バイト数",
+    "figura.permissions.value.buffers_count": "バッファ数",
+    "figura.permissions.value.buffers_count.tooltip": "アバターが作成できるバッファの最大量",
+    "figura.permissions.value.networking": "ネットワーキング",
+    "figura.permissions.value.max_sockets_count": "最大ソケット",
+    "figura.permissions.value.cancel_sounds": "音を消す",
+    "figura.permissions.value.max_sockets_count.tooltip": "開かれたソケットの最大数",
+    "figura.emoji.heart": "ハート",
+    "figura.permissions.value.cancel_sounds.tooltip": "アバターがON_PLAY_SOUNDイベントを通じてサウンドの再生を止められるかを切り替えます",
+    "figura.permissions.value.networking.tooltip": "このアバターでネットワーク機能の使用を許可する",
+    "figura.badges.no_permissions.cancel_sounds": "音をキャンセルできません"
 }
