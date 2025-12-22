@@ -1,0 +1,35 @@
+{
+  "blacklist": "",
+  "emojis": {
+    "\uE000": ["christmas_tree"],
+    "\uE001": ["evergreen_tree"],
+    "\uE002": ["sled"],
+    "\uE003": ["socks"],
+    "\uE004": ["gamer_socks"],
+    "\uE005": ["gamer_socks2"],
+    "\uE006": ["christmas_stocking"],
+    "\uE007": {"names":["christmas_stocking_color"],"color":"219576"},
+    
+	 "\uE008": ["santa"],
+	 "\uE009": ["mx_claus"],
+	 "\uE00A": ["mrs_claus"],
+	 "\uE00B": ["christmas_hat_emoji"],
+	 "\uE00C": ["christmas_hat"],
+	 "\uE00D": ["bell"],
+	 
+	 "\uE010": ["gift"],
+	 "\uE011": ["gift_red"],
+	 "\uE012": ["gift_orange"],
+	 "\uE013": ["gift_yellow"],
+	 "\uE014": ["gift_green"],
+	 "\uE015": ["gift_blue"],
+	 "\uE016": ["gift_purple"],
+	 "\uE017": {"names":["gift_ribbon"],"color":"dd3858"},
+	 "\uE018": ["snowman"],
+	 "\uE019": ["snowman2"],
+	 "\uE01A": ["cloud"],
+	 "\uE01B": ["cloud_snow"],
+	 "\uE01C": ["snowflake"],
+	 "\uE01F": {"names":["gift_box"],"color":"ffe1b4"}
+  }
+}
