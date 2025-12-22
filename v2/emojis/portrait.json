@@ -24,10 +24,10 @@
     "\uE011":["@april","@kenopsia"],
     "\uE012":["@slyme"],
     "\uE013":["@jcera","@ferret"],
-    "\u0000":[],
-    "\u0000":[],
-    "\u0000":[],
-    "\u0000":[],
+    "\uE014":["@olyycraft","@olyy"],
+    "\uE015":["@anorcadork", "@dork_aga", "@orcadork"],
+    "\uE016":["@tsl"],
+    "\uE017":["@cts","@cute-the-sylveon","@cute_the_sylveon","@cutethesylveon"],
 
     "\uE018":["@gn","@gnamimates","@gn68","tophat","top_hat"],
     "\uE019":{"names":["@gn_band","@gn_ribbon"],"color":"99e65f"},
@@ -62,6 +62,15 @@
     "\uE033":["@spingot"],
     "\uE034":["@zoid", "@thezoidmaster"],
     "\uE035":{"names":["@tiv", "@tivwo"],"color":"ffffff"},
+    "\uE036":["@piqie", "@voyde"],
+    "\uE037":["@emmy", "@emmytheb", "@emmy7"],
+
+    "\uE038":["@lua_fish"],
+    "\u0000":[],
+    "\u0000":[],
+    "\u0000":[],
+    "\u0000":[],
+    "\u0000":[],
     "\u0000":[],
     "\u0000":[]
   }
