@@ -13,6 +13,8 @@
     "\uE007": {"names":["loading", "spinner", "throbber"],"frames":10,"frametime":2},
     "\uE008": {"names":["loading_dark", "spinner_dark", "throbber_dark"],"frames":10,"frametime":2},
     "\uE009": {"names":["fox_tail", "tail_wag", "senko_tail"],"frames":10,"frametime":1},
-    "\uE00A": {"names":["explode", "boom_animated", "explosion_animated"],"frames":15,"frametime":1}
+    "\uE00A": {"names":["explode", "boom_animated", "explosion_animated"],"frames":15,"frametime":1},
+    "\uE00B": {"names":["speech_bubble_animated", "texting_animated", "typing_animated"],"frames":13,"frametime":3},
+    "\uE00C": {"names":["texting_command", "typing_command", "command"],"frames":13,"frametime":3}
   }
 }
