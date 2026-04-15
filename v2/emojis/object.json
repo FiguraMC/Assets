@@ -86,9 +86,9 @@
     "\uE049": ["postbox"],
     "\uE04A": ["slot_machine", "slots"],
     "\uE04B": ["shirt"],
-    "\u0000": [],
-    "\u0000": [],
-    "\u0000": [],
-    "\u0000": []
+    "\uE04C": ["mic", "microphone"],
+    "\uE04D": ["muted_mic","microphone_muted"],
+    "\uE04E": ["speaking","microphone_speaking"],
+    "\uE04F": ["singing","microphone_singing"]
   }
 }
