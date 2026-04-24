@@ -15,7 +15,7 @@
     "\uE00A": ["axolotl"],
     "\uE00B": ["blowfish", "pufferfish", "guh"],
     "\uE00C": ["tropical_fish"],
-    "\uE00D": ["fish"],
+    "\uE00D": ["fish", "🐟"],
     "\uE00E": ["jelly", "jellyfish"],
     "\uE00F": ["seahorse"],
 
@@ -26,7 +26,7 @@
     "\uE014": ["snake", "snek"],
     "\uE015": ["bat"],
     "\uE016": ["bug"],
-    "\uE017": ["dove","dove_of_peace"],
+    "\uE017": ["dove", "dove_of_peace"],
 
     "\uE018": ["cat"],
     "\uE019": ["cat_black"],
@@ -34,7 +34,7 @@
     "\uE01B": ["wolf"],
     "\uE01C": ["fox", "foh"],
     "\uE01D": ["goat"],
-    "\uE01E": ["pukeko"],
+    "\uE01E": ["pukeko", "damn"],
     "\uE01F": ["worm"],
 
     "\uE020": ["mouse", "rat", "lab_rat"],
