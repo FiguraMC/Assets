@@ -79,7 +79,6 @@
     "\uE043": ["star","gold_star"],
     "\uE044": ["upvote", "lgtm", "figura_upvote"],
     "\uE045": ["downvote", "figura_downvote"],
-    "\uE046": ["lucky_7", "gamble"],
-    "\uE047": ["back"]
+    "\uE046": ["lucky_7", "gamble"]
   }
 }
