@@ -12,11 +12,11 @@ Figura members can add custom emojis to display in-game. This can be done locall
 
 ### 1) Creating a fork:
 
-_If you've already created a fork of Figura, skip to step 2._
+_If you've already created a fork of the assets, skip to step 2._
 
 Before you can do anything, you must first create a fork of this repository. Click on the button at the top that says "Fork", then click "Create fork" on the page you're directed to.
 
-With a fork of Figura, you'll be able to make changes and modifications.
+With a fork of the assets, you'll be able to make changes and modifications.
 
 ### 2) Adding your emoji(s):
 
