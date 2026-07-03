@@ -30,54 +30,56 @@ Navigate to [v2/textures/font/emojis](v2/textures/font/emojis) and find the cate
 
 Once you are in the texture, draw the emojis you'd like to be added. Be sure to keep track of these to make further steps easier.
 
-### 2) Adding your emoji(s):
+### 3) Adding your emoji(s):
 
-Figura has several emoji sets which can be viewed in-game by running the `/figura emojis` command.
+You'll need to modify 2 additional files to add your emoji:
 
-You'll need to modify 3 files to add your emoji:
-
-- [v2/textures](v2/textures/font/emojis) - Emoji spritesheet
 - [v2/emojis](v2/emojis) - Emoji aliases
 - [v2/font](v2/font) - Emoji charset
 
-After you've added your texture to the spritesheet, you'll want to add its aliases. Keep in mind the emoji you've added your emoji next to.
+#### Aliases:
 
-Let's say we've drawn a portrait emoji on the second to last column on the second row.
+After you've added your texture to the spritesheet, you'll want to add its aliases.
 
-```json
-{
-  "emojis": {
-    ...
+Let's say we've drawn a portrait emoji on the second to last column on the second row. [v2/emojis/portrait.json#L19](v2/emojis/portrait.json#L19)
+
+```jsonc
     "\uE00C":["@4p5"],
     "\uE00D":["@4p5_hair"],
     "\u0000":[], // <- Here
     "\u0000":[],
-
-	...
-  }
-}
 ```
 
-The emoji prior uses the unicode representation `\uE00D`. Counting up in base16, the next key would be `\uE00E`. Change the `\u0000` key to the key you've found and add your aliases.
+The emoji prior to ours uses the unicode character `\uE00D`. Counting up in [Hexadecimal](https://en.wikipedia.org/wiki/Hexadecimal), the next key would be `\uE00E`. Modify the `\u0000` to this new key, and add your aliases.
 
 ```json
+    "\uE00C":["@4p5"],
+    "\uE00D":["@4p5_hair"],
     "\uE00E":["@steve","@sigma"],
+    "\u0000":[],
 ```
 
-Using the same key, navigate to and modify the charset at the same position. Change the `\u0000` key to the key you've found and add your aliases.
+#### Charset:
 
-It helps to know where on the texture your emoji is located for this one.
+The last file you'll have to modify is the charset.
 
-```json
-{
-  "providers": [
-    {
-      "chars": [
-        ...
-        "\uE008\uE009\uE00A\uE00B\uE00C\uE00D\u0000\u0000",
-		... //                                ------ Here
-      ]
-    }
-  ]
-}
+Using the same unicode character you found earlier, add it to the charset grid at the same position. [v2/font/emoji_portrait.json#L9C46-L9C52](v2/font/emoji_portrait.json#L9C46-L9C52)
+
+```jsonc
+        "\uE000\uE001\uE002\uE003\uE004\uE005\uE006\u0000",
+        "\uE008\uE009\uE00A\uE00B\uE00C\uE00D\u0000\u0000", // <- Here
+        "\uE010\uE011\uE012\uE013\uE014\uE015\uE016\uE017",
+        "\uE018\uE019\uE01A\uE01B\uE01C\uE01D\uE01E\uE01F",
+        "\uE020\uE021\uE022\uE023\uE024\uE025\uE026\uE027",
+        "\uE028\uE029\uE02A\uE02B\uE02C\uE02D\uE02E\uE02F",
+        "\uE030\uE031\uE032\uE033\uE034\uE035\uE036\uE037",
+        "\uE038\uE039\uE03A\uE03B\uE03C\uE03D\uE03E\uE03F",
+        "\uE040\uE041\u0000\u0000\u0000\u0000\u0000\u0000"
+```
+
+The `\uE00E` is used to replace the `\u0000` here.
+
+```jsonc
+        "\uE008\uE009\uE00A\uE00B\uE00C\uE00D\uE00E\u0000",
+//                                              ^
 ```
