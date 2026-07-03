@@ -18,15 +18,27 @@ Before you can do anything, you must first create a fork of this repository. Cli
 
 With a fork of the assets, you'll be able to make changes and modifications.
 
+### 2) Creating your emoji(s):
+
+There are a few guidelines you must follow when creating an emoji:
+
+- **Existing emojis:** Do not move, remove, sort, or otherwise change the aliases, category, or unicode character of existing emojis.
+- **Color palette:** Figura emojis should follow the color palette [v2/palette/palette.png](v2/palette/palette.png). You do not need to follow the palette if you are making a portrait.
+- **Portraits:** In order to have your portrait added, you must be a Figura donator.
+
+Navigate to [v2/textures/font/emojis](v2/textures/font/emojis) and find the category you want to add emojis to. You can run `/figura emojis <category>` in-game to view all the emojis that currently exist.
+
+Once you are there, draw the emojis you'd like to be added. Be sure to keep track of these to make further steps easier.
+
 ### 2) Adding your emoji(s):
 
 Figura has several emoji sets which can be viewed in-game by running the `/figura emojis` command.
 
 You'll need to modify 3 files to add your emoji:
 
-- [v2/textures](v2/textures/) - Emoji spritesheet
-- [v2/emojis](v2/emojis/) - Emoji aliases
-- [v2/font](v2/font/) - Emoji charset
+- [v2/textures](v2/textures/font/emojis) - Emoji spritesheet
+- [v2/emojis](v2/emojis) - Emoji aliases
+- [v2/font](v2/font) - Emoji charset
 
 After you've added your texture to the spritesheet, you'll want to add its aliases. Keep in mind the emoji you've added your emoji next to.
 
