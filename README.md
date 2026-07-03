@@ -28,7 +28,7 @@ There are a few guidelines you must follow when creating an emoji:
 
 Navigate to [v2/textures/font/emojis](v2/textures/font/emojis) and find the category you want to add emojis to. You can run `/figura emojis <category>` in-game to view all the emojis that currently exist.
 
-Once you are there, draw the emojis you'd like to be added. Be sure to keep track of these to make further steps easier.
+Once you are in the texture, draw the emojis you'd like to be added. Be sure to keep track of these to make further steps easier.
 
 ### 2) Adding your emoji(s):
 
