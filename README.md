@@ -81,5 +81,5 @@ The `\uE00E` is used to replace the `\u0000` here.
 
 ```jsonc
 "\uE008\uE009\uE00A\uE00B\uE00C\uE00D\uE00E\u0000",
-//                                              ^
+//                                      ^
 ```
