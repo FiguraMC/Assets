@@ -83,3 +83,9 @@ The `\uE00E` is used to replace the `\u0000` here.
 "\uE008\uE009\uE00A\uE00B\uE00C\uE00D\uE00E\u0000",
 //                                      ^
 ```
+
+### 4) Creating a pull request:
+
+After you've saved your 3 files and uploaded your changes to Github, you'll want to create a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests). Click the "Contribute" button at the top of your repository to open a pull request.
+
+You will then want to contact a Figura artist through Discord. You can DM or ping them in the Discord mentioning your PR, but please be courteous of their time and only ping them if they are online. They will then give you further instructions and a potential ETA of when your emoji will be added.
