@@ -30,10 +30,10 @@
     "\uE017":["@cts","@cute-the-sylveon","@cute_the_sylveon","@cutethesylveon"],
 
     "\uE018":["@gn","@gnamimates","@gn68","tophat","top_hat"],
-    "\uE019":{"names":["@gn_band","@gn_ribbon"],"color":"99e65f"},
+    "\uE019":["@gn_portrait"],
     "\uE01A":["@toast"],
     "\uE01B":["@katt", "@kitkat"],
-    "\uE01C":["@auria"],
+    "\uE01C":["@auria","@auriafoxgirl","@awi"],
     "\uE01D":["@fox","@bit","@bitslayn"],
     "\uE01E":["@dogeiscut", "@doge", "@cut"],
     "\uE01F":["@wynter", "@wynterpuppygirl", "@wyntersnowstorm"],
@@ -56,7 +56,7 @@
     "\uE02E":["@subcon", "@soup", "@soupie"],
     "\uE02F":["@vicky","@davinky","@nv","@envy","@envicious"],
 
-    "\uE030":["@hatsune_miku"],
+    "\uE030":["@miku","@hatsune_miku"],
     "\uE031":["@yahiamice", "@yahamouse"],
     "\uE032":["@yahiamice_logo", "@yahamouse_logo"],
     "\uE033":["@spingot"],
@@ -67,7 +67,7 @@
 
     "\uE038":["@lua_fish"],
     "\uE039":["@myrddin"],
-    "\uE03A":["@tim"],
+    "\uE03A":["@tim","@the_goat"],
     "\uE03B":["@rabbid"],
     "\uE03C":["@thekillerbunny", "@tkb", "@tkbunny", "@bunny", "@solina", "@soli"],
     "\uE03D":["@pixiboot","@pixi"],
@@ -81,6 +81,15 @@
     "\uE044":["@jeungbeen","@jeung","@beenjeung"],
     "\uE045":["@gapaab","@gap"],
     "\uE046":["@just_ghasty","@ghasty","@draconite"],
+    "\uE047":["@teto","@kasane_teto"],
+	 
+    "\uE048":["@cer"],
+    "\u0000":[],
+    "\u0000":[],
+    "\u0000":[],
+    "\u0000":[],
+    "\u0000":[],
+    "\u0000":[],
     "\u0000":[]
   }
 }
