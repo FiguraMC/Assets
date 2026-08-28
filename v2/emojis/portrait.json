@@ -85,11 +85,12 @@
 
     "\uE048":["@bobisbilly","@billyisbob","@bobis","@billyis"],
     "\uE049":["@releayed", "@relish", "@circle"],
-    "\uE04A":["@garmadonprime", "@garma", "@garga", "@hater", "@oscar"],
-    "\uE04B":["@ever", "@ever_4", "@stupid"],
-    "\u0000":[],
-    "\u0000":[],
-    "\u0000":[],
+    "\uE04A":["@teto","@kasane_teto"],
+	 
+    "\uE04B":["@cer"],
+    "\uE04C":["@neru","@akita_neru"],
+    "\uE04D":["@garmadonprime", "@garma", "@garga", "@hater", "@oscar"],
+    "\uE04E":["@ever", "@ever_4", "@stupid"],
     "\u0000":[]
   }
 }

@@ -44,6 +44,15 @@
     "\uE024": ["leaf"],
     "\uE025": ["rock", "boulder"],
     "\uE026": ["wilted_rose", "wilted_flower"],
+    "\u0000": [],
+	 
+    "\uE028": ["blackhole"],
+	 "\uE029":{"names":["blackhole_color"],"color":"00ff00"},
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": [],
     "\u0000": []
   }
 }
