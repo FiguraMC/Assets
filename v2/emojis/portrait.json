@@ -19,7 +19,6 @@
     "\u0000":[],
     "\u0000":[],
 
-
     "\uE010":["@jonkkusa"],
     "\uE011":["@april","@kenopsia"],
     "\uE012":["@slyme"],
@@ -82,15 +81,23 @@
     "\uE045":["@gapaab","@gap"],
     "\uE046":["@just_ghasty","@ghasty","@draconite"],
     "\uE047":["@reddevelop","@raga","@bluedevelop"],
-	 
+
     "\uE048":["@bobisbilly","@billyisbob","@bobis","@isbilly"],
     "\uE049":["@releayed", "@relish", "@circle"],
     "\uE04A":["@teto","@kasane_teto"],
-	 
     "\uE04B":["@cer"],
     "\uE04C":["@neru","@akita_neru"],
     "\uE04D":["@coolkiller"],
     "\uE04E":["@garmadonprime", "@garma", "@garga", "@hater", "@oscar"],
-    "\uE04F":["@ever", "@ever_4", "@stupid"]
+    "\uE04F":["@ever", "@ever_4", "@stupid"],
+
+    "\uE050":["@roxi"],
+    "\uE051":["@dewsmith", "@dew"],
+    "\u0000":[],
+    "\u0000":[],
+    "\u0000":[],
+    "\u0000":[],
+    "\u0000":[],
+    "\u0000":[]
   }
 }
