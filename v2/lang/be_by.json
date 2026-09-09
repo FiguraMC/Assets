@@ -1,0 +1,14 @@
+{
+    "figura.backend.warning": "Папярэджанне",
+    "figura.toast.wardrobe_copy.error": "Не ўдалося скапіраваць файлы!",
+    "figura.permissions.infinity": "БЯСКОНЦАСЦЬ",
+    "figura.permissions.category.max": "Максімум",
+    "figura.backend.user_not_found": "Карыстальнік не знойдзен",
+    "figura.backend.delete_error": "Памылка пры выдаленні Аватара",
+    "figura.toast.reload": "Аватар перезагружаны!",
+    "figura.toast.avatar_wizard.success": "Аватар створаны!",
+    "figura.toast.reload_all": "УСЕ Аватары перазагружаны!",
+    "figura.permissions.category.max.info": "Максімальныя дазволы\nУсё ўключана і на максімуме\nАватары маюць усе рэсурсы\nІдэальна падыходзіць для вельмі складаных Аватараў",
+    "figura.permissions.category.blocked": "Заблакіравана",
+    "figura.permissions.category.default": "Па змаўчанні"
+}

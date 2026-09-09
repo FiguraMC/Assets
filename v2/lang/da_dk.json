@@ -40,5 +40,20 @@
     "figura.permissions.category.blocked": "Blokeret",
     "figura.permissions.category.default": "Standard",
     "figura.toast.new_version": "Ny version tilgængelig!",
-    "figura.permissions.category.high": "Høj"
+    "figura.permissions.category.high": "Høj",
+    "figura.tab": "  ",
+    "figura.permissions.value.init_inst": "Init instruktioner",
+    "figura.permissions.value.complexity": "Maks Kompleksitet",
+    "figura.permissions.value.particles": "Maks Partikler",
+    "figura.permissions.value.sounds": "Maks Lyde",
+    "figura.badges.pride.asexual": "Figura Asexuel Mark!",
+    "figura.badges.pride.lesbian": "Figura Lesbisk Mark!",
+    "figura.badges.special.dev": "Figura Udvikler!",
+    "figura.badges.special.discord_staff": "Officiel Figura Discord Personale!",
+    "figura.badges.special.translator": "Figura Mod Translatør!",
+    "figura.badges.special.texture_artist": "Figura Tekstur Kunstner!",
+    "figura.permissions.value.volume": "Avatar Lydstyrke",
+    "figura.badges.system.sound": "Denne Avatar spiller en lyd!",
+    "figura.badges.pride.bisexual": "Figura Bisexuel Mark!",
+    "figura.badges.pride.pride": "Figura Pride Mark!"
 }
