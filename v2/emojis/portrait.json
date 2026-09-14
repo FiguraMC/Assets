@@ -68,7 +68,7 @@
     "\uE039":["@myrddin"],
     "\uE03A":["@tim"],
     "\uE03B":["@rabbid"],
-    "\uE03C":["@thekillerbunny", "@tkb", "@tkbunny", "@bunny", "@solina", "@soli"],
+    "\uE03C":["@thekillerbunny", "@tkb", "@tkbunny", "@bunny", "@solina", "@soli", "@beangalsolina"],
     "\uE03D":["@pixiboot","@pixi"],
     "\uE03E":["@blu", "@blubert"],
     "\uE03F":["@tombtech", "@tombstone"],
@@ -95,8 +95,17 @@
     "\uE051":["@dewsmith", "@dew"],
     "\uE052":["@hexose","@hex","@ose"],
     "\uE053":["@backslash", "@katslash"],
-    "\u0000":[],
-    "\u0000":[],
+    "\uE054":["@nnotamod", "@nam"],
+    "\uE055":["@shiji", "@shortji", "@commander"],
+    "\uE056":["@cosmiccat", "@cosmic_the_cat", "@cosmiccatt"],
+    "\uE057":["@rockalover", "@simon255"],
+
+    "\uE058":["@iris", "@kitsune", "@irivalis"],
+    "\uE059":["@super04","@superpowers04"],
+    "\uE05A":["@tameno", "@tam", "@tamtam"],
+    "\uE05B":["@catowotum", "@cato"],
+    "\uE05C":["@amazingdefender", "@defender", "@dfeedner"],
+    "\uE05D":["@local_goofy_a", "@goofy", "@local"],
     "\u0000":[],
     "\u0000":[]
   }
