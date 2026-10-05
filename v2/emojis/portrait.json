@@ -107,6 +107,15 @@
     "\uE05C":["@amazingdefender", "@defender"],
     "\uE05D":["@local_goofy_a", "@goofy", "@local"],
     "\uE05E":["@undead", "@undeadreturns"],
-    "\uE05F":["@kai"]
+    "\uE05F":["@kai"],
+
+    "\uE060": ["@bobby"],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": []
   }
 }
