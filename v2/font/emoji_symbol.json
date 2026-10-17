@@ -15,6 +15,12 @@
         "\uE038\uE039\uE03A\uE03B\uE03C\uE03D\uE03E\uE03F",
         "\uE040\uE041\uE042\uE043\uE044\uE045\uE046\u0000"
       ]
-    }
+    },
+	 {
+		"type": "space",
+		"advances": {
+			"\uE047": -8
+		}
+	 }
   ]
 }
