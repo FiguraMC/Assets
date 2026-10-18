@@ -95,9 +95,19 @@
     "\uE051": ["mcm_ender_dragon", "mcm_dragon", "mcb_dragon_head"],
     "\uE052": ["mcm_wither"],
     "\uE053": ["mcm_player", "mcm_steve", "mcb_player_head"],
-    "\u0000": [],
+    "\uE054": ["mcm_nautilus"],
+    "\uE055": ["mcm_copper_golem", "mcb_copper_golem_statue", "mcb_waxed_copper_golem_statue"],
+    "\uE056": ["mcm_copper_golem_exposed", "mcb_exposed_copper_golem_statue", "mcb_waxed_exposed_copper_golem_statue"],
+    "\uE057": ["mcm_copper_golem_weathered", "mcb_weathered_copper_golem_statue", "mcb_waxed_weathered_copper_golem_statue"],
+
+    "\uE058": ["mcm_copper_golem_oxidized", "mcb_oxidized_copper_golem_statue", "mcb_waxed_oxidized_copper_golem_statue"],
+    "\uE059": ["mcm_camel_husk"],
+    "\uE05A": ["mcm_parched"],
+    "\uE05B": ["mcm_zombie_nautilus"],
+    "\uE05C": ["mcm_zombie_nautilus_coral"],
     "\u0000": [],
     "\u0000": [],
     "\u0000": []
+    
   }
 }
