@@ -4,7 +4,7 @@
     "figura.ellipsis": "…",
     "figura.backend.connected": "Connesso al Cloud!",
     "figura.backend.disconnected": "Disconesso dal Cloud!",
-    "figura.backend.ping_rate": "Numero di Ping eccessivo",
+    "figura.backend.ping_rate": "Stai inviando troppi ping",
     "figura.backend.ping_size": "Ping troppo elevato",
     "figura.backend.upload_success": "Avatar Caricato!",
     "figura.backend.upload_error": "Errore nel caricamento dell'Avatar",
@@ -1012,11 +1012,13 @@
     "figura.gui.help.lua_manual": "Manuale Lua",
     "figura.permissions.value.bb_animations.tooltip": "Complessità Animazione massima autorizzata per questo Avatar\nLa complessità è calcolata di 1 per canale di animazione utilizzato\nLa complessità viene calcolata solo per le Animazioni riprodotte",
     "figura.permissions.value.vanilla_model_edit.tooltip": "Attiva/Disattiva se l'Avatar può controllare il cambiamento delle cose del modello vanilla, come la visibilità del giocatore vanilla, armatura, elytra, fra le altre cose",
-    "figura.permissions.category.default.info": "Autorizzazioni moderate\nLa maggior parte delle funzioni sono attive, ma le più importanti sono disattive\nÈ possibile modificare i modelli vanilla ma non le Targhette\nIdeale per Avatar generali e pubblici",
-    "figura.permissions.value.nameplate_edit.tooltip": "Attiva/disattiva se l'Avatar può cambiare la sua Targhetta, permettendo nomi completamente personalizzati, posizionamento, e persino disattivare il suo rendering",
+    "figura.permissions.category.default.info": "Autorizzazioni moderate\nLa maggior parte delle funzioni sono attive,\nma le più importanti sono disattive\nÈ possibile modificare i modelli vanilla ma non le Targhette dei giocatori\nIdeale per Avatar generali e pubblici",
+    "figura.permissions.value.nameplate_edit.tooltip": "Attiva/disattiva se l'Avatar può cambiare la Targhetta nome, permettendo nomi completamente personalizzati, posizionamento, e persino disattivare il suo rendering",
     "figura.permissions.value.animation_inst.tooltip": "Quantità di istruzioni del codice autorizzate durante il codice delle Animazioni, o dati del codice dei keyframe",
     "figura.permissions.value.texture_size.tooltip": "Dimensione massima autorizzata per le nuove texture create con lo script\nLe texture precaricate dall'Avatar vengono ignorate",
     "figura.config.nameplate_render.2": "Vanilla + Osservare",
     "figura.config.nameplate_render.tooltip": "Cambia le condizioni per il render delle Targhette delle entità",
-    "figura.config.sound_badge.tooltip": "Aggiunge un piccolo indicatore nella Targhetta quando un Avatar riproduce un suono\nRichiede che i Distintivi siano attivi"
+    "figura.config.sound_badge.tooltip": "Aggiunge un piccolo indicatore nella Targhetta quando un Avatar riproduce un suono\nRichiede che i Distintivi siano attivi",
+    "figura.badges.no_permissions.cancel_sounds": "Impossibile cancellare il suono",
+    "figura.permissions.value.cancel_sounds.tooltip": "Cambia se l'Avatar può fermare ogni suono con l'evento ON_PLAY_SOUND"
 }

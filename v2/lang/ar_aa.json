@@ -1,0 +1,12 @@
+{
+    "figura.backend.connected": "تم الأتصال بالخادم!",
+    "figura.backend.disconnected": "حدث خطأ أثناء الأتصال بالخادم!",
+    "figura.backend.user_not_found": "يتعذر أيجاد المستخدم",
+    "figura.backend.avatar_not_found": "يتعذر أيجاد الشخصية",
+    "figura.backend.upload_success": "تم رفع الشخصية!",
+    "figura.backend.upload_too_big": "أسف, الشخصية كبيره جداً",
+    "figura.backend.upload_too_many": "لديك شخصيات أكثر من المتحمل",
+    "figura.backend.upload_error": "حدُ خطأ أثناء رفع الشخصية",
+    "figura.backend.delete_success": "تم حذف الشخصية!",
+    "figura.backend.delete_error": "حدث خطأ أثناء حذف الشخصية"
+}

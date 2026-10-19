@@ -116,7 +116,7 @@
     "figura.badges.pride.transgender": "Semn Figura Transgender!",
     "figura.badges.special.dev": "Developer Figura!",
     "figura.badges.special.discord_staff": "Personal Discord Figura Official!",
-    "figura.badges.special.contest": "Câștigător concurs Figura! JB!",
+    "figura.badges.special.contest": "Câștigător concurs Figura! GG!",
     "figura.badges.special.donator": "Mulțumim pentru susținerea Figura mod!",
     "figura.badges.special.translator": "Figura mod Traducător!",
     "figura.badges.special.texture_artist": "Figura mod Artist Texture!",
@@ -1592,5 +1592,12 @@
     "figura.docs.client.get_camera_entity": "Returnează entitatea la care camera vizează în prezent, adică entitatea pe care o supravegheați în acest moment, inclusiv propria entitate",
     "figura.emoji.face_happy": "Bucuros (Happy)",
     "figura.docs.text_task.get_opacity": "Obține opacitatea acestui text",
-    "figura.config.local_assets.tooltip": "Setează dacă Figura descarcă fișiere de pe backend, sau de pe un folder local.\nAcest folder este numit \"local_cache\""
+    "figura.config.local_assets.tooltip": "Setează dacă Figura descarcă fișiere de pe backend, sau de pe un folder local.\nAcest folder este numit \"local_cache\"",
+    "figura.permissions.value.buffer_size": "Mărimea buffer-ului",
+    "figura.permissions.value.buffer_size.tooltip": "Mărimea maximă a buffer-ului de bytes ce poate fi creat de Avatar",
+    "figura.permissions.value.buffers_count": "Număr de buffer-uri",
+    "figura.permissions.value.buffers_count.tooltip": "Numărul maxim de buffere ce poate fi creat de acest Avatar",
+    "figura.permissions.value.networking": "Networking",
+    "figura.permissions.value.networking.tooltip": "Permite acestui avatar să folosească functiile de networking",
+    "figura.badges.no_permissions.cancel_sounds": "Nu s-a putut anula un sunet"
 }

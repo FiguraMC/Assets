@@ -1784,5 +1784,6 @@
     "figura.docs.socket.is_closed": "Controleert of deze socket gesloten is",
     "figura.docs.socket.close": "Sluit deze socket",
     "figura.network.header_disabled": "De %s-header is uitgeschakeld en wordt overgeslagen!",
-    "figura.docs.player.get_cooldown_percent": "Retourneert of een gegeven ItemStack een actieve cooldown heeft als een percentage van 0,0 tot 1,0\nAls er geen is, retourneert het 0,0\nNeemt een stapel met twee parameters, en delta, delta compenseert het aantal ticks van de cooldown ermee, gebruikt voor soepeler."
+    "figura.docs.player.get_cooldown_percent": "Retourneert of een gegeven ItemStack een actieve cooldown heeft als een percentage van 0,0 tot 1,0\nAls er geen is, retourneert het 0,0\nNeemt een stapel met twee parameters, en delta, delta compenseert het aantal ticks van de cooldown ermee, gebruikt voor soepeler.",
+    "figura.permissions.category.max": "Maximaal"
 }
