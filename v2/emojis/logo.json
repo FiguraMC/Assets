@@ -44,6 +44,15 @@
     "\uE024": ["mastodon"],
     "\uE025": ["twitter"],
     "\uE026": ["catppuccin"],
-    "\uE027": ["steam"]
+    "\uE027": ["steam"],
+    
+    "\uE028": ["firefox"],
+    "\uE029": ["chromium"],
+    "\uE02A": ["chrome"],
+    "\uE02B": ["edge"],
+    "\uE02C": ["internet_explorer","ie"],
+    "\u0000": [],
+    "\u0000": [],
+    "\u0000": []
   }
 }
